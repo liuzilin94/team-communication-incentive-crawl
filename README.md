@@ -73,7 +73,7 @@
   "source": "维基文库·四库全书本",
   "author": "宋 岳珂 撰",
   "total_characters": 123160,
-  "crawled_by": "刘耙琳",
+  "crawled_by": "刘耔琳",
   "crawl_date": "2026-09-11",
   "notes": []
 }
