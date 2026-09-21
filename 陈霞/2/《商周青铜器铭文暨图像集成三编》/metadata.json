@@ -1,0 +1,17 @@
+{
+  "title": "商周青铜器铭文暨图像集成三编",
+  "volume_count": 4,
+  "character_count": 1035364,
+  "text_files": [
+    "正文.txt"
+  ],
+  "pdf_files": [
+    "电子书_第01册.pdf",
+    "电子书_第02册.pdf",
+    "电子书_第03册.pdf",
+    "电子书_第04册.pdf"
+  ],
+  "source": "用户提供的四册OCR PDF及对应TXT",
+  "naming_rule": "PDF按两位数册次命名；四册TXT合并为正文.txt",
+  "ocr_note": "OCR文本未进行逐字校勘，需结合PDF复核"
+}
