@@ -1,0 +1,66 @@
+{
+  "title": "民国九龙县汉藏彝民杂居交往",
+  "source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\最终\\陈霞2\\《民国九龙县汉藏彝民杂居交往》",
+  "processed_at": "2026-09-21T01:01:40",
+  "volume_count": 11,
+  "character_count": 20280,
+  "text_files": [
+    {
+      "file": "卷首.txt",
+      "chars": 53
+    },
+    {
+      "file": "卷112.txt",
+      "chars": 1220
+    },
+    {
+      "file": "卷113.txt",
+      "chars": 1869
+    },
+    {
+      "file": "卷114.txt",
+      "chars": 2014
+    },
+    {
+      "file": "卷115.txt",
+      "chars": 1985
+    },
+    {
+      "file": "卷116.txt",
+      "chars": 1867
+    },
+    {
+      "file": "卷117.txt",
+      "chars": 1818
+    },
+    {
+      "file": "卷118.txt",
+      "chars": 1841
+    },
+    {
+      "file": "卷119.txt",
+      "chars": 1710
+    },
+    {
+      "file": "卷120.txt",
+      "chars": 1211
+    },
+    {
+      "file": "卷156.txt",
+      "chars": 4692
+    }
+  ],
+  "sources": [
+    {
+      "file": "民国九龙县汉藏彝民杂居交往.pdf",
+      "format": "pdf",
+      "bytes": 1682281
+    }
+  ],
+  "extraction_notes": [],
+  "ocr_note": "扫描页和图片使用自动 OCR；古籍异体字、竖排、模糊版面可能存在识别误差。",
+  "pdf_files": [
+    "电子书.pdf"
+  ],
+  "pdf_naming_rule": "单册：电子书.pdf；多册：电子书_第NN册.pdf"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "海藏纪行",
+  "source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\最终\\陈霞2\\《海藏纪行》",
+  "processed_at": "2026-09-21T04:58:59",
+  "volume_count": 1,
+  "character_count": 8314,
+  "text_files": [
+    {
+      "file": "正文.txt",
+      "chars": 8314
+    }
+  ],
+  "sources": [
+    {
+      "file": "海藏纪行：自湟源至结古（中华民国八年闰七月廿九日）（待续）.pdf",
+      "format": "pdf",
+      "bytes": 2763913
+    }
+  ],
+  "extraction_notes": [],
+  "ocr_note": "扫描页和图片使用自动 OCR；古籍异体字、竖排、模糊版面可能存在识别误差。",
+  "pdf_files": [
+    "电子书.pdf"
+  ],
+  "pdf_naming_rule": "单册：电子书.pdf；多册：电子书_第NN册.pdf"
+}

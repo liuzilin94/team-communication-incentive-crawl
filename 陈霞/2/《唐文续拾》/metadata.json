@@ -1,0 +1,114 @@
+{
+  "title": "唐文续拾",
+  "source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\最终\\陈霞2\\《唐文续拾》",
+  "processed_at": "2026-09-21T09:21:43",
+  "volume_count": 23,
+  "character_count": 118170,
+  "text_files": [
+    {
+      "file": "卷首.txt",
+      "chars": 3743
+    },
+    {
+      "file": "卷一.txt",
+      "chars": 4971
+    },
+    {
+      "file": "卷九.txt",
+      "chars": 9308
+    },
+    {
+      "file": "卷二.txt",
+      "chars": 3950
+    },
+    {
+      "file": "卷三.txt",
+      "chars": 6491
+    },
+    {
+      "file": "卷四.txt",
+      "chars": 6237
+    },
+    {
+      "file": "卷五.txt",
+      "chars": 8785
+    },
+    {
+      "file": "卷六.txt",
+      "chars": 6861
+    },
+    {
+      "file": "卷七.txt",
+      "chars": 8048
+    },
+    {
+      "file": "卷八.txt",
+      "chars": 8019
+    },
+    {
+      "file": "卷十.txt",
+      "chars": 5816
+    },
+    {
+      "file": "卷10.txt",
+      "chars": 668
+    },
+    {
+      "file": "卷一一.txt",
+      "chars": 2311
+    },
+    {
+      "file": "卷十一.txt",
+      "chars": 1742
+    },
+    {
+      "file": "卷11.txt",
+      "chars": 480
+    },
+    {
+      "file": "卷一二.txt",
+      "chars": 4763
+    },
+    {
+      "file": "卷十二.txt",
+      "chars": 1447
+    },
+    {
+      "file": "卷一三.txt",
+      "chars": 6759
+    },
+    {
+      "file": "卷一四.txt",
+      "chars": 8354
+    },
+    {
+      "file": "卷十四.txt",
+      "chars": 762
+    },
+    {
+      "file": "卷一五.txt",
+      "chars": 5995
+    },
+    {
+      "file": "卷十五.txt",
+      "chars": 774
+    },
+    {
+      "file": "卷一六.txt",
+      "chars": 11886
+    }
+  ],
+  "sources": [
+    {
+      "file": "唐文续拾_卷一至十六_中华书局1983影印版.pdf",
+      "format": "pdf",
+      "bytes": 13748063
+    }
+  ],
+  "extraction_notes": [],
+  "ocr_note": "扫描页和图片使用自动 OCR；古籍异体字、竖排、模糊版面可能存在识别误差。",
+  "pdf_files": [
+    "电子书.pdf"
+  ],
+  "pdf_naming_rule": "单册：电子书.pdf；多册：电子书_第NN册.pdf"
+}

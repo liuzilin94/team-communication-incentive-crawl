@@ -1,0 +1,26 @@
+{
+  "title": "山西朔州市后寨墓地东周时期墓葬发掘简报",
+  "source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\最终\\陈霞2\\《山西朔州市后寨墓地东周时期墓葬发掘简报》",
+  "processed_at": "2026-09-21T01:01:06",
+  "volume_count": 1,
+  "character_count": 20752,
+  "text_files": [
+    {
+      "file": "正文.txt",
+      "chars": 20752
+    }
+  ],
+  "sources": [
+    {
+      "file": "山西朔州后寨秦汉墓葬发掘简报.pdf",
+      "format": "pdf",
+      "bytes": 3271692
+    }
+  ],
+  "extraction_notes": [],
+  "ocr_note": "扫描页和图片使用自动 OCR；古籍异体字、竖排、模糊版面可能存在识别误差。",
+  "pdf_files": [
+    "电子书.pdf"
+  ],
+  "pdf_naming_rule": "单册：电子书.pdf；多册：电子书_第NN册.pdf"
+}

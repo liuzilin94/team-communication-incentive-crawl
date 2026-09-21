@@ -1,0 +1,7 @@
+目录结构：
+《岭西兵备道题名记（嘉靖九年）》/
+├── README.md
+├── 电子pdf.md
+├── metadata.json
+├── 目录结构说明.txt
+└── 正文.txt

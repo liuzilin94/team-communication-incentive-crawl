@@ -1,0 +1,70 @@
+{
+  "title": "甓余杂集",
+  "source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\最终\\陈霞2\\《甓余杂集》",
+  "processed_at": "2026-09-21T03:22:56",
+  "volume_count": 12,
+  "character_count": 245314,
+  "text_files": [
+    {
+      "file": "卷首.txt",
+      "chars": 85
+    },
+    {
+      "file": "卷一.txt",
+      "chars": 8379
+    },
+    {
+      "file": "卷二.txt",
+      "chars": 24064
+    },
+    {
+      "file": "卷三.txt",
+      "chars": 26290
+    },
+    {
+      "file": "卷四.txt",
+      "chars": 26650
+    },
+    {
+      "file": "卷五.txt",
+      "chars": 29892
+    },
+    {
+      "file": "卷六.txt",
+      "chars": 5718
+    },
+    {
+      "file": "卷七.txt",
+      "chars": 29744
+    },
+    {
+      "file": "卷八.txt",
+      "chars": 27797
+    },
+    {
+      "file": "卷九.txt",
+      "chars": 30436
+    },
+    {
+      "file": "卷十.txt",
+      "chars": 3857
+    },
+    {
+      "file": "卷十一.txt",
+      "chars": 32402
+    }
+  ],
+  "sources": [
+    {
+      "file": "甓余杂集_原文整理版.pdf",
+      "format": "pdf",
+      "bytes": 2103275
+    }
+  ],
+  "extraction_notes": [],
+  "ocr_note": "扫描页和图片使用自动 OCR；古籍异体字、竖排、模糊版面可能存在识别误差。",
+  "pdf_files": [
+    "电子书.pdf"
+  ],
+  "pdf_naming_rule": "单册：电子书.pdf；多册：电子书_第NN册.pdf"
+}

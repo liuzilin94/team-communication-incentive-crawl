@@ -1,0 +1,26 @@
+{
+  "title": "本市蒙汉回藏夷同胞隆重追悼那素委员",
+  "source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\最终\\陈霞2\\《本市蒙汉回藏夷同胞隆重追悼那素委员》",
+  "processed_at": "2026-09-21T01:01:25",
+  "volume_count": 1,
+  "character_count": 176009,
+  "text_files": [
+    {
+      "file": "正文.txt",
+      "chars": 176009
+    }
+  ],
+  "sources": [
+    {
+      "file": "本市蒙汉回藏夷同胞隆重追悼那素委员.pdf",
+      "format": "pdf",
+      "bytes": 1268562
+    }
+  ],
+  "extraction_notes": [],
+  "ocr_note": "扫描页和图片使用自动 OCR；古籍异体字、竖排、模糊版面可能存在识别误差。",
+  "pdf_files": [
+    "电子书.pdf"
+  ],
+  "pdf_naming_rule": "单册：电子书.pdf；多册：电子书_第NN册.pdf"
+}

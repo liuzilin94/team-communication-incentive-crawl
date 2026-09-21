@@ -1,0 +1,54 @@
+{
+  "title": "神州日报",
+  "source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\最终\\陈霞2\\《神州日报》",
+  "processed_at": "2026-09-21T03:22:59",
+  "volume_count": 4,
+  "character_count": 196972,
+  "text_files": [
+    {
+      "file": "1907.04.02_text.txt",
+      "chars": 48794
+    },
+    {
+      "file": "1907.04.02_text_2.txt",
+      "chars": 48739
+    },
+    {
+      "file": "1946.12.15_text.txt",
+      "chars": 49733
+    },
+    {
+      "file": "1946.12.15_text_2.txt",
+      "chars": 49706
+    }
+  ],
+  "sources": [
+    {
+      "file": "1907.04.02_text.pdf",
+      "format": "pdf",
+      "bytes": 10389034
+    },
+    {
+      "file": "1907.04.02_text.txt",
+      "format": "txt",
+      "bytes": 94417
+    },
+    {
+      "file": "1946.12.15_text.pdf",
+      "format": "pdf",
+      "bytes": 5496445
+    },
+    {
+      "file": "1946.12.15_text.txt",
+      "format": "txt",
+      "bytes": 96303
+    }
+  ],
+  "extraction_notes": [],
+  "ocr_note": "扫描页和图片使用自动 OCR；古籍异体字、竖排、模糊版面可能存在识别误差。",
+  "pdf_files": [
+    "电子书_第01册.pdf",
+    "电子书_第02册.pdf"
+  ],
+  "pdf_naming_rule": "单册：电子书.pdf；多册：电子书_第NN册.pdf"
+}

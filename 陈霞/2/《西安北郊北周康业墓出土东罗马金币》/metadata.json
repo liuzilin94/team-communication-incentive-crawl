@@ -1,0 +1,25 @@
+{
+  "title": "西安北郊北周康业墓出土东罗马金币",
+  "source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\最终\\陈霞2\\《西安北郊北周康业墓出土东罗马金币》",
+  "processed_at": "2026-09-21T03:24:39",
+  "volume_count": 1,
+  "character_count": 94,
+  "text_files": [
+    {
+      "file": "正文.txt",
+      "chars": 94
+    }
+  ],
+  "sources": [
+    {
+      "file": "西安北郊北周康业墓出土东罗马金币.jpeg",
+      "format": "jpeg",
+      "bytes": 353615
+    }
+  ],
+  "ocr_note": "图片使用自动 OCR，需结合原图复核。",
+  "pdf_files": [
+    "电子书.pdf"
+  ],
+  "pdf_naming_rule": "单册：电子书.pdf；多册：电子书_第NN册.pdf"
+}

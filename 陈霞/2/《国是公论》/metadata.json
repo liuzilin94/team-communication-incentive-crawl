@@ -1,0 +1,197 @@
+{
+  "title": "国是公论",
+  "source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\最终\\陈霞2\\《国是公论》",
+  "processed_at": "2026-09-21T07:01:19",
+  "volume_count": 20,
+  "character_count": 23472,
+  "text_files": [
+    {
+      "file": "1.txt",
+      "chars": 281
+    },
+    {
+      "file": "10.txt",
+      "chars": 1313
+    },
+    {
+      "file": "11.txt",
+      "chars": 1251
+    },
+    {
+      "file": "12.txt",
+      "chars": 1153
+    },
+    {
+      "file": "13.txt",
+      "chars": 1226
+    },
+    {
+      "file": "14.txt",
+      "chars": 1220
+    },
+    {
+      "file": "15.txt",
+      "chars": 1048
+    },
+    {
+      "file": "16.txt",
+      "chars": 1253
+    },
+    {
+      "file": "17.txt",
+      "chars": 1154
+    },
+    {
+      "file": "18.txt",
+      "chars": 1245
+    },
+    {
+      "file": "19.txt",
+      "chars": 1278
+    },
+    {
+      "file": "2.txt",
+      "chars": 1122
+    },
+    {
+      "file": "20.txt",
+      "chars": 1143
+    },
+    {
+      "file": "3.txt",
+      "chars": 1295
+    },
+    {
+      "file": "4.txt",
+      "chars": 1313
+    },
+    {
+      "file": "5.txt",
+      "chars": 1237
+    },
+    {
+      "file": "6.txt",
+      "chars": 1285
+    },
+    {
+      "file": "7.txt",
+      "chars": 1153
+    },
+    {
+      "file": "8.txt",
+      "chars": 1256
+    },
+    {
+      "file": "9.txt",
+      "chars": 1246
+    }
+  ],
+  "sources": [
+    {
+      "file": "1.png",
+      "format": "png",
+      "bytes": 3579706
+    },
+    {
+      "file": "10.png",
+      "format": "png",
+      "bytes": 7243534
+    },
+    {
+      "file": "11.png",
+      "format": "png",
+      "bytes": 7186011
+    },
+    {
+      "file": "12.png",
+      "format": "png",
+      "bytes": 7141344
+    },
+    {
+      "file": "13.png",
+      "format": "png",
+      "bytes": 7367112
+    },
+    {
+      "file": "14.png",
+      "format": "png",
+      "bytes": 7096225
+    },
+    {
+      "file": "15.png",
+      "format": "png",
+      "bytes": 7014897
+    },
+    {
+      "file": "16.png",
+      "format": "png",
+      "bytes": 7622510
+    },
+    {
+      "file": "17.png",
+      "format": "png",
+      "bytes": 7757786
+    },
+    {
+      "file": "18.png",
+      "format": "png",
+      "bytes": 7577001
+    },
+    {
+      "file": "19.png",
+      "format": "png",
+      "bytes": 7750783
+    },
+    {
+      "file": "2.png",
+      "format": "png",
+      "bytes": 6907540
+    },
+    {
+      "file": "20.png",
+      "format": "png",
+      "bytes": 6661724
+    },
+    {
+      "file": "3.png",
+      "format": "png",
+      "bytes": 7488303
+    },
+    {
+      "file": "4.png",
+      "format": "png",
+      "bytes": 7679389
+    },
+    {
+      "file": "5.png",
+      "format": "png",
+      "bytes": 7689904
+    },
+    {
+      "file": "6.png",
+      "format": "png",
+      "bytes": 7461729
+    },
+    {
+      "file": "7.png",
+      "format": "png",
+      "bytes": 7045316
+    },
+    {
+      "file": "8.png",
+      "format": "png",
+      "bytes": 7280504
+    },
+    {
+      "file": "9.png",
+      "format": "png",
+      "bytes": 7391405
+    }
+  ],
+  "extraction_notes": [],
+  "ocr_note": "扫描页和图片使用自动 OCR；古籍异体字、竖排、模糊版面可能存在识别误差。",
+  "pdf_files": [
+    "电子书.pdf"
+  ],
+  "pdf_naming_rule": "单册：电子书.pdf；多册：电子书_第NN册.pdf"
+}

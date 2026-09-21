@@ -1,0 +1,26 @@
+{
+  "title": "条陈地方事宜以饬铨政疏",
+  "source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\最终\\陈霞2\\《条陈地方事宜以饬铨政疏》",
+  "processed_at": "2026-09-21T01:01:25",
+  "volume_count": 1,
+  "character_count": 1960,
+  "text_files": [
+    {
+      "file": "正文.txt",
+      "chars": 1960
+    }
+  ],
+  "sources": [
+    {
+      "file": "条陈地方事宜以饬铨政疏_原文.pdf",
+      "format": "pdf",
+      "bytes": 179458
+    }
+  ],
+  "extraction_notes": [],
+  "ocr_note": "扫描页和图片使用自动 OCR；古籍异体字、竖排、模糊版面可能存在识别误差。",
+  "pdf_files": [
+    "电子书.pdf"
+  ],
+  "pdf_naming_rule": "单册：电子书.pdf；多册：电子书_第NN册.pdf"
+}

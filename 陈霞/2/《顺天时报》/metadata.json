@@ -1,0 +1,161 @@
+{
+  "title": "顺天时报",
+  "source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\最终\\陈霞2\\《顺天时报》",
+  "processed_at": "2026-09-21T06:01:51",
+  "volume_count": 16,
+  "character_count": 37627,
+  "text_files": [
+    {
+      "file": "1.txt",
+      "chars": 812
+    },
+    {
+      "file": "10.txt",
+      "chars": 1351
+    },
+    {
+      "file": "11.txt",
+      "chars": 3378
+    },
+    {
+      "file": "12.txt",
+      "chars": 2631
+    },
+    {
+      "file": "13.txt",
+      "chars": 2010
+    },
+    {
+      "file": "14.txt",
+      "chars": 2635
+    },
+    {
+      "file": "15.txt",
+      "chars": 2619
+    },
+    {
+      "file": "16.txt",
+      "chars": 2573
+    },
+    {
+      "file": "2.txt",
+      "chars": 2438
+    },
+    {
+      "file": "3.txt",
+      "chars": 3642
+    },
+    {
+      "file": "4.txt",
+      "chars": 1770
+    },
+    {
+      "file": "5.txt",
+      "chars": 2348
+    },
+    {
+      "file": "6.txt",
+      "chars": 1900
+    },
+    {
+      "file": "7.txt",
+      "chars": 3526
+    },
+    {
+      "file": "8.txt",
+      "chars": 2349
+    },
+    {
+      "file": "9.txt",
+      "chars": 1645
+    }
+  ],
+  "sources": [
+    {
+      "file": "1.png",
+      "format": "png",
+      "bytes": 3262602
+    },
+    {
+      "file": "10.png",
+      "format": "png",
+      "bytes": 4311218
+    },
+    {
+      "file": "11.png",
+      "format": "png",
+      "bytes": 3861604
+    },
+    {
+      "file": "12.png",
+      "format": "png",
+      "bytes": 3887015
+    },
+    {
+      "file": "13.png",
+      "format": "png",
+      "bytes": 3965372
+    },
+    {
+      "file": "14.png",
+      "format": "png",
+      "bytes": 4174310
+    },
+    {
+      "file": "15.png",
+      "format": "png",
+      "bytes": 3862942
+    },
+    {
+      "file": "16.png",
+      "format": "png",
+      "bytes": 4795226
+    },
+    {
+      "file": "2.png",
+      "format": "png",
+      "bytes": 3973349
+    },
+    {
+      "file": "3.png",
+      "format": "png",
+      "bytes": 3957366
+    },
+    {
+      "file": "4.png",
+      "format": "png",
+      "bytes": 3669251
+    },
+    {
+      "file": "5.png",
+      "format": "png",
+      "bytes": 4295552
+    },
+    {
+      "file": "6.png",
+      "format": "png",
+      "bytes": 4265475
+    },
+    {
+      "file": "7.png",
+      "format": "png",
+      "bytes": 3724110
+    },
+    {
+      "file": "8.png",
+      "format": "png",
+      "bytes": 3455795
+    },
+    {
+      "file": "9.png",
+      "format": "png",
+      "bytes": 3883400
+    }
+  ],
+  "extraction_notes": [],
+  "ocr_note": "扫描页和图片使用自动 OCR；古籍异体字、竖排、模糊版面可能存在识别误差。",
+  "pdf_files": [
+    "电子书.pdf"
+  ],
+  "pdf_naming_rule": "单册：电子书.pdf；多册：电子书_第NN册.pdf"
+}

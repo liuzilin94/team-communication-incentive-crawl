@@ -1,0 +1,10 @@
+目录结构：
+《神州日报》/
+├── README.md
+├── 电子pdf.md
+├── metadata.json
+├── 目录结构说明.txt
+├── 1907.04.02_text.txt
+├── 1907.04.02_text_2.txt
+├── 1946.12.15_text.txt
+└── 1946.12.15_text_2.txt

@@ -1,0 +1,9 @@
+目录结构：
+《兵部奏疏》/
+├── README.md
+├── 电子pdf.md
+├── metadata.json
+├── 目录结构说明.txt
+├── 卷首.txt
+├── 卷三.txt
+└── 卷二.txt

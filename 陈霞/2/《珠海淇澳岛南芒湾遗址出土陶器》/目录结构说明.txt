@@ -1,0 +1,8 @@
+目录结构：
+《珠海淇澳岛南芒湾遗址出土陶器》/
+├── README.md
+├── 电子pdf.md
+├── metadata.json
+├── 目录结构说明.txt
+├── kaoguyanjiuInfo.txt
+└── 珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情.txt

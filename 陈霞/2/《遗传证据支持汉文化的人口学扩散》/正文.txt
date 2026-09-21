@@ -1,0 +1,463 @@
+〔第1页〕
+© 2004Nature Publishing Group
+21. Riscutia, C. in Paleoanthropology, Morphology and Paleoecology (ed. T uttle, R. H.) 373–375 (Mouton,
+The Hague, 1975).
+22. Begun, D. & Walker, A. in The Nariokotome Homo erectus Skeleton (eds Walker, A. & Leakey, R.)
+326–358 (Springer, Berlin, 1993).
+23. Holloway, R. L. Human paleontological evidence relevant to language behavior. Hum. Neurobiol. 2,
+105–114 (1983).
+24. Holloway, R. L. The Indonesian Homo erectus brain endocasts revisited. Am. J. Phys. Anthropol. 55,
+503–521 (1981).
+25. Sartono, S. & Tyler, D. E. AN e wHomo erectus Skull from Sangiran, Java: an Announcement 1–4
+(Intern. Conf. Human Paleoecol., LIPPI, Jakarta, 1993).
+26. Rak, Y . & Arensburg, B. Kebara 2 neanderthal pelvis: ﬁrst look at a complete inlet. Am. J. Phys.
+Anthropol. 73, 227–231 (1987).
+27. Spoor, C. F., Zonneveld, F. W. & Macho, G. A. Linear measurements of cortical bone and dental
+enamel by computed tomography: applications and problems. Am. J. Phys. Anthropol. 91, 469–484
+(1993).
+28. Ho¨hne, K. H. et al. A new representation of knowledge concerning human anatomy and function.
+Nature Med. 1, 506–511 (1995).
+29. Zuckerman, S. Age-changes in the chimpanzee, with special reference to growth of brain, eruption of
+teeth, and estimation of age; with a note on the Taung ape. Proc. Zool. Soc. Lond. 1, 1–42 (1928).
+30. Schultz, A. H. in Contributions to Embryology no 170(ed. Schultz, A. H.) 1–63 (Carnegie Institution of
+Washington Publication no 518, Washington DC, 1940).
+Supplementary Information accompanies the paper on www.nature.com/nature.
+Acknowledgements We are grateful to the following individuals for their assistance in accessing
+collections and their advice and comments during the preparation of this paper: S. Anton,
+J. P . Bocquet-Appel, J. Braga, G. Bra¨uer, M. Braun, P . Darlu, M. Haas, M. von Harling, C. Hemm,
+J.-L. Kahn, C. Lefe`vre, W. van Neer, S. Pa¨a¨bo, F. Renoult, M. Richards, Ph. Rightmire, F. Schrenk,
+H. Sick, F. Spoor, T. Striano, J. T reil, W. Wendelen and V . Zeitoun. This research was supported by
+grants from CNRS and by the Max Planck Society.
+Competing interests statement The authors declare that they have no competing ﬁnancial
+interests.
+Correspondence and requests for materials should be addressed to J.J.H. (hublin@eva.mpg.de).
+...................... ...................... ..................
+Genetic evidence supports demic
+diffusion of Han culture
+Bo Wen1,2, Hui Li1, Daru Lu1, Xiufeng Song1, Feng Zhang1, Yungang He1,
+Feng Li1, Yang Gao1, Xianyun Mao1, Liang Zhang1, Ji Qian1, Jingze Tan1,
+Jianzhong Jin1, Wei Huang 2, Ranjan Deka 3, Bing Su 1,3,4,
+Ranajit Chakraborty3 & Li Jin 1,3
+1State Key Laboratory of Genetic Engineering and Center for Anthropological
+Studies, School of Life Sciences and Morgan-Tan International Center for Life
+Sciences, Fudan University, Shanghai 200433, China
+2Chinese National Human Genome Center, Shanghai 201203, China
+3Center for Genome Information, Department of Environmental Health,
+University of Cincinnati, Cincinnati, Ohio 45267, USA
+4Key Laboratory of Cellular and Molecular Evolution, Kunming Institute of
+Zoology, the Chinese Academy of Sciences, Kunming 650223, China
+.............................................................................................................................................................................
+The spread of culture and language in human populations is
+explained by two alternative models: the demic diffusion model,
+which involves mass movement of people; and the cultural
+diffusion model, which refers to cultural impact between popu-
+lations and involves limited genetic exchange between them
+1. The
+mechanism of the peopling of Europe has long been debated, a
+key issue being whether the diffusion of agriculture and language
+from the Near East was concomitant with a large movement of
+farmers
+1–3. Here we show, by systematically analysing Y-chromo-
+some and mitochondrial DNA variation in Han populations, that
+the pattern of the southward expansion of Han culture is
+consistent with the demic diffusion model, and that males played
+a larger role than females in this expansion. The Han people, who
+all share the same culture and language, exceed 1.16 billion (2000
+census), and are by far the largest ethnic group in the world. The
+expansion process of Han culture is thus of great interest to
+researchers in many ﬁelds.
+According to the historical records, the Hans were descended
+from the ancient Huaxia tribes of northern China, and the Han
+culture (that is, the language and its associated cultures) expanded
+into southern China
+—the region originally inhabited by the
+southern natives, including those speaking Daic, Austro-Asiatic
+and Hmong-Mien languages —in the past two millennia 4,5. Studies
+on classical genetic markers and microsatellites show that the
+Han people, like East Asians, are divided into two genetically
+differentiated groups, northern Han and southern Han
+6,8, separated
+approximately by the Y angtze river 9. Differences between these
+groups in terms of dialect and customs have also been noted 10.
+Such observations seem to support a mechanism involving
+primarily cultural diffusion and assimilation (the cultural diffusion
+model) in Han expansion towards the south. However, the sub-
+stantial sharing of Y-chromos ome and mitochondrial lineages
+between the two groups 11,12 and the historical records describing
+the expansion of Han people 5 contradict the cultural diffusion
+model hypothesis of Han expansion. In this study, we aim to
+examine the alternative hypothesis; that is, that substantial popu-
+lation movements occurred during the expansion of Han culture
+(the demic diffusion model).
+T o test this hypothesis, we compared the genetic proﬁles of
+southern Hans with their two parental population groups: northern
+Hans and southern natives, which include the samples of Daic,
+Hmong-Mien and Austro-Asiatic speaking populations currently
+residing in China, and in some cases its neighbouring countries.
+Genetic variation in both the non-recombining region of the Y
+chromosome (NRY) and mitochondrial DNA (mtDNA)
+13–16 were
+surveyed in 28 Han populations from most of the provinces in
+China (see Fig. 1 and Supplementary T able 1 for details).
+On the paternal side, southern Hans and northern Hans share
+similar frequencies of Y-chromosome haplogroups (Supplementary
+Table 2), which are characterized by two haplogroups carrying the
+M122-C mutations (O3-M122 and O3e-M134) that are prevalent
+in almost all Han populations studied (mean and range: 53.8%,
+37–71%; 54.2%, 35–74%, for northern and southern Hans, respect-
+ively). Haplogroups carrying M119-C (O1* and O1b) and/or
+M95-T (O2a* and O2a1) (following the nomenclature of the Y
+Chromosome Consortium) which are prevalent in southern
+natives, are more frequent in southern Hans (19%, 3–42%) than
+in northern Hans (5%, 1–10%). In addition, haplogroups
+O1b-M110, O2a1-M88 and O3d-M7, which are prevalent in
+southern natives
+17, were only observed in some southern Hans
+(4% on average), but not in northern Hans. Therefore, the contri-
+bution of southern natives in southern Hans is limited, if we assume
+that the frequency distribution of Y lineages in southern natives
+represents that before the expansion of Han culture that started
+2,000 yr ago
+5. The results of analysis of molecular variance
+(AMOV A) further indicate that northern Hans and southern
+Hans are not signiﬁcantly different in their Y haplogroups
+(FST ¼ 0.006, P . 0.05), demonstrating that southern Hans bear
+a high resemblance to northern Hans in their male lineages.
+On the maternal side, however, the mtDNA haplogroup distri-
+bution showed substantial differentiation between northern Hans
+and southern Hans (Supplementary T able 3). The overall frequen-
+cies of the northern East Asian-dominating haplogroups (A, C, D,
+G, M8a, Yand Z) are much higher in northern Hans (55%, 49–64%)
+than are those in southern Hans (36%, 19–52%). In contrast, the
+frequency of the haplogroups that are dominant lineages (B, F, R9a,
+R9b and N9a) in southern natives
+12,14,18 is much higher in southern
+(55%, 36–72%) than it is in northern Hans (33%, 18–42%).
+Northern and southern Hans are signiﬁcantly different in their
+mtDNA lineages (FST ¼ 0.006, P , 1025). Although the FST values
+between northern and southern Hans are similar for mtDNA
+and the Y chromosome, FST accounts for 56% of the total among-
+letters to nature
+NATURE | VOL 431 | 16 SEPTEMBER 2004 | www.nature.com/nature302
+
+〔第2页〕
+© 2004Nature Publishing Group
+population variation for mtDNA but only accounts for 18% for the
+Y chromosome.
+A principal component analysis is consistent with the observation
+based on the distribution of the haplogroups in Han populations.
+For the NRY , almost all Han populations cluster together in the
+upper right-hand part of Fig. 2a. Northern Hans and southern
+natives are separated by the second principal component (PC2) and
+southern Hans’ PC2 values lie between northern Hans and southern
+natives but are much closer to northern Hans (northern Han,
+0.58 ^ 0.01; southern Han, 0.46 ^ 0.03; southern native,
+20.32 ^ 0.05), implying that the southern Hans are paternally
+similar to northern Hans, with limited inﬂuence from southern
+natives. In contrast, for mtDNA, northern Hans and southern natives
+are distinctly separated by PC2 (Fig. 2b), and southern Hans are
+located between them but are closer to southern natives (northern
+Han, 0.56 ^ 0.02; southern Han, 0.09 ^ 0.06; southern native,
+20.23 ^ 0.04), indicating a much more substantial admixture in
+southern Hans’ female gene pool than in its male counterpart.
+The relative contribution of the two parental populations (north-
+ern Hans and southern natives) in southern Hans was estimated by
+two different statistics
+19,20, which are less biased than other statistics
+for single-locus data 21 (Table 1). The estimations of the admixture
+coefﬁcient (M, proportion of northern Han contribution) from the
+two methods are highly consistent (for the Y chromosome,
+r ¼ 0.922, P , 0.01; for mtDNA, r ¼ 0.970, P , 0.01). For the Y
+chromosome, all southern Hans showed a high proportion of
+northern Han contribution ( M
+BE: 0.82 ^ 0.14, range from 0.54 to
+1; MRH: 0.82 ^ 0.12, range from 0.61 to 0.97) (see refs 20 and 19 for
+deﬁnitions of MBE and MRH, respectively) indicating that males
+from the northern Hans are the primary contributor to the gene
+pool of the southern Hans. In contrast, northern Hans and southern
+natives contributed almost equally to the southern Hans’ mtDNA
+gene pool ( M
+BE: 0.56 ^ 0.24 [0.15, 0.95]; MRH: 0.50 ^ 0.26 [0.07,
+0.91]). The contribution of northern Hans to southern Hans is
+signiﬁcantly higher in the paternal lineage than in the maternal
+lineage collectively ( t-test, P , 0.01) or individually (11 out of 13
+populations for M
+BE, and 13 out of 13 populations for M RH:
+P , 0.01, assuming a null binomial distribution with equal male
+and female contributions), indicating a strong sex-biased popu-
+Table 1 Northern Han admixture proportion in southern Hans
+Population
+Y Chromosome mtDNA
+MBE (^s.e.m) MRH MBE (^s.e.m) MRH
+.............................................................................................................................................................................
+Anhui 0.868 ^ 0.119 0.929 0.816 ^ 0.214 0.755
+Fujian 1 0.966 0.341 ^ 0.206 0.248
+Guangdong1 0.677 ^ 0.121 0.669 0.149 ^ 0.181 0.068
+Guangdong2 ND ND 0.298 ^ 0.247 0.312
+Guangxi 0.543 ^ 0.174 0.608 0.451 ^ 0.263 0.249
+Hubei 0.981 ^ 0.122 0.949 0.946 ^ 0.261 0.907
+Hunan 0.732 ^ 0.219 0.657 0.565 ^ 0.297 0.490
+Jiangsu 0.789 ^ 0.078 0.821 0.811 ^ 0.177 0.786
+Jiangxi 0.804 ^ 0.113 0.829 0.374 ^ 0.343 0.424
+Shanghai 0.819 ^ 0.087 0.902 0.845 ^ 0.179 0.833
+Sichuan 0.750 ^ 0.118 0.713 0.509 ^ 0.166 0.498
+Yunnan1 1 0.915 0.376 ^ 0.221 0.245
+Yunnan2 0.935 ^ 0.088 0.924 0.733 ^ 0.192 0.645
+Zhejiang 0.751 ^ 0.084 0.763 0.631 ^ 0.180 0.540
+Average 0.819 0.819 0.560 0.500.............................................................................................................................................................................
+MBE and MRH refer to the statistics described in refs 20 and 19, respectively. The standard error
+of MBE was obtained by bootstrap with 1,000 replications. The proportions of contribution from
+northern Hans were estimated using northern Hans and southern natives as the parental
+populations of the southern Hans. It was assumed that the allele frequency in the southern
+natives remained unchanged before and after the admixture, which started about 2,000 yr ago,
+and the genetic exchange between northern Hans and southern natives has been limited. In
+fact, the gene ﬂow from northern Hans to southern natives has been larger than that from
+southern natives to northern Hans; therefore, the level of admixture presented in this table is
+underestimated and is without proper adjustment. The demic expansion of Han would have
+been more pronounced than was observed in this study.
+Figure 1 Geographic distribution of sampled populations. Shown are the three waves of
+north-to-south migrations according to historical record. The identiﬁcations of populations
+are given in Supplementary Table 1. Populations 1–14 are northern Hans, and 15–28 are
+southern Hans. The solid, dashed and dotted arrows refer to the ﬁrst, second and
+third waves of migrations, respectively. The ﬁrst wave involving 0.9 million (approximately
+one-sixth of the southern population at that time) occurred during the Western Jin Dynasty
+(AD 265–316); the second migration, more extensive than the ﬁrst, took place during the
+Tang Dynasty ( AD 618–907); and the third wave, including ,5 million immigrants,
+occurred during the Southern Song Dynasty ( AD 1127–1279).
+letters to nature
+NATURE | VOL 431 | 16 SEPTEMBER 2004 | www.nature.com/nature 303
+
+〔第3页〕
+© 2004Nature Publishing Group
+lation admixture in southern Hans. The proportions of northern
+Han contribution (M) in southern Hans showed a clinal geographic
+pattern, which decreases from north to south. The Ms in southern
+Hans are positively correlated with latitude ( r2 ¼ 0.569, P , 0.01)
+for mtDNA, but are not signiﬁcant for the Y chromosome
+(r
+2 ¼ 0.072, P . 0.05), because the difference of Ms in the paternal
+lineage among southern Hans is too small to create a statistically
+signiﬁcant trend.
+We provide two lines of evidence supporting the demic diffusion
+hypothesis for the expansion of Han culture. First, almost all Han
+populations bear a high resemblance in Y-chromosome haplogroup
+distribution, and the result of principal component analysis indi-
+cated that almost all Han populations form a tight cluster in their Y
+chromosome. Second, the estimated contribution of northern Hans
+to southern Hans is substantial in both paternal and maternal
+lineages and a geographic cline exists for mtDNA. It is noteworthy
+that the expansion process was dominated by males, as is shown by a
+greater contribution to the Y-chromosome than the mtDNA from
+northern Hans to southern Hans. A sex-biased admixture pattern
+was also observed in Tibeto-Burman-speaking populations
+22.
+According to the historical records, there were continuous south-
+ward movements of Han people due to warfare and famine in the
+north, as illustrated by three waves of large-scale migrations (Fig. 1).
+Aside from these three waves, other smaller southward migrations
+also occurred during almost all periods in the past two millennia.
+Our genetic observation is thus in line with the historical accounts.
+The massive movement of the northern immigrants led to a change
+in genetic makeup in southern China, and resulted in the demo-
+graphic expansion of Han people as well as their culture. Except for
+these massive population movements, gene ﬂow between northern
+Hans, southern Hans and southern natives also contributed to
+the admixture which shaped the genetic proﬁle of the extant
+populations. A
+Methods
+Samples
+Blood samples of 871 unrelated anonymous individuals from 17 Han populations were
+collected across China. Genomic DNA was extracted by the phenol-chloroform method.
+By integrating the additional data obtained from the literatures on the Y chromosome and
+on mtDNA variation, the ﬁnal sample sizes for analysis expanded to 1,289 individuals
+(23 Han populations) for the Y chromosome and 1,119 individuals (23 Han populations)
+for mtDNA. These samples encompass most of the provinces in China (Fig. 1 and
+Supplementary Table 1).
+Genetic markers
+Thirteen bi-allelic Y-chromosome markers, Y AP , M15, M130, M89, M9, M122, M134,
+M119, M110, M95, M88, M45 and M120 were typed by polymerase chain reaction-
+restriction-fragment length polymorphism methods 11. These markers are highly
+informative in East Asians 23 and deﬁne 13 haplogroups following the Y Chromosome
+Consortium nomenclature 24.
+The HVS-1 of mtDNA and eight coding region variations, 9-bp deletion, 10397 AluI,
+5176 AluI, 4831 HhaI, 13259 HincII, 663 HaeIII, 12406 HpaI and 9820 HinfI were
+sequenced and genotyped as in our previous report 22. Both the HVS-1 motif and the
+coding region variations were used to infer haplogroups following the phylogeny of East
+Asian mtDNAs
+18.
+Data analysis
+Population relationship was investigated by principal component analysis, which was
+conducted using mtDNA and Y-chromosome haplogroup frequencies and SPSS10.0
+software (SPSS Inc.). The genetic difference between northern and southern Hans was
+tested by AMOV A
+25, using ARLEQUIN software 26. ADMIX 2.0 (ref. 27) and LEADMIX 21
+software were used to estimate the level of admixture of the northern Hans and southern
+natives in the southern Han populations, using two different statistics
+19–20. The selection of
+parental populations is critical for appropriate estimation of admixture proportion 28,29
+and we were careful to minimize bias by using large data sets across East Asia. In this
+analysis, the average haplogroup frequencies (for Y-chromosome or mtDNA markers,
+respectively) of northern Hans (arithmetic mean of 10 northern Hans) were taken for the
+northern parental population. The frequency of southern natives was estimated by the
+average of three groups including Austro-Asiatic (NRY , 6 populations; mtDNA, 5
+populations), Daic (NRY , 22 populations; mtDNA, 11 populations) and Hmong-Mien
+(NRY , 18 populations; mtDNA, 14 populations). The geographic pattern of Han
+populations was revealed by the linear regression analysis of admixture proportion against
+the latitudes of samples
+1,3.
+Received 28 April; accepted 20 July 2004; doi:10.1038/nature02878.
+1. Cavalli-Sforza, L. L., Menozzi, P . & Piazza, A. The History and Geography of Human Genes (Princeton
+Univ. Press, Princeton, 1994).
+2. Sokal, R., Oden, N. L. & Wilson, C. Genetic evidence for the spread of agriculture in Europe by demic
+diffusion. Nature 351, 143–145 (1991).
+3. Chikhi, L. et al. Y genetic data support the Neolithic demic diffusion model. Proc. Natl Acad. Sci. USA
+99, 11008–11013 (2002).
+4. Fei, X. T. The Pattern of Diversity in Unity of the Chinese Nation(Central Univ. for Nationalities Press,
+Beijing, 1999).
+5. Ge, J. X., Wu, S. D. & Chao, S. J. Zhongguo yimin shi (The Migration History of China)(Fujian People’s
+Publishing House, Fuzhou, China, 1997).
+6. Zhao, T. M. & Lee, T. D. Gm and Km allotypes in 74 Chinese populations: a hypothesis of the origin of
+the Chinese nation. Hum. Genet. 83, 101–110 (1989).
+7. Du, R. F., Xiao, C. J. & Cavalli-Sforza, L. L. Genetic distances calculated on gene frequencies of 38 loci.
+Sci. China 40, 613 (1997).
+8. Chu, J. Y . et al. Genetic relationship of populations in China. Proc. Natl Acad. Sci. USA 95,
+11763–11768 (1998).
+9. Xiao, C. J. et al. Principal component analysis of gene frequencies of Chinese populations. Sci. China
+43, 472–481 (2000).
+10. Xu, Y . T. A brief study on the origin of Han nationality. J. Centr. Univ. Natl 30, 59–64 (2003).
+11. Su, B. et al. Y chromosome haplotypes reveal prehistorical migrations to the Himalayas. Hum. Genet.
+107, 582–590 (2000).
+12. Y ao, Y . G.et al. Phylogeographic differentiation of mitochondrial DNA in Han Chinese. Am. J. Hum.
+Genet. 70, 635–651 (2002).
+13. Cavalli-Sforza, L. L. & Feldman, M. W. The application of molecular genetic approaches to the study
+of human evolution. Nature Genet. 33, 266–275 (2003).
+14. Wallace, D. C., Brown, M. D. & Lott, M. T. Nucleotide mitochondrial DNA variation in human
+evolution and disease. Gene 238, 211–230 (1999).
+15. Underhill, P . A.et al. Y chromosome sequence variation and the history of human populations.Nature
+Genet. 26, 358–361 (2000).
+16. Jobling, M. A. & Tyler-Smith, C. The human Y chromosome: an evolutionary marker comes of age.
+Figure 2 Principal component plot. a, b, Plots are of Y-chromosome ( a) and mtDNA ( b)
+haplogroup frequency. Population groups: H-M, Hmong-Mien; DAC, Daic; A-A, Austro-
+Asiatic; SH, southern Han; NH, northern Han.
+letters to nature
+NATURE | VOL 431 | 16 SEPTEMBER 2004 | www.nature.com/nature304
+
+〔第4页〕
+© 2004Nature Publishing Group
+Nature Rev. Genet. 4, 598–612 (2003).
+17. Su, B. et al. Y-chromosome evidence for a northward migration of modern humans into eastern Asia
+during the last ice age. Am. J. Hum. Genet. 65, 1718–1724 (1999).
+18. Kivisild, T. et al. The emerging limbs and twigs of the East Asian mtDNA tree. Mol. Biol. Evol. 19,
+1737–1751 (2002).
+19. Roberts, D. F . & Hiorns, R. W. Methods of analysis of the genetic composition of a hybrid population.
+Hum. Biol. 37, 38–43 (1965).
+20. Bertorelle, G. & Excofﬁer, L. Inferring admixture proportions from molecular data.Mol. Biol. Evol.15,
+1298–1311 (1998).
+21. Wang, J. Maximum-likelihood estimation of admixture proportions from genetic data. Genetics 164,
+747–765 (2003).
+22. W en, B. et al. Analyses of genetic structure of Tibeto-Burman populations revealed a gender-biased
+admixture in southern Tibeto-Burmans. Am. J. Hum. Genet. 74, 856–865 (2004).
+23. Jin, L. & Su, B. Natives or immigrants: modern human origin in East Asia. Nature Rev. Genet. 1,
+126–133 (2000).
+24. The Y Chromosome Consortium, A nomenclature system for the tree of human Y-chromosomal
+binary haplogroups. Genome Res. 12, 339–348 (2002).
+25. Excofﬁer, L., Smouse, P . E. & Quattro, J. M. Analysis of molecular variance inferred from metric
+distances among DNA haplotypes: application to human mitochondrial DNA restriction data.
+Genetics 131, 479–491 (1992).
+26. Schneider, S., et al. Arlequin: V er. 2.000. A software for population genetic analysis. (Genetics and
+Biometry Laboratory, Univ. of Geneva, Geneva, 2000).
+27. Dupanloup, I. & Bertorelle, G. Inferring admixture proportions from molecular data: extension to any
+number of parental populations. Mol. Biol. Evol. 18, 672–675 (2001).
+28. Chakraborty, R. Gene admixture in human populations: Models and predictions. Yb. Phys. Anthropol.
+29, 1–43 (1986).
+29. Sans, M. et al. Unequal contributions of male and female gene pools from parental populations in the
+African descendants of the city of Melo, Uruguay. Am. J. Phys. Anthropol. 118, 33–44 (2002).
+Supplementary Information accompanies the paper on www.nature.com/nature.
+Acknowledgements W e thank all of the donors for making this work possible. The data collection
+was supported by NSFC and STCSM to Fudan and a NSF grant to L.J. L.J., R.D. and R.C. are
+supported by NIH.
+Competing interests statement The authors declare that they have no competing ﬁnancial
+interests.
+Correspondence and requests for materials should be addressed to L.J. (lijin@fudan.edu.cn or
+li.jin@uc.edu). The mtDNA HVS-1 sequences of 711 individuals from 15 Han populations were
+submitted to GenBank with accession numbers AY594701–A Y595411.
+.................... ....................... ...................
+Post-mating clutch piracy
+in an amphibian
+David R. Vieites 1,2*, Sandra Nieto-Roma´ n1,3, Marta Barluenga 2,
+Antonio Palanca1, Miguel Vences 3 & Axel Meyer 2
+1Laboratorio de Anatomı´a Animal, Departamento de Ecoloxı´a e Bioloxı´a Animal,
+Facultade de Ciencias Biolo´xicas, Universidade de Vigo, Buzo´n 137, 36201 Vigo,
+Spain
+2Lehrstuhl fu¨r Zoologie und Evolutionsbiologie, Department of Biology, University
+of Konstanz, 78457 Konstanz, Germany
+3Institute for Biodiversity and Ecosystem Dynamics and Zoological Museum,
+University of Amsterdam, Mauritskade 61, 1092 AD Amsterdam, The Netherlands
+* Present address: Museum of V ertebrate Zoology and Department of Integrative Biology, 3101 V alley Life
+Sciences Building, University of California, Berkeley, California 94720-3160, USA
+.............................................................................................................................................................................
+Female multiple mating and alternative mating systems can
+decrease the opportunity for sexual selection 1–3. Sperm compe-
+tition is often the outcome of females mating with multiple males
+and has been observed in many animals 1,4–7, and alternative
+reproductive systems are widespread among species with exter-
+nal fertilization and parental care 3,8–10. Multiple paternity with-
+out associated complex behaviour related to mating or parental
+care is also seen in simultaneously spawning amphibians 11–15 and
+ﬁshes16 that release gametes into water. Here we report ‘clutch
+piracy’ in a montane population of the common frog Rana
+temporaria, a reproductive behaviour previously unknown in
+vertebrates with external fertilization. Males of this species clasp
+the females and the pair deposits one spherical clutch of eggs. No
+parental care is provided. ‘Pirate’ males search for freshly laid
+clutches, clasp them as they would do a female and fertilize the
+eggs that were left unfertilized by the ‘parental’ male. This
+behaviour does not seem to be size-dependent, and some males
+mate with a female and perform clutch piracy in the same season.
+Piracy affected 84% of the clutches and in some cases increased
+the proportion of eggs fertilized, providing direct ﬁtness beneﬁts
+both for the pirate males and the females
+17. Sexual selection —
+probably caused by a strong male-biased sex ratio—occurs in this
+population, as indicated by size-assortative mating; however,
+clutch piracy may reduce its impact. This provides a good
+model to explore how alternative mating strategies can affect
+the intensity of sexual selection.
+Anuran amphibians have a wide diversity of reproductive modes,
+but external aquatic fertilization without parental care is the
+ancestral and most widespread strategy
+18. Only a few instances of
+multiple paternity have been demonstrated in frogs and those were
+considered to be the result of polyandrous matings, in which several
+males mate simultaneously with a female
+11,13,14. In the common frog
+R. temporaria, one of the most widespread Palaearctic amphibians19,
+multiple paternity has been detected through allozyme analyses of
+tadpole kin groups, and was interpreted as being the consequence of
+high concentrations of spermatozoa in the water during simul-
+taneous spawning12.
+R. temporaria is an explosive pond breeder that often reproduces
+immediately after the melting of the ice cover. Breeding is usually
+nocturnal12,20 and males form large breeding aggregations. We
+monitored a high altitude population of common frogs in a
+medium-sized pond (540 m 2) during three consecutive breeding
+periods (2001–2003) in the central Pyrenean mountains, Spain
+(42849
+0
+N, 0 817
+0
+W , about 2200 m above sea level). Breeding was
+exclusively diurnal due to low temperatures at night (Supplementary
+Information A), which permitted us to conduct detailed beha-
+vioural observations in the ﬁeld and to measure and mark most
+individuals in this population. Males aggregated in a speciﬁc area of
+the pond, where clutches were also laid. Male density at the
+Figure 1 Schematic representation of mating systems in R. temporaria. a, Females arrive
+at the breeding ponds and are clasped in the axillary region (‘amplexus’) by a male (the
+‘parental’ male). The female deposits a single, spherical clutch of eggs. The parental male
+simultaneously releases his sperm and thereby fertilizes the eggs externally.
+Subsequently both parents leave the clutch. b, ‘Pirate’ males search for freshly laid
+clutches, clasp them and release their sperm, sometimes crawling into the clutch to gain
+access to the internal eggs.
+letters to nature
+NATURE | VOL 431 | 16 SEPTEMBER 2004 | www.nature.com/nature 305

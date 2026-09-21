@@ -1,0 +1,26 @@
+{
+  "title": "毛主席朱总司令电复内蒙人民代表大会",
+  "source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\最终\\陈霞2\\《毛主席朱总司令电复内蒙人民代表大会》",
+  "processed_at": "2026-09-21T01:01:37",
+  "volume_count": 1,
+  "character_count": 491,
+  "text_files": [
+    {
+      "file": "正文.txt",
+      "chars": 491
+    }
+  ],
+  "sources": [
+    {
+      "file": "毛主席朱总司令电复内蒙人民代表大会.pdf",
+      "format": "pdf",
+      "bytes": 173885
+    }
+  ],
+  "extraction_notes": [],
+  "ocr_note": "扫描页和图片使用自动 OCR；古籍异体字、竖排、模糊版面可能存在识别误差。",
+  "pdf_files": [
+    "电子书.pdf"
+  ],
+  "pdf_naming_rule": "单册：电子书.pdf；多册：电子书_第NN册.pdf"
+}
