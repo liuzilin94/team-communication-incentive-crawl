@@ -1,0 +1,6 @@
+# 所有文件通过 Git LFS 存储
+* filter=lfs diff=lfs merge=lfs -text
+
+# 这些文件本身保持普通文本
+.gitattributes -filter
+.gitignore -filter
