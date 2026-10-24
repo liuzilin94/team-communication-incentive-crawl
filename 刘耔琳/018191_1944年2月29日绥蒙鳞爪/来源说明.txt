@@ -1,0 +1,27 @@
+来源说明
+==============================================
+书目编号：018191
+书名：《1944年2月29日绥蒙鳞爪》
+爬取状态：已建目录（正文未提取）
+
+【获取方式】
+馆藏检索，仅题录
+
+【来源站点 / 底本出处】
+威斯康星大学图书馆（UW）
+
+【来源链接】
+- https://search.library.wisc.edu/database/UWI60412
+
+【GitHub 位置】
+分支：刘耔琳
+仓库：https://github.com/liuzilin94/team-communication-incentive-crawl/tree/liuzilin
+- （本分支尚无对应 TXT）
+
+【网盘留存文件】
+- （网盘未留存 PDF/图片等源资料）
+
+【版本与出版信息】
+出版社：University of Wisconsin–Madison Libraries
+出版版别：报刊数据库；大公报全文数据库
+爬取日期：9.14

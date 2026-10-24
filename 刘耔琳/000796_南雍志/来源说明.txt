@@ -1,0 +1,29 @@
+来源说明
+==============================================
+书目编号：000796
+书名：《南雍志》
+爬取状态：已完成（GitHub 有 TXT，网盘未留源资料）
+
+【获取方式】
+识典古籍在线阅读页抓取正文
+
+【来源站点 / 底本出处】
+识典古籍（shidianguji.com）
+
+【来源链接】
+- https://www.shidianguji.com/book/CADAL02052718/chapter/1l89ky5e4m23f
+
+【GitHub 位置】
+分支：刘耔琳
+仓库：https://github.com/liuzilin94/team-communication-incentive-crawl/tree/liuzilin
+- 刘耔琳/000796_南雍志/卷首.txt
+- 刘耔琳/000796_南雍志/正文_完整版.txt
+
+【网盘留存文件】
+- 刘耔琳pdf/刘耔琳/000796_南雍志/source.html
+- 刘耔琳pdf/刘耔琳/000796_南雍志/目录页.html
+
+【版本与出版信息】
+出版社：识典古籍
+出版版别：在线全文
+爬取日期：9.13

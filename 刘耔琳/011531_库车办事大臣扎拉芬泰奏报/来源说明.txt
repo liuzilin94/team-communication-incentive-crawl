@@ -1,0 +1,27 @@
+来源说明
+==============================================
+书目编号：011531
+书名：《库车办事大臣扎拉芬泰奏报库车回子郡王伊萨克病故出缺并请准伊子袭爵片》
+爬取状态：已完成（GitHub 有 TXT，网盘未留源资料）
+
+【获取方式】
+识典古籍在线阅读页抓取正文
+
+【来源站点 / 底本出处】
+识典古籍（shidianguji.com）
+
+【来源链接】
+- https://www.shidianguji.com/zh/book/CADAL01035610/chapter/1lcpsico3s2rk
+
+【GitHub 位置】
+分支：刘耔琳
+仓库：https://github.com/liuzilin94/team-communication-incentive-crawl/tree/liuzilin
+- 刘耔琳/011531_库车办事大臣扎拉芬泰奏报/正文.txt
+
+【网盘留存文件】
+- （网盘未留存 PDF/图片等源资料）
+
+【版本与出版信息】
+出版社：识典古籍
+出版版别：在线全文；文宗顯皇帝聖訓
+爬取日期：9.14
