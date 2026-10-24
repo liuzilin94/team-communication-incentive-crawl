@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "编号": "5362",
+  "书名": "《安徽萧县西虎山汉墓》",
+  "目录名": "5362《安徽萧县西虎山汉墓》",
+  "整理日期": "2026-10-24",
+  "表格标记": "已收录",
+  "本地资料状态": "已有非空 TXT",
+  "表内状态原文": "已收录",
+  "转存说明": "已有非空 TXT。按照现有卷次、篇章或 OCR 页序整理；正文内容和原始编码保留。",
+  "卷数": null,
+  "卷数依据": "原书卷数未明确；未将页数、册数或文件数当作卷数",
+  "原书卷数_表内": null,
+  "本地可识别卷数": null,
+  "本地卷文件数": 0,
+  "字数": 7657,
+  "字数口径": "本地原文TXT解码后去空白字符计数，含标点、OCR页眉和转录标记；不同版本不去重。原有整理说明及本次生成的说明、合并卷首不重复计数。",
+  "来源": {
+    "表内来源F": "https://kns.cnki.net/kcms2/article/abstract?v=nMs-978wEndCrjn4cFCrBWAqmqHqbzplLEN3QEylQMlFA2vOLBh9oUtLIvaC-EXZlgf_s1AvtmHZfU6DJR0NCzDbK8kPmrXVK9q9jcwC7sfDvOIr92Ye0z3MSYFngeocEgtsBau900INAj3oiFehb0ednFtmPzoQ_lxuDv1V-BepjFDYA8xRII5h0cgoqCewTfL_9NO92ZQ=&uniplatform=NZKPT&language=CHS",
+    "链接": [
+      "https://kns.cnki.net/kcms2/article/abstract?v=nMs-978wEndCrjn4cFCrBWAqmqHqbzplLEN3QEylQMlFA2vOLBh9oUtLIvaC-EXZlgf_s1AvtmHZfU6DJR0NCzDbK8kPmrXVK9q9jcwC7sfDvOIr92Ye0z3MSYFngeocEgtsBau900INAj3oiFehb0ednFtmPzoQ_lxuDv1V-BepjFDYA8xRII5h0cgoqCewTfL_9NO92ZQ=&uniplatform=NZKPT&language=CHS"
+    ],
+    "作者或出版信息H": "《东南文化》2007年第6期",
+    "版本或出处I": "",
+    "表内备注M": "已收录其挖掘简报",
+    "表内补充N": ""
+  },
+  "Excel定位": {
+    "文件": "C:\\Users\\Administrator\\Desktop\\文献.xlsx",
+    "工作表": "Sheet1",
+    "行号": 42,
+    "颜色RGB": "FFADD8E6",
+    "原始分类字段D": "9",
+    "原始分类字段E": "1",
+    "表内日期J": "9.22"
+  },
+  "文件统计": {
+    "原文TXT数": 1,
+    "分页TXT数": 0,
+    "PDF数": 0,
+    "图片数": 0,
+    "原始文件总数": 1,
+    "原文空TXT数": 0
+  },
+  "内容备注": [],
+  "文件清单": [
+    {
+      "路径": "正文.txt",
+      "原路径": "5362《安徽萧县西虎山汉墓》/正文.txt",
+      "role": "body",
+      "字节数": 21616,
+      "编码": "utf-8-sig",
+      "字数": 7657,
+      "统计使用替换字符": false
+    }
+  ],
+  "生成的卷首文件": null
+}
