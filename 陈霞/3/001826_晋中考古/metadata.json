@@ -1,0 +1,28 @@
+{
+  "id": "001826",
+  "title": "晋中考古",
+  "volume_count": 0,
+  "text_file_count": 0,
+  "total_characters": 0,
+  "source_files": [
+    "001826_晋中考古.djvu"
+  ],
+  "source_formats": {
+    ".djvu": 1
+  },
+  "source_url": "https://z-library.sk/book/JvelgVYMjE/%E6%99%8B%E4%B8%AD%E8%80%83%E5%8F%A4.html",
+  "source": "文物出版社",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "文物出版社",
+  "edition": "国家文物局等",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.25",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 16,
+  "source_title_recorded": "《晋中考古》"
+}

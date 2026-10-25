@@ -1,0 +1,28 @@
+{
+  "id": "004651",
+  "title": "珠海淇澳岛南芒湾遗址出土陶器",
+  "volume_count": 0,
+  "text_file_count": 2,
+  "total_characters": 1376,
+  "source_files": [
+    "004651_珠海淇澳岛南芒湾遗址出土陶器.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "source_url": "https://www.zhmuseum.org.cn/kaogu/kaoguyanjiuInfo?id=2 https://www.zhmuseum.org.cn/wen/w2dInfo?id=46&utm_source=chatgpt.com",
+  "source": "珠海博物馆",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "珠海博物馆",
+  "edition": "考古研究栏目",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.18",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 38,
+  "source_title_recorded": "《珠海淇澳岛南芒湾遗址出土陶器》"
+}

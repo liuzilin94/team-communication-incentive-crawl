@@ -1,0 +1,33 @@
+{
+  "id": "009651",
+  "title": "王仲兴墓志",
+  "volume_count": 0,
+  "text_file_count": 0,
+  "total_characters": 0,
+  "source_files": [
+    "009651_王仲兴墓志_01.jpeg",
+    "009651_王仲兴墓志_02.jpeg",
+    "009651_王仲兴墓志_03.jpeg",
+    "009651_王仲兴墓志_04.jpeg",
+    "009651_王仲兴墓志_05.jpeg",
+    "009651_王仲兴墓志_06.jpeg"
+  ],
+  "source_formats": {
+    ".jpeg": 6
+  },
+  "source_url": "https://z-lib.sk/book/M9pVrO2KqO/%E8%BE%BD%E9%87%91%E5%8E%86%E5%8F%B2%E4%B8%8E%E8%80%83%E5%8F%A4-%E7%AC%AC8%E8%BE%91.html",
+  "source": "辽宁省博物馆, 辽宁省辽金契丹女真史研究会",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "辽宁省博物馆, 辽宁省辽金契丹女真史研究会",
+  "edition": "辽宁省博物馆, 辽宁省辽金契丹女真史研究会 辽金历史与考古 第8辑",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.24",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 77,
+  "source_title_recorded": "《王仲兴墓志》"
+}

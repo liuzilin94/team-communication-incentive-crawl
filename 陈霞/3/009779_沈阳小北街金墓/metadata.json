@@ -1,0 +1,31 @@
+{
+  "id": "009779",
+  "title": "沈阳小北街金墓",
+  "volume_count": 0,
+  "text_file_count": 0,
+  "total_characters": 0,
+  "source_files": [
+    "009779_沈阳小北街金墓_01.jpeg",
+    "009779_沈阳小北街金墓_02.jpeg",
+    "009779_沈阳小北街金墓_03.jpeg",
+    "009779_沈阳小北街金墓_04.jpeg"
+  ],
+  "source_formats": {
+    ".jpeg": 4
+  },
+  "source_url": "https://z-lib.sk/book/M9WoaMDQ93/%E6%B2%88%E9%98%B3%E8%80%83%E5%8F%A4%E5%8F%91%E7%8E%B060%E5%B9%B4-%E6%8A%A5%E5%91%8A%E5%8D%B7.html",
+  "source": "沈阳市文物考古研究所编, 沈阳市文物考古研究所",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "沈阳市文物考古研究所编, 沈阳市文物考古研究所",
+  "edition": "沈阳市文物考古研究所编, 沈阳市文物考古研究所 沈阳考古发现60年 报告卷",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.24",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 78,
+  "source_title_recorded": "《沈阳小北街金墓》"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "003241",
+  "title": "持：金刚经：仪轨",
+  "volume_count": 0,
+  "text_file_count": 1,
+  "total_characters": 1,
+  "source_files": [
+    "003241_持：金刚经：仪轨.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "source_url": "https://www.scribd.com/document/778388194/%E8%AF%B5%E6%8C%81%E9%87%91%E5%88%9A%E7%BB%8F%E4%BB%AA%E8%BD%A8-%E9%A6%99%E8%B5%9E-%E5%9B%9E%E5%90%91",
+  "source": "/",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。",
+    "表格题名为“《持<金刚经>仪轨》”，与目录题名不同；按编号 003241 匹配，未据此更改目录题名。"
+  ],
+  "publisher": "/",
+  "edition": "诵持金刚经仪轨（香赞、回向）",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.18",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 27,
+  "source_title_recorded": "《持<金刚经>仪轨》"
+}

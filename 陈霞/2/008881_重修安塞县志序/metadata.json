@@ -1,0 +1,28 @@
+{
+  "id": "008881",
+  "title": "重修安塞县志序",
+  "volume_count": 0,
+  "text_file_count": 1,
+  "total_characters": 166784,
+  "source_files": [
+    "008881_重修安塞县志序.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "source_url": "https://dfz.shaanxi.gov.cn/zslm/fzzlk/sxjz/yas_16203/201706/P020240923598299576708.pdf",
+  "source": "上海古籍出版社",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "上海古籍出版社",
+  "edition": "[清]倪嘉谦 [民国]郭超群",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.18",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 71,
+  "source_title_recorded": "《重修安塞县志序》"
+}

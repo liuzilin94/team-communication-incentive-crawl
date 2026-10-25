@@ -1,0 +1,29 @@
+{
+  "id": "011063",
+  "title": "雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书（",
+  "volume_count": 0,
+  "text_file_count": 1,
+  "total_characters": 1057,
+  "source_files": [
+    "011063_雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书（.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "source_url": "http://www.tibetology.ac.cn/2026-02/03/content_43348717.htm",
+  "source": "西藏社会科学院",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。",
+    "表格题名为“wu”，与目录题名不同；按编号 011063 匹配，未据此更改目录题名。"
+  ],
+  "publisher": "西藏社会科学院",
+  "edition": "阿音娜《西藏研究》2025年第5期",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.19",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 88,
+  "source_title_recorded": "wu"
+}

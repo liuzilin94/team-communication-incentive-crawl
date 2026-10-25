@@ -1,0 +1,28 @@
+{
+  "id": "002729",
+  "title": "唐文续拾",
+  "volume_count": 20,
+  "text_file_count": 23,
+  "total_characters": 118193,
+  "source_files": [
+    "002729_唐文续拾.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "source_url": "https://commons.wikimedia.org/wiki/File%3A%E5%94%90%E6%96%87%E7%BB%AD%E6%8B%BE_%E5%8D%B7%E4%B8%80%E8%87%B3%E5%8D%81%E5%85%AD_%E4%B8%AD%E5%8D%8E%E4%B9%A6%E5%B1%801983%E5%BD%B1%E5%8D%B0%E7%89%88.pdf?utm_source=chatgpt.com",
+  "source": "中华书局1983年版（与《全唐文》合刊",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "中华书局1983年版（与《全唐文》合刊",
+  "edition": "清·陆心源辑 中华书局1983影印版",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.18",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 23,
+  "source_title_recorded": "《唐文续拾》"
+}

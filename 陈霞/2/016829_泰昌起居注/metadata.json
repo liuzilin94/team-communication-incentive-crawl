@@ -1,0 +1,28 @@
+{
+  "id": "016829",
+  "title": "泰昌起居注",
+  "volume_count": 0,
+  "text_file_count": 1,
+  "total_characters": 16798,
+  "source_files": [
+    "016829_泰昌起居注.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "source_url": "https://zh.wikisource.org/wiki/%E6%B3%B0%E6%98%8C%E8%B5%B7%E5%B1%85%E6%B3%A8/%E6%B3%B0%E6%98%8C%E5%85%83%E5%B9%B4",
+  "source": "维基文库",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "维基文库",
+  "edition": "現在存兩抄本藏於日本東京國會圖書館。2012年天津古籍出版社出版南炳文校正《校正泰昌天啓起居注》。",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.18",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 133,
+  "source_title_recorded": "《泰昌起居注》"
+}

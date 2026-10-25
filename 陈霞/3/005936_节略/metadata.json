@@ -1,0 +1,28 @@
+{
+  "id": "005936",
+  "title": "节略",
+  "volume_count": 0,
+  "text_file_count": 1,
+  "total_characters": 17716,
+  "source_files": [
+    "005936_节略.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "source_url": "https://z-library.sk/book/NOVM43LPvk/%E9%9D%92%E6%B5%B7%E4%BA%8B%E5%AE%9C%E8%8A%82%E7%95%A5.html",
+  "source": "西宁：青海人民出版社",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "西宁：青海人民出版社",
+  "edition": "青海事宜节略\n（清）长白文孚著；魏明章标注, (清)长白文孚著, 魏明章标注, 长白文孚, 魏明章, 文孚",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.24",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 48,
+  "source_title_recorded": "《节略》"
+}

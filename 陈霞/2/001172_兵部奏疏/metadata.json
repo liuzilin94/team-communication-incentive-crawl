@@ -1,0 +1,30 @@
+{
+  "id": "001172",
+  "title": "兵部奏疏",
+  "volume_count": 2,
+  "text_file_count": 3,
+  "total_characters": 61593,
+  "source_files": [
+    "001172_兵部奏疏_01.pdf",
+    "001172_兵部奏疏_02.pdf",
+    "001172_兵部奏疏_03.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 3
+  },
+  "source_url": "http://read.nlc.cn/allSearch/searchDetail?searchType=all&showType=1&indexName=data_892&fid=0363",
+  "source": "中国国家图书馆",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "中国国家图书馆",
+  "edition": "明萬曆[1573-1620] (明)潘季馴撰 刻本",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.15",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 11,
+  "source_title_recorded": "《兵部奏疏》"
+}

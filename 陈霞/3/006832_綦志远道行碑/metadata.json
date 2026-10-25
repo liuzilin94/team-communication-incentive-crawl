@@ -1,0 +1,30 @@
+{
+  "id": "006832",
+  "title": "綦志远道行碑",
+  "volume_count": 0,
+  "text_file_count": 0,
+  "total_characters": 0,
+  "source_files": [
+    "006832_綦志远道行碑.png",
+    "006832_綦志远道行碑.pdf"
+  ],
+  "source_formats": {
+    ".png": 1,
+    ".pdf": 1
+  },
+  "source_url": "http://mylib.nlc.cn/allSearch/searchDetail?searchType=34&showType=1&indexName=data_418&fid=%e5%90%84%e5%9c%b02562",
+  "source": "陝西省周至縣",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "陝西省周至縣",
+  "edition": "（元）李庭撰；（元）孫德彧正書並隸書額；（元）張德寧刊",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.24",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 55,
+  "source_title_recorded": "《綦志远道行碑》"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "000407",
+  "title": "皇明九边考",
+  "volume_count": 9,
+  "text_file_count": 10,
+  "total_characters": 55459,
+  "source_files": [],
+  "source_formats": {},
+  "source_url": "https://zh.wikisource.org/zh-hans/%E7%9A%87%E6%98%8E%E4%B9%9D%E9%82%8A%E8%80%83",
+  "source": "维基文库",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "维基文库",
+  "edition": "[明] 魏焕边防地理",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.11",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 5,
+  "source_title_recorded": "《皇明九边考》"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "019390",
+  "title": "国民教育",
+  "volume_count": 0,
+  "text_file_count": 1,
+  "total_characters": 11422,
+  "source_files": [
+    "019390_国民教育.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "source_url": "http://read.nlc.cn/allSearch/searchDetail?searchType=all&showType=1&indexName=data_416&fid=11jh001769",
+  "source": "商务印书馆[发行者]",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "商务印书馆[发行者]",
+  "edition": "民国35[1946] 郭有守,刘百川著",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.22",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 153,
+  "source_title_recorded": "《国民教育》"
+}

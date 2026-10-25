@@ -1,0 +1,9 @@
+目录结构说明
+
+README.md：本书目转存说明
+metadata.json：文件清单及统计信息
+目录结构说明.txt：本说明
+伍、西南少数民族兽偏旁命名考略.txt：文字内容
+柒、The Miao：Their Origin and Southward Migration.txt：文字内容
+陆、Notes on the Ethnic Minorities of South China.txt：文字内容
+原始资料/《关于检发商讨修正西南少数民族虫兽偏旁命名谈话会记录的训令、牌告》.pdf：原始文件

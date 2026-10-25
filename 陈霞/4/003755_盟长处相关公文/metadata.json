@@ -1,0 +1,35 @@
+{
+  "id": "003755",
+  "title": "盟长处相关公文",
+  "volume_count": 0,
+  "text_file_count": 5,
+  "total_characters": 1732,
+  "source_files": [
+    "屏幕截图_30-9-2026_201938_reader.z-library.sk.jpeg",
+    "屏幕截图_30-9-2026_20461_archive.org.jpeg",
+    "屏幕截图_30-9-2026_20469_archive.org.jpeg",
+    "屏幕截图_30-9-2026_204849_archive.org.jpeg",
+    "屏幕截图_30-9-2026_204931_archive.org.jpeg",
+    "屏幕截图_30-9-2026_20493_archive.org.jpeg",
+    "屏幕截图_30-9-2026_204949_archive.org.jpeg",
+    "屏幕截图_30-9-2026_205016_archive.org.jpeg"
+  ],
+  "source_formats": {
+    ".jpeg": 8
+  },
+  "source_url": "https://archive.org/details/2021_20260123/page/n309/mode/2up",
+  "source": "国家图书馆出版社",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "国家图书馆出版社",
+  "edition": "赤峰地区清代蒙满文档案汉译汇编",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.30",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 31,
+  "source_title_recorded": "《盟长处相关公文》"
+}

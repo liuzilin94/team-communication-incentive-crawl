@@ -1,0 +1,28 @@
+{
+  "id": "002857",
+  "title": "银川附近的汉墓和唐墓",
+  "volume_count": 0,
+  "text_file_count": 1,
+  "total_characters": 12853,
+  "source_files": [
+    "002857_银川附近的汉墓和唐墓.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "source_url": "https://kns.cnki.net/kns8s/defaultresult/index?crossids=YSTT4HG0%2CLSTPFY1C%2CEMRPGLPA%2CJUP3MUPD%2CMPMFIG1A%2CWQ0UVIAA%2CBLZOG7CK%2CPWFIRAGL%2CNLBO1Z6R%2CNN3FJMUV&korder=SU&kw=%E3%80%8A%E9%93%B6%E5%B7%9D%E9%99%84%E8%BF%91%E7%9A%84%E6%B1%89%E5%A2%93%E5%92%8C%E5%94%90%E5%A2%93%E3%80%8B",
+  "source": "文物出版社",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "文物出版社",
+  "edition": "牛达生",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.12",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 24,
+  "source_title_recorded": "《银川附近的汉墓和唐墓》"
+}

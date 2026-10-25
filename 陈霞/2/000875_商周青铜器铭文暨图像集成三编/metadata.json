@@ -1,0 +1,31 @@
+{
+  "id": "000875",
+  "title": "商周青铜器铭文暨图像集成三编",
+  "volume_count": 0,
+  "text_file_count": 1,
+  "total_characters": 964036,
+  "source_files": [
+    "000875_商周青铜器铭文暨图像集成三编_01.pdf",
+    "000875_商周青铜器铭文暨图像集成三编_02.pdf",
+    "000875_商周青铜器铭文暨图像集成三编_03.pdf",
+    "000875_商周青铜器铭文暨图像集成三编_04.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 4
+  },
+  "source_url": "https://dokumen.pub/1nbsped-9787532596560.html?utm_source=chatgpt.com",
+  "source": "上海古籍出版社",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "上海古籍出版社",
+  "edition": "2020年 吴镇烽",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.18",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 9,
+  "source_title_recorded": "《商周青铜器铭文暨图像集成三编》"
+}

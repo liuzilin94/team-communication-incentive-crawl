@@ -1,0 +1,38 @@
+{
+  "id": "011577",
+  "title": "精河直隶厅乡土志",
+  "volume_count": 0,
+  "text_file_count": 0,
+  "total_characters": 0,
+  "source_files": [
+    "011577_精河直隶厅乡土志_01.jpeg",
+    "011577_精河直隶厅乡土志_02.jpeg",
+    "011577_精河直隶厅乡土志_03.jpeg",
+    "011577_精河直隶厅乡土志_04.jpeg",
+    "011577_精河直隶厅乡土志_05.jpeg",
+    "011577_精河直隶厅乡土志_06.jpeg",
+    "011577_精河直隶厅乡土志_07.jpeg",
+    "011577_精河直隶厅乡土志_08.jpeg",
+    "011577_精河直隶厅乡土志_09.jpeg",
+    "011577_精河直隶厅乡土志_10.jpeg",
+    "011577_精河直隶厅乡土志_11.jpeg"
+  ],
+  "source_formats": {
+    ".jpeg": 11
+  },
+  "source_url": "https://z-lib.sk/book/kzPxPB87zG/%E6%96%B0%E7%96%86%E4%B9%A1%E5%9C%9F%E5%BF%97%E7%A8%BF.html",
+  "source": "新疆人民出版社",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "新疆人民出版社",
+  "edition": "马大正 新疆乡土志稿\n (清)曹淩漢纂",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.24",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 92,
+  "source_title_recorded": "《精河直隶厅乡土志》"
+}

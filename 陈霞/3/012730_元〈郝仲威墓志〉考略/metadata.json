@@ -1,0 +1,29 @@
+{
+  "id": "012730",
+  "title": "元〈郝仲威墓志〉考略",
+  "volume_count": 0,
+  "text_file_count": 1,
+  "total_characters": 9122,
+  "source_files": [
+    "012730_元〈郝仲威墓志〉考略.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "source_url": "https://kns.cnki.net/kcms2/article/abstract?v=s7Ax9qbH24lOsvlZ22gGx2UuCgpiN6Gqy7zRz66B33bZkJUcyPExCrBXZzY1v9CO-QD0rm0Evfkg_RkWbqkr7qbnjLyYFO12XESXxWnzwXAu2RKCtDPb2JwKlOiivM3tGY5hpRJoqr-VkEBLfSjAbzcakEilRUUTOdNIYlTjBR2mfX19EGPrLQ==",
+  "source": "西安碑林博物馆",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。",
+    "表格题名为“《元<郝仲威墓志>考略》”，与目录题名不同；按编号 012730 匹配，未据此更改目录题名。"
+  ],
+  "publisher": "西安碑林博物馆",
+  "edition": "《碑林集刊》第17辑，作者王亮亮",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.25",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 101,
+  "source_title_recorded": "《元<郝仲威墓志>考略》"
+}

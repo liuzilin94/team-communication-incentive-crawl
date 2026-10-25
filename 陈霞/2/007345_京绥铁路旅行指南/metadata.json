@@ -1,0 +1,28 @@
+{
+  "id": "007345",
+  "title": "京绥铁路旅行指南",
+  "volume_count": 0,
+  "text_file_count": 1,
+  "total_characters": 51146,
+  "source_files": [
+    "007345_京绥铁路旅行指南.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "source_url": "http://read.nlc.cn/allSearch/searchDetail?searchType=24&showType=1&indexName=data_416&fid=16jh000777",
+  "source": "京绥铁路管理局[发行者]",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "京绥铁路管理局[发行者]",
+  "edition": "民国七年[1918]",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.18",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 59,
+  "source_title_recorded": "《京绥铁路旅行指南》"
+}

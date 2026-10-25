@@ -1,0 +1,28 @@
+{
+  "id": "010933",
+  "title": "卡尔东遗址发现的树皮碎片",
+  "volume_count": 0,
+  "text_file_count": 1,
+  "total_characters": 18745,
+  "source_files": [
+    "010933_卡尔东遗址发现的树皮碎片.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "source_url": "https://kns.cnki.net/kcms2/article/abstract?v=s7Ax9qbH24mmYwuRLg9Yv9DL4VjEZHKbhDhJJwOKOrob3YICVYKtwoadY09X6CspnvnC38pTN4vS1TJP01g1TwSYBif2oOEn6OmmfvsouF5z8TgMcMgBWdLu8jzQ-770po8D_Ab35PXhcIsojrf7oHM5wityl6_wTyrhTKKowEG0tjJSpjRCdQ==",
+  "source": "中国知网",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "中国知网",
+  "edition": "宋吉香 吕红亮 张正为 刘歆益 西藏阿里卡尔东遗址2013年度浮选结果分析",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.25",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 87,
+  "source_title_recorded": "《卡尔东遗址发现的树皮碎片》"
+}

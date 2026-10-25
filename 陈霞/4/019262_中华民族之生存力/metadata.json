@@ -1,0 +1,28 @@
+{
+  "id": "019262",
+  "title": "中华民族之生存力",
+  "volume_count": 0,
+  "text_file_count": 1,
+  "total_characters": 427,
+  "source_files": [
+    "《中华民族之生存力》.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "source_url": "http://read.nlc.cn/allSearch/searchDetail?searchType=all&showType=1&indexName=data_511&fid=027032013012408",
+  "source": "新亚细亚学会",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "新亚细亚学会",
+  "edition": "民国二十一年十二月[1932.12] 马鹤天著 内外蒙古考察日记",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "10.6",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 152,
+  "source_title_recorded": "《中华民族之生存力》"
+}

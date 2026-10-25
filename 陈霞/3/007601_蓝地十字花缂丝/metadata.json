@@ -1,0 +1,28 @@
+{
+  "id": "007601",
+  "title": "蓝地十字花缂丝",
+  "volume_count": 0,
+  "text_file_count": 1,
+  "total_characters": 6652,
+  "source_files": [
+    "007601_蓝地十字花缂丝.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "source_url": "https://www.sohu.com/a/468692675_121106869",
+  "source": "青海省文物考古研究所",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "青海省文物考古研究所",
+  "edition": "青海省文化旅游【文旅新闻】山宗•水源•路之冲 | 吐蕃人有多精致？来看都兰吐蕃墓群中出土的金银器、丝织品……",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.23",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 61,
+  "source_title_recorded": "《蓝地十字花缂丝》"
+}

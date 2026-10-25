@@ -1,0 +1,28 @@
+{
+  "id": "004139",
+  "title": "广东之边政报道（二）",
+  "volume_count": 0,
+  "text_file_count": 1,
+  "total_characters": 23303,
+  "source_files": [
+    "004139_广东之边政报道（二）.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "source_url": "http://read.nlc.cn/allSearch/searchDetail?searchType=all&showType=1&indexName=data_416&fid=15jh006996",
+  "source": "广东省政府边政指导委员会",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "广东省政府边政指导委员会",
+  "edition": "民国三十一年[1942] 胡耐安[著]",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.16",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 34,
+  "source_title_recorded": "《广东之边政报道（二）》"
+}

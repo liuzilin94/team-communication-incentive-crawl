@@ -1,0 +1,30 @@
+{
+  "id": "004011",
+  "title": "为重修怀圣光塔寺而作",
+  "volume_count": 0,
+  "text_file_count": 1,
+  "total_characters": 8659,
+  "source_files": [
+    "004011_为重修怀圣光塔寺而作.webp",
+    "004011_为重修怀圣光塔寺而作.pdf"
+  ],
+  "source_formats": {
+    ".webp": 1,
+    ".pdf": 1
+  },
+  "source_url": "https://kns.cnki.net/reader/flowpdf?invoice=JI9qTofR1zuQ79ItPl0AKE1MbdXaoJC1kpMGVlNB0nXratt17tr1D18W%2FuMXl9rMC7VyxfQF4uN0dAnXrZ897IjtIrS%2BirNA6HVsNYcLIoxgC%2F6wOZrrsu5rGfb68o97cc53x0BqrMmgPF1MLUN0efLauE6kfHBks8pGAP8R%2Fno%3D&platform=NZKPT&sourcetype=nxgp&product=CJFQ&filename=LLWS202302014&tablename=cjfdlast2023&type=JOURNAL&scope=trial&cflag=overlay&dflag=&pages=&language=CHS&trial=&nonce=EA22C83AF3E84F3683094CA60BAB3C2B",
+  "source": "广东省人民政府文史研究馆 岭南文史",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "广东省人民政府文史研究馆 岭南文史",
+  "edition": "龚甜甜 伊斯兰教入华与怀圣寺、光塔的起源——以元《重建怀圣塔寺之记》碑为线索",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.25",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 33,
+  "source_title_recorded": "《为重修怀圣光塔寺而作》"
+}

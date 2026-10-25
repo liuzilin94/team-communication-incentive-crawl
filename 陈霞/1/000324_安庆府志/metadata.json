@@ -1,0 +1,28 @@
+{
+  "id": "000324",
+  "title": "安庆府志",
+  "volume_count": 32,
+  "text_file_count": 40,
+  "total_characters": 629977,
+  "source_files": [
+    "000324_安庆府志.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "source_url": "https://pan.quark.cn/s/78446f7c4f3b#/list/share/ff5a7757817043db9c55829e24581d13",
+  "source": "江苏古籍出版社",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "江苏古籍出版社",
+  "edition": "清康熙本",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.11",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 4,
+  "source_title_recorded": "《安庆府志》"
+}

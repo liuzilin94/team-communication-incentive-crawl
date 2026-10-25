@@ -1,0 +1,28 @@
+{
+  "id": "018877",
+  "title": "新建龙陵厅学记",
+  "volume_count": 0,
+  "text_file_count": 1,
+  "total_characters": 911,
+  "source_files": [
+    "018877_新建龙陵厅学记.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "source_url": "https://www.shidianguji.com/book/NLG312001091915/chapter/1liip4hcqo37j?page_from=searching_page&paragraphId=7570146928080601124&keywords=%E6%96%B0%E5%BB%BA%2C%E6%96%B0%E5%BB%BA%E9%BE%8D%E9%99%B5%E5%BB%B3%E5%AD%B8%E8%A8%98%2C%E5%BB%B3%2C%E5%AD%B8%E8%A8%98&topicId=&version=9&contentMatch=1",
+  "source": "识典古籍",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "识典古籍",
+  "edition": "[清]王文韶 纂修 《续云南通志稿》清光绪27年[1901]刻本 卷一百八十四",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.18",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 149,
+  "source_title_recorded": "《新建龙陵厅学记》"
+}

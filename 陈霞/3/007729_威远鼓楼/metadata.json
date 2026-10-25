@@ -1,0 +1,28 @@
+{
+  "id": "007729",
+  "title": "威远鼓楼",
+  "volume_count": 0,
+  "text_file_count": 1,
+  "total_characters": 481,
+  "source_files": [
+    "007729_威远鼓楼.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "source_url": "http://www.lxbwg.cn/xwArticle/?126.html",
+  "source": "陕西县博物馆",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "陕西县博物馆",
+  "edition": "甘肃省定西市陇西县城关中心",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.25",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 62,
+  "source_title_recorded": "《威远鼓楼》"
+}

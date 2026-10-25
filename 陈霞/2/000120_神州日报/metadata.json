@@ -1,0 +1,29 @@
+{
+  "id": "000120",
+  "title": "神州日报",
+  "volume_count": 0,
+  "text_file_count": 4,
+  "total_characters": 196976,
+  "source_files": [
+    "000120_神州日报_01.pdf",
+    "000120_神州日报_02.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 2
+  },
+  "source_url": "https://archive.org/details/shenzhou-ribao-shanghai-archive",
+  "source": "神州日報社",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "神州日報社",
+  "edition": "深圳-日保-上海",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.18",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 3,
+  "source_title_recorded": "《神州日报》"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "001563",
+  "title": "重要教育消息",
+  "volume_count": 0,
+  "text_file_count": 1,
+  "total_characters": 74,
+  "source_files": [
+    "001563_重要教育消息.pdf"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "source_url": "https://www.cnbksy.com/search/detail/7e49f729be7d27c084e90b83831a677f/7/6aab69f919ef833881079831",
+  "source": "广东教育厅",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "广东教育厅",
+  "edition": "1939 年《广东教育战时通讯》",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.17",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 14,
+  "source_title_recorded": "《重要教育消息》"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "011191",
+  "title": "原封匹料",
+  "volume_count": 0,
+  "text_file_count": 1,
+  "total_characters": 245,
+  "source_files": [
+    "011191_原封匹料.jpg"
+  ],
+  "source_formats": {
+    ".jpg": 1
+  },
+  "source_url": "https://www.tibetmuseum.com.cn/pc/zh-CN/exhibitsDetail?exhibit_id=102&zangstype=%E0%BD%95%E0%BE%B1%E0%BD%B2%E0%BD%A2%E0%BC%8B%E0%BD%A3%E0%BD%BC%E0%BD%82&zhtype=%E8%BF%94%E5%9B%9E&ustype=Return",
+  "source": "西藏博物馆",
+  "author": null,
+  "crawled_by": "陈霞",
+  "notes": [
+    "按原有文件整理；未核验全文完整性或原始来源。"
+  ],
+  "publisher": "西藏博物馆",
+  "edition": "清代民国时期",
+  "crawl_status_recorded": "是",
+  "crawl_date_recorded": "9.25",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 89,
+  "source_title_recorded": "《原封匹料》"
+}
