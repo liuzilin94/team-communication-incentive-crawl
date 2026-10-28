@@ -1,0 +1,66 @@
+{
+  "id": "005618",
+  "title": "安徽省博物馆大楼东北面空地",
+  "volume_count": null,
+  "text_file_count": 0,
+  "total_characters": 0,
+  "source_url": "https://baijiahao.baidu.com/s?id=1641617720470464119&wfr=spider&for=pc",
+  "source": "baijiahao.baidu.com",
+  "author": null,
+  "publisher": null,
+  "edition": null,
+  "crawled_by": "托勒哈尼阿依·巴塔别克",
+  "crawl_date": null,
+  "content_scope": "现有 1 份图片资料，尚无正文 TXT。",
+  "notes": [],
+  "schema_version": 2,
+  "original_title": "《安徽省博物馆大楼东北面空地》",
+  "batch": "b03",
+  "organized_on": "2026-10-28",
+  "collection_status": "仅有图片资料",
+  "bibliography_status": "已收录",
+  "bibliography_status_original": "已收录",
+  "nonempty_text_file_count": 0,
+  "empty_text_file_count": 0,
+  "empty_text_files": [],
+  "pdf_file_count": 0,
+  "image_file_count": 1,
+  "original_volume_count": null,
+  "original_volume_count_basis": "原书卷数未明确；未将页数、册数或文件数当作卷数",
+  "text_count_basis": "统计正文、卷册辑、章节、分页及生成的卷首 TXT，包含保留的空页；不含目录说明、原有说明和卷首原件。非空及空文件另列。",
+  "character_count_basis": "上述正文 TXT 解码后去除空白字符计数，含标点及转录标记；合并全文与分段或分页并存时未做跨文件去重，不代表作品净字数。",
+  "volume_count_basis": "仅统计现存明确标卷文件中的分集与卷号组合，上下分段合为一卷；原书卷数单独记录。无明确卷次时为 null。",
+  "source_urls": [
+    "https://baijiahao.baidu.com/s?id=1641617720470464119&wfr=spider&for=pc"
+  ],
+  "source_url_basis": "原书目来源记录；尚未逐项验证其与现存正文的对应关系",
+  "responsibility_and_publication_record": null,
+  "bibliographic_source_record": {
+    "表内来源F": "https://baijiahao.baidu.com/s?id=1641617720470464119&wfr=spider&for=pc",
+    "链接": [
+      "https://baijiahao.baidu.com/s?id=1641617720470464119&wfr=spider&for=pc"
+    ],
+    "作者或出版信息H": "",
+    "版本或出处I": "",
+    "表内备注M": "中安在线《【70年安徽影像】看博物馆！》（2019-08-11）明确记载\"**1956 年 11 月 14 日**，筹备三年多的**安徽省博物馆**终于成立……建筑面积 **11580 平方米**、展厅面积 7826 平方米的**博物馆展览大楼**从平地立起\"，并配图注\"**1956 年，安徽省博物馆建成后，市民纷纷走进博物馆参观**\"——证明该馆**建馆期即有成体系的照片与规范图注**（载体为地方媒体图片专题/馆史图册），本条\"空地\"图注与这一批影像**同源可能性最高**",
+    "表内补充N": ""
+  },
+  "bibliography_locator": {
+    "工作表": "Sheet1",
+    "行号": 44,
+    "颜色RGB": "FFADD8E6",
+    "原始分类字段D": "10",
+    "原始分类字段E": "2",
+    "表内日期J": "9.28"
+  },
+  "previous_organized_on": "2026-10-24",
+  "file_manifest": [
+    {
+      "path": "原始资料/005618_安徽省博物馆大楼东北面空地_001.webp",
+      "role": "image",
+      "original_path": "5618《安徽省博物馆大楼东北面空地》.webp",
+      "upstream_original_path": "5618《安徽省博物馆大楼东北面空地》.webp",
+      "bytes": 77580
+    }
+  ]
+}
