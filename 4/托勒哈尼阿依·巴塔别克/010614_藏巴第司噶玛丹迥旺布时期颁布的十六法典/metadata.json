@@ -1,0 +1,66 @@
+{
+  "id": "010614",
+  "title": "藏巴第司噶玛丹迥旺布时期颁布的十六法典",
+  "volume_count": null,
+  "text_file_count": 0,
+  "total_characters": 0,
+  "source_url": "https://library.bdrc.io/show/bdr:MW30296",
+  "source": "library.bdrc.io",
+  "author": null,
+  "publisher": null,
+  "edition": "The Sixteen Codes of Law\n→ 《十六律》（或“十六部法典”）",
+  "crawled_by": "托勒哈尼阿依·巴塔别克",
+  "crawl_date": null,
+  "content_scope": "现有 1 份 PDF，尚无正文 TXT。",
+  "notes": [],
+  "schema_version": 2,
+  "original_title": "《藏巴第司噶玛丹迥旺布时期颁布的十六法典》",
+  "batch": "b04",
+  "organized_on": "2026-10-28",
+  "collection_status": "仅有 PDF，尚无 TXT",
+  "bibliography_status": "已收录",
+  "bibliography_status_original": "已收录",
+  "nonempty_text_file_count": 0,
+  "empty_text_file_count": 0,
+  "empty_text_files": [],
+  "pdf_file_count": 1,
+  "image_file_count": 0,
+  "original_volume_count": null,
+  "original_volume_count_basis": "原书卷数未明确；未将页数、册数或文件数当作卷数",
+  "text_count_basis": "统计正文、卷册辑、章节、分页及生成的卷首 TXT，包含保留的空页；不含目录说明、原有说明和卷首原件。非空及空文件另列。",
+  "character_count_basis": "上述正文 TXT 解码后去除空白字符计数，含标点及转录标记；合并全文与分段或分页并存时未做跨文件去重，不代表作品净字数。",
+  "volume_count_basis": "仅统计现存明确标卷文件中的分集与卷号组合，上下分段合为一卷；原书卷数单独记录。无明确卷次时为 null。",
+  "source_urls": [
+    "https://library.bdrc.io/show/bdr:MW30296"
+  ],
+  "source_url_basis": "原书目来源记录；尚未逐项验证其与现存正文的对应关系",
+  "responsibility_and_publication_record": "利物浦博物馆给藏品《十六法典》的扫描件",
+  "bibliographic_source_record": {
+    "表内来源F": "https://library.bdrc.io/show/bdr:MW30296",
+    "链接": [
+      "https://library.bdrc.io/show/bdr:MW30296"
+    ],
+    "作者或出版信息H": "利物浦博物馆给藏品《十六法典》的扫描件",
+    "版本或出处I": "The Sixteen Codes of Law\n→ 《十六律》（或“十六部法典”）",
+    "表内备注M": "",
+    "表内补充N": ""
+  },
+  "bibliography_locator": {
+    "工作表": "Sheet1",
+    "行号": 83,
+    "颜色RGB": "FFADD8E6",
+    "原始分类字段D": "18",
+    "原始分类字段E": "1",
+    "表内日期J": "9.28"
+  },
+  "previous_organized_on": "2026-10-24",
+  "file_manifest": [
+    {
+      "path": "原始资料/010614_藏巴第司噶玛丹迥旺布时期颁布的十六法典.pdf",
+      "role": "pdf",
+      "original_path": "10614《藏巴第司噶玛丹迥旺布时期颁布的十六法典》.pdf",
+      "upstream_original_path": "10614《藏巴第司噶玛丹迥旺布时期颁布的十六法典》/10614《藏巴第司噶玛丹迥旺布时期颁布的十六法典》.pdf",
+      "bytes": 8531156
+    }
+  ]
+}
