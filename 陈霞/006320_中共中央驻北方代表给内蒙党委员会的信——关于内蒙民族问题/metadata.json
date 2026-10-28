@@ -1,0 +1,50 @@
+{
+  "id": "006320",
+  "title": "中共中央驻北方代表给内蒙党委员会的信——关于内蒙民族问题",
+  "batch": "03",
+  "batch_label": "第三次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 9800,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.marxists.org/chinese/pdf/history_of_international/china/20190603.pdf",
+  "source": "中共中央党校出版社",
+  "publisher": "中共中央党校出版社",
+  "edition": "中共中央统战部 民族问题文献汇编",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.23",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《中共中央驻北方代表给内蒙党委员会的信——关于内蒙民族问题》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 51,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "006320_中共中央驻北方代表给内蒙党委员会的信——关于内蒙民族问题.pdf"
+  ],
+  "original_source_filenames": {
+    "006320_中共中央驻北方代表给内蒙党委员会的信——关于内蒙民族问题.pdf": "006320_中共中央驻北方代表给内蒙党委员会的信——关于内蒙民族问题.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "006320_中共中央驻北方代表给内蒙党委员会的信——关于内蒙民族问题.pdf",
+      "sha256": "9181bf4cf1715a65e0914b2fdad7cbf2c8b179f240e118da757ae45c9fe6b518"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞3"
+}

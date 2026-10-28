@@ -1,0 +1,50 @@
+{
+  "id": "007473",
+  "title": "民和县胡李家遗址家养动物骨骼",
+  "batch": "03",
+  "batch_label": "第三次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 19107,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://kns.cnki.net/kcms2/article/abstract?v=s7Ax9qbH24mVCXGYZvBgYrUBBzBRzl0tAPiAz7E4R8xfMFRdgdJ2Rx8NIMIxeUSGaEt5hPzYE_wDEcyc3Y59aLVFM5DN8Sq3m8twR6ssAHF72CPB4sfSyUGZUOerFdhFBX9gKHGVzzT9X5w4EYxOQr7U7DC5V0LN0SFZ7eD8029Rnp-uhPpFEg==",
+  "source": "知网",
+  "publisher": "知网",
+  "edition": "叶茂林 王国道 蔡林海 何克洲 青海民和县胡李家遗址的发掘",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.25",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《民和县胡李家遗址家养动物骨骼》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 60,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "007473_民和县胡李家遗址家养动物骨骼.pdf"
+  ],
+  "original_source_filenames": {
+    "007473_民和县胡李家遗址家养动物骨骼.pdf": "007473_民和县胡李家遗址家养动物骨骼.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "007473_民和县胡李家遗址家养动物骨骼.pdf",
+      "sha256": "d70f4f23e88132282cfa2c757add5f5e2ba301c4ea5c8c17d657a013022f5015"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞3"
+}

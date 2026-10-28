@@ -1,0 +1,50 @@
+{
+  "id": "014652",
+  "title": "会理县马鞍子遗址",
+  "batch": "03",
+  "batch_label": "第三次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 9981,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://book.sciencereading.cn/shop/book/Booksimple/onlineRead.do?id=BA7A319BA540A12F7E053010B0A0A3CE4000&bookPageNum=6",
+  "source": "科学出版社",
+  "publisher": "科学出版社",
+  "edition": "成都文物考古研究院 成都考古发现 会理县马鞍子遗址2018年调查报告",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.26",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《会理县马鞍子遗址》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 116,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "014652_会理县马鞍子遗址.pdf"
+  ],
+  "original_source_filenames": {
+    "014652_会理县马鞍子遗址.pdf": "014652_会理县马鞍子遗址.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "014652_会理县马鞍子遗址.pdf",
+      "sha256": "dbe5b738fc1704a244825d6ab0f745de5d5edb21a631e27a65f4b45447fe1e36"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞3"
+}

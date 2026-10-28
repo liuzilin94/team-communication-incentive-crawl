@@ -1,0 +1,50 @@
+{
+  "id": "005936",
+  "title": "节略",
+  "batch": "03",
+  "batch_label": "第三次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 16794,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://z-library.sk/book/NOVM43LPvk/%E9%9D%92%E6%B5%B7%E4%BA%8B%E5%AE%9C%E8%8A%82%E7%95%A5.html",
+  "source": "西宁：青海人民出版社",
+  "publisher": "西宁：青海人民出版社",
+  "edition": "青海事宜节略\n（清）长白文孚著；魏明章标注, (清)长白文孚著, 魏明章标注, 长白文孚, 魏明章, 文孚",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.24",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《节略》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 48,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "005936_节略.pdf"
+  ],
+  "original_source_filenames": {
+    "005936_节略.pdf": "005936_节略.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "005936_节略.pdf",
+      "sha256": "23bd105604641c483527fc25e3c3ddc865f0a643b09af10cb029151425c6b55d"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞3"
+}
