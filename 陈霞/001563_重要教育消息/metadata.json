@@ -1,0 +1,50 @@
+{
+  "id": "001563",
+  "title": "重要教育消息",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 39,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.cnbksy.com/search/detail/7e49f729be7d27c084e90b83831a677f/7/6aab69f919ef833881079831",
+  "source": "广东教育厅",
+  "publisher": "广东教育厅",
+  "edition": "1939 年《广东教育战时通讯》",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.17",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《重要教育消息》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 14,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "001563_重要教育消息.pdf"
+  ],
+  "original_source_filenames": {
+    "001563_重要教育消息.pdf": "001563_重要教育消息.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "001563_重要教育消息.pdf",
+      "sha256": "956ea9a09c20cbca4c8927c2e00eeb15f246c6e233fb7091d382a732132a1853"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "016829",
+  "title": "泰昌起居注",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 16057,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://zh.wikisource.org/wiki/%E6%B3%B0%E6%98%8C%E8%B5%B7%E5%B1%85%E6%B3%A8/%E6%B3%B0%E6%98%8C%E5%85%83%E5%B9%B4",
+  "source": "维基文库",
+  "publisher": "维基文库",
+  "edition": "現在存兩抄本藏於日本東京國會圖書館。2012年天津古籍出版社出版南炳文校正《校正泰昌天啓起居注》。",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.18",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《泰昌起居注》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 133,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "016829_泰昌起居注.epub",
+    "016829_泰昌起居注.pdf"
+  ],
+  "original_source_filenames": {
+    "016829_泰昌起居注.pdf": "016829_泰昌起居注.pdf",
+    "016829_泰昌起居注.epub": "《泰昌起居注》\\泰昌起居注_泰昌元年.epub"
+  },
+  "source_checksums": [
+    {
+      "file": "016829_泰昌起居注.epub",
+      "sha256": "ad73fde43af2293b65b281b857b44000a358c1f7ef3597657e236b133e400361"
+    },
+    {
+      "file": "016829_泰昌起居注.pdf",
+      "sha256": "7dd15b5d12b0056f0307be0510164bfa0ba651e887510b61d788ca35c8a64551"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".epub": 1,
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

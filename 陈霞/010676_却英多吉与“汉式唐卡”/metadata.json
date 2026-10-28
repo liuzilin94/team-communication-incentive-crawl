@@ -1,0 +1,50 @@
+{
+  "id": "010676",
+  "title": "却英多吉与“汉式唐卡”",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 37476,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://kns.cnki.net/kcms2/article/abstract?v=btsNj5Rv70aFgk_FiXcnFMCRDWflU-FHzcTG-75G40oSpXCgNBId_m_Z4Oe0jv43P2Z_ELm2ucjZ_rvc4fqFzVbOMojXftWxB4_7BPxXUkxaQuO1hGJtRJ-Bwnk0N35gJCEu08zFvj2hij6hsneSO8qPBXeAKklgYChtwluRpJjSt5QsF_etdd2OR05w3Hf6NVKfjQqQR9dy06l27MCmCA==&uniplatform=NZKPT&language=CHS",
+  "source": "2016-04-21 知网平台",
+  "publisher": "2016-04-21 知网平台",
+  "edition": "熊文彬\n四川大学中国藏学研究所",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.19",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《却英多吉与“汉式唐卡”》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 85,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "010676_却英多吉与“汉式唐卡”.pdf"
+  ],
+  "original_source_filenames": {
+    "010676_却英多吉与“汉式唐卡”.pdf": "010676_却英多吉与“汉式唐卡”.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "010676_却英多吉与“汉式唐卡”.pdf",
+      "sha256": "6711d9a91da0edbd63ff47b6f705b760989bffe048d15ad213be235cc1ba8d43"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

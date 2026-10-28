@@ -1,0 +1,57 @@
+{
+  "id": "006448",
+  "title": "守蒙抗日英雄——周元",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 47414,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.krzzjn.com/38/62262.html",
+  "source": "抗日战争纪念园",
+  "publisher": "抗日战争纪念园",
+  "edition": "徐而缓 微博 桂系第15军组成的第48军（将领）简介",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.19",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《守蒙抗日英雄——周元》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 52,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "006448_守蒙抗日英雄——周元.pdf",
+    "网页存档_001/006448_守蒙抗日英雄——周元.html"
+  ],
+  "original_source_filenames": {
+    "006448_守蒙抗日英雄——周元.pdf": "006448_守蒙抗日英雄——周元.pdf",
+    "网页存档_001/006448_守蒙抗日英雄——周元.html": "《守蒙抗日英雄——周元》\\守蒙抗日英雄——周元.html"
+  },
+  "source_checksums": [
+    {
+      "file": "006448_守蒙抗日英雄——周元.pdf",
+      "sha256": "3782b2825427dd8272e6f5e45a3d884e47daed66d62b0b7fd4ed7555af58e938"
+    },
+    {
+      "file": "网页存档_001/006448_守蒙抗日英雄——周元.html",
+      "sha256": "bb0b46f1569ef23eeb3893a339be0ff952979f6579e62521c28d67979826f5d2"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1,
+    ".html": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

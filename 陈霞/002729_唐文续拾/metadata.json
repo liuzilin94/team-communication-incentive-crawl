@@ -1,0 +1,59 @@
+{
+  "id": "002729",
+  "title": "唐文续拾",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 16,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 23,
+  "total_characters": 109038,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://commons.wikimedia.org/wiki/File%3A%E5%94%90%E6%96%87%E7%BB%AD%E6%8B%BE_%E5%8D%B7%E4%B8%80%E8%87%B3%E5%8D%81%E5%85%AD_%E4%B8%AD%E5%8D%8E%E4%B9%A6%E5%B1%801983%E5%BD%B1%E5%8D%B0%E7%89%88.pdf?utm_source=chatgpt.com",
+  "source": "中华书局1983年版（与《全唐文》合刊",
+  "publisher": "中华书局1983年版（与《全唐文》合刊",
+  "edition": "清·陆心源辑 中华书局1983影印版",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.18",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《唐文续拾》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 23,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "002729_唐文续拾.pdf"
+  ],
+  "original_source_filenames": {
+    "002729_唐文续拾.pdf": "002729_唐文续拾.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "002729_唐文续拾.pdf",
+      "sha256": "b89df57dfa32d48321cd2d07b7c0b7e3458b4ef200996f139bd3bd45c02d846e"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {
+    "卷十（文本2）.txt": "卷10.txt",
+    "卷十一（文本2）.txt": "卷11.txt",
+    "卷十一（文本3）.txt": "卷一一.txt",
+    "卷十三.txt": "卷一三.txt",
+    "卷十二（文本2）.txt": "卷一二.txt",
+    "卷十五（文本2）.txt": "卷一五.txt",
+    "卷十六.txt": "卷一六.txt",
+    "卷十四（文本2）.txt": "卷一四.txt"
+  },
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

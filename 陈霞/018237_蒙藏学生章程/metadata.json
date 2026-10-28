@@ -1,0 +1,137 @@
+{
+  "id": "018237",
+  "title": "蒙藏学生章程",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 22528,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://itv.qq.com/read/1026133399/7",
+  "source": "江苏教育出版社",
+  "publisher": "江苏教育出版社",
+  "edition": "2005/4/1 《中国民族教育政策法规选编》宋恩荣 章咸",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.16",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《蒙藏学生章程（》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 144,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "018237_蒙藏学生章程.pdf",
+    "网页存档_001/018237_蒙藏学生章程.html"
+  ],
+  "original_source_filenames": {
+    "018237_蒙藏学生章程.pdf": "018237_蒙藏学生章程（.pdf",
+    "网页存档_001/018237_蒙藏学生章程.html": "《蒙藏学生章程》\\蒙藏学生章程.html"
+  },
+  "source_checksums": [
+    {
+      "file": "018237_蒙藏学生章程.pdf",
+      "sha256": "7d259ba9d861afee66235cd599965d5c924b59eb467218ee808d80a80e5ab38c"
+    },
+    {
+      "file": "网页存档_001/018237_蒙藏学生章程.html",
+      "sha256": "12ab4038394b7c5be373e7f1104af4cac6809f00e072aece1cab3ea7b150bf54"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/39d48e09.p6b7n4.js.下载",
+      "sha256": "58b6604dcf90113153bee5eaf06026d0fc4f75fa4cbacfe02246ad15c7d29bff"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/90e0ee9e.mvd6v3.js.下载",
+      "sha256": "cc44d14c0423d79b61becdf243cdbc1de6bfb5d5da7a970de16bb6f0f1e3e080"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/929d9741.tvctzm.js.下载",
+      "sha256": "51a1c03fb7c4245e0b4d0fdad572f3d6db2bbf6f9afa0628925b10f846d1a7ad"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/_cid_.45f274e1.css",
+      "sha256": "45f274e1e5ccdd10c959a787862dd06217b3076c27fe588118fc382fdaab0292"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/avatar-default.f63bb9b1.png",
+      "sha256": "f63bb9b16dbaee8b05407efcf9c182f15e56f50ceb8db2541c6cf2d58a30d64b"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/BookChapterList.e6a1e0cd.css",
+      "sha256": "e6a1e0cd9d0aa38cfc748ea9dce2f1158723c73148f75a7a29666a736fc55963"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/BookSimple.728902b5.css",
+      "sha256": "728902b5e938cbb05a88456c76e90da40d9056a8711457d9e3b942ad90f9b23b"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/Button.f89930e1.css",
+      "sha256": "f89930e1857b9f13934a7ceee4a12b6144f96d98188f7bb94c414ffcf386a683"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/cashier.js.下载",
+      "sha256": "a75fd83885ba8337feaf5630c21af3a95ae9e2282cb0c4e20b246d8b1e9071c3"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/cefc2a5d.pz1phw.js.下载",
+      "sha256": "f028e3c5ed84d5c22bd7c36e7cfe6d10476760c4c7373f1faae469fef189660b"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/DownloadAppBtnStyle.035c69a6.css",
+      "sha256": "035c69a609b107ce8a823b4d96667d3ed6aaca2eebd64773337f90302523692b"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/Empty.fcb83fce.css",
+      "sha256": "fcb83fce4c1f942aefe4113c92e228c9aafaf2c4c956387a99087d816c2be9b7"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/entry.6ac66911.css",
+      "sha256": "6ac66911b03f1c4c3ecb88150f2500b899892b544f65c8bd63041df4b305879c"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/entry.f218e55f.js.下载",
+      "sha256": "e906ddd82722e60f7ed157dd159bc977d5072cb42723fbf47ae64dca47fa0195"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/login_yuewen2.js.下载",
+      "sha256": "66374858ad0ee742cd376250cac5cbdbee4ace4d2f312f94c8363a6ea342ce49"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/Qrcode.50496f9b.css",
+      "sha256": "50496f9b6436beeab7e412bee15e1e1302dff1c8cbccbe3604b035b659ef4ace"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/stylesheets.css",
+      "sha256": "17715407107971c55e93dcf025133c7513470a143f2862937d2e0efadcb05d57"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/YpcDialog.d693186e.css",
+      "sha256": "d693186e6970c68ad0f717808f968bb40c0e59141e1366550a6de6c7513441cc"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/YpcOverlay.e21383fa.css",
+      "sha256": "e21383facca1c8e64a9a645517ab7d2eb82515c12abed1481ff62e737fcd4afa"
+    },
+    {
+      "file": "网页存档_001/蒙藏学生章程_files/yw_risk_verify_v3.js.下载",
+      "sha256": "d468553acb3b5c61f8ba6cfeae672f1e3c841ed9ac7f977e8e9c66e58b1c1424"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1,
+    ".html": 1
+  },
+  "supporting_file_count": 20,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

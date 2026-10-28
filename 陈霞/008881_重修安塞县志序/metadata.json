@@ -1,0 +1,50 @@
+{
+  "id": "008881",
+  "title": "重修安塞县志序",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 150339,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://dfz.shaanxi.gov.cn/zslm/fzzlk/sxjz/yas_16203/201706/P020240923598299576708.pdf",
+  "source": "上海古籍出版社",
+  "publisher": "上海古籍出版社",
+  "edition": "[清]倪嘉谦 [民国]郭超群",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.18",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《重修安塞县志序》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 71,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "008881_重修安塞县志序.pdf"
+  ],
+  "original_source_filenames": {
+    "008881_重修安塞县志序.pdf": "008881_重修安塞县志序.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "008881_重修安塞县志序.pdf",
+      "sha256": "a55005d82a74810bf51c5454b721d95ab622d7599e5ac68463972b7cbd1788b2"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

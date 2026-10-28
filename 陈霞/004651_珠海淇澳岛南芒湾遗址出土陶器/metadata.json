@@ -1,0 +1,140 @@
+{
+  "id": "004651",
+  "title": "珠海淇澳岛南芒湾遗址出土陶器",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 2,
+  "total_characters": 1161,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.zhmuseum.org.cn/kaogu/kaoguyanjiuInfo?id=2 https://www.zhmuseum.org.cn/wen/w2dInfo?id=46&utm_source=chatgpt.com",
+  "source": "珠海博物馆",
+  "publisher": "珠海博物馆",
+  "edition": "考古研究栏目",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.18",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《珠海淇澳岛南芒湾遗址出土陶器》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 38,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "004651_珠海淇澳岛南芒湾遗址出土陶器.pdf",
+    "网页存档_001/004651_珠海淇澳岛南芒湾遗址出土陶器.htm",
+    "网页存档_002/004651_珠海淇澳岛南芒湾遗址出土陶器.html"
+  ],
+  "original_source_filenames": {
+    "004651_珠海淇澳岛南芒湾遗址出土陶器.pdf": "004651_珠海淇澳岛南芒湾遗址出土陶器.pdf",
+    "网页存档_001/004651_珠海淇澳岛南芒湾遗址出土陶器.htm": "《珠海淇澳岛南芒湾遗址出土陶器》\\kaoguyanjiuInfo.htm",
+    "网页存档_002/004651_珠海淇澳岛南芒湾遗址出土陶器.html": "《珠海淇澳岛南芒湾遗址出土陶器》\\珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情.html"
+  },
+  "source_checksums": [
+    {
+      "file": "004651_珠海淇澳岛南芒湾遗址出土陶器.pdf",
+      "sha256": "695248eeb51a2100e0b9168120196bbd5535544ce329a6632491c2cb54bd7cab"
+    },
+    {
+      "file": "网页存档_001/004651_珠海淇澳岛南芒湾遗址出土陶器.htm",
+      "sha256": "18285f47d5fc509c1149013dd2fb8e4ba6dc04a2fbe6bf0b8861550c84e182f3"
+    },
+    {
+      "file": "网页存档_002/004651_珠海淇澳岛南芒湾遗址出土陶器.html",
+      "sha256": "19ad0d7342a43ee2c363f59d9782b14edbb92cdb35b0578f7bc144f71025dadf"
+    },
+    {
+      "file": "网页存档_002/珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情_files/blue_error.png",
+      "sha256": "0c6a27f849da909ac1c08492e7ce190285176004b66c7e265b84a61cca2ef489"
+    },
+    {
+      "file": "网页存档_002/珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情_files/close.png",
+      "sha256": "0875cf2d192f4abf63ab2af34f7b4690be7442e061239541a4028ce2d9b941f8"
+    },
+    {
+      "file": "网页存档_002/珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情_files/ComFunJS.js.下载",
+      "sha256": "c866396175769bd4beac4a2dac960e5a056c10080bdf86c19f68c5cc53753daa"
+    },
+    {
+      "file": "网页存档_002/珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情_files/css.css",
+      "sha256": "c184ba8d4fc64d70465d0fd68a310a16fbdfae2dda3d2474e8e6f8ae2f43dae2"
+    },
+    {
+      "file": "网页存档_002/珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情_files/er.jpg",
+      "sha256": "012f0d6a0ce3d34df5b5ef8228544692b967e2278b993e817cd10f2284cdfc51"
+    },
+    {
+      "file": "网页存档_002/珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情_files/fe2e9b761f8f47a2be2b7c52235fb0c1.png",
+      "sha256": "1151f24c5f71c543488a4b1dee8372182f04e36a9174d63555a7d22c7aa3bd42"
+    },
+    {
+      "file": "网页存档_002/珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情_files/font_1775131_1x5higvtklz.css",
+      "sha256": "92b5704503b00df1f716818be2be1027df899bf634f3accb0de584054518feb8"
+    },
+    {
+      "file": "网页存档_002/珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情_files/font_1775131_1x5higvtklz.js.下载",
+      "sha256": "f49f90e4240675ef9a98d156943ba15d75404897dc611d0ca1afe59a6ddd82b8"
+    },
+    {
+      "file": "网页存档_002/珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情_files/font_1775131_tl5nv4an3xd.css",
+      "sha256": "d2f0c722678e76cc44fddb7235a0f2a0cec1760e0e656a20d91832ff070838b4"
+    },
+    {
+      "file": "网页存档_002/珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情_files/font_1775131_tl5nv4an3xd.js.下载",
+      "sha256": "4cf9838c2819607a96280d9ad8222bd759f20e451c7442d497fbfc3c4b58802a"
+    },
+    {
+      "file": "网页存档_002/珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情_files/gongan.png",
+      "sha256": "a20583c81805fe64f7fa210851ce29754af9d25fd6aa5a3225a9557529602513"
+    },
+    {
+      "file": "网页存档_002/珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情_files/hm.js.下载",
+      "sha256": "c13637739ce78913ae3129988b149b3f7cd4668295b9386cc7cef38214687c2c"
+    },
+    {
+      "file": "网页存档_002/珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情_files/jquery-1.10.2.min.js.下载",
+      "sha256": "987f9e588458e94c96a5c11685861685a7e0b88bf3887c46f3b26383e02ffc86"
+    },
+    {
+      "file": "网页存档_002/珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情_files/jquery-1.8.0.min.js.下载",
+      "sha256": "dff7662f865b7ec0b1e5cbe81a000bc765f1532eb35a9ab8e9a88f6a61e190ab"
+    },
+    {
+      "file": "网页存档_002/珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情_files/layui.js.下载",
+      "sha256": "91ffac1a9d64f3dae4e8091b4feea25981e750d279cb71491b25dc24b33ecaf2"
+    },
+    {
+      "file": "网页存档_002/珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情_files/logo.png",
+      "sha256": "1f430e4de06391c23b74f71f476d57331084b72c74e037f49dc43b5c03966a0b"
+    },
+    {
+      "file": "网页存档_002/珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情_files/wenx_big.png",
+      "sha256": "279854ff9ce86b05307ecf6a5c8dfab97cacfc59ca70a6c2fed6c247e980bef5"
+    },
+    {
+      "file": "网页存档_002/珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情_files/zh.js.下载",
+      "sha256": "b40a7913385ef1bd1d1a81558392976c37d4b4445ff328e9292ab5363bca6247"
+    },
+    {
+      "file": "网页存档_002/珠海淇澳岛南芒湾遗址出土陶器 文物2D赏析详情_files/zoom.js.下载",
+      "sha256": "d76a82d86eb3ef1143aacb4e48c76b58f2883aa38aba31490791ea3f07450c78"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1,
+    ".htm": 1,
+    ".html": 1
+  },
+  "supporting_file_count": 19,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

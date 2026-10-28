@@ -1,0 +1,50 @@
+{
+  "id": "014396",
+  "title": "讷尔经额奏履勘天津等处海口应行防范折",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 302,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.shidianguji.com/book/CADAL02081307/chapter/1lcim39f0c1t5?page_from=searching_page&paragraphId=7548201416788459574&keywords=%E8%A8%A5%2C%E9%A1%8D%2C%E5%B1%A5%E5%8B%98%2C%E5%A4%A9%E6%B4%A5%2C%E7%AD%89%E8%99%95%2C%E6%B5%B7%E5%8F%A3%2C%E9%98%B2%E7%AF%84&topicId=&version=17",
+  "source": "复旦大学图书馆 十九年故宫博物院影印清内府抄本",
+  "publisher": "复旦大学图书馆 十九年故宫博物院影印清内府抄本",
+  "edition": "[清] 文庆 纂辑、[清] 贾桢 纂辑、\n[清] 宝鋆 纂辑 [民国] 《筹办夷务始末》卷十六",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.17",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《讷尔经额奏履勘天津等处海口应行防范折》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 114,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "014396_讷尔经额奏履勘天津等处海口应行防范折.pdf"
+  ],
+  "original_source_filenames": {
+    "014396_讷尔经额奏履勘天津等处海口应行防范折.pdf": "014396_讷尔经额奏履勘天津等处海口应行防范折.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "014396_讷尔经额奏履勘天津等处海口应行防范折.pdf",
+      "sha256": "5ced1fde5fc1b10d5e6fc2454ac921e828c21cec840ed51a25b2ef20b50d6142"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

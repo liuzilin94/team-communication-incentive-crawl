@@ -1,0 +1,50 @@
+{
+  "id": "016701",
+  "title": "雍熙四年八月己酉",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 112,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.shidianguji.com/book/GJTS21/chapter/1lpfpddryi9t5?page_from=searching_page&paragraphId=7595436052228997126&keywords=%E9%9B%8D%E7%86%99%2C%E9%9B%8D%E7%86%99%E5%9B%9B%E5%B9%B4%E5%85%AB%E6%9C%88%E5%B7%B1%E9%85%89%2C%E5%9B%9B%E5%B9%B4%2C%E5%85%AB%E6%9C%88%2C%E5%B7%B1%E9%85%89&topicId=&version=16&contentMatch=1",
+  "source": "北大-字节人文开放实验室",
+  "publisher": "北大-字节人文开放实验室",
+  "edition": "[清]陈梦雷 撰 《古今图书集成·经籍典》雍正四年内府铜活字印本 七千一百五十九卷“",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.17",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《雍熙四年八月己酉》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 132,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "016701_雍熙四年八月己酉.pdf"
+  ],
+  "original_source_filenames": {
+    "016701_雍熙四年八月己酉.pdf": "016701_雍熙四年八月己酉.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "016701_雍熙四年八月己酉.pdf",
+      "sha256": "93daa3eb953bd75823c02096051672fce5dddded18af38d12448ea214c806836"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "002985",
+  "title": "故镇国上将军总管炮水手军匠元帅府清州张侯神道碑铭",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 877,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.shidianguji.com/book/SK2733/chapter/1lm0aez43zz8i?page_from=searching_page&paragraphId=7582901986318614580&keywords=%E6%95%85%E9%8E%AE%E5%9C%8B%E4%B8%8A%E5%B0%87%E8%BB%8D%E7%B8%BD%E7%AE%A1%E7%82%AE%E6%B0%B4%E6%89%8B%E8%BB%8D%E5%8C%A0%E5%85%83%E5%B8%A5%E5%BA%9C%E6%B8%85%E5%B7%9E%E5%BC%B5%E4%BE%AF%E7%A5%9E%E9%81%93%E7%A2%91%E9%8A%98%2C%E9%8E%AE%E5%9C%8B%2C%E4%B8%8A%E5%B0%87%2C%E4%B8%8A%E5%B0%87%E8%BB%8D%2C%E5%B0%87%E8%BB%8D%2C%E8%BB%8D%E7%B8%BD%2C%E7%B8%BD%E7%AE%A1%2C%E7%82%AE%2C%E6%B0%B4%E6%89%8B%2C%E8%BB%8D%E5%8C%A0%2C%E5%85%83%E5%B8%A5%2C%E5%B8%A5%E5%BA%9C%2C%E6%B8%85%E5%B7%9E%2C%E7%A5%9E%E9%81%93%2C%E7%A5%9E%E9%81%93%E7%A2%91%2C%E7%A2%91%E9%8A%98&topicId=&version=15&contentMatch=1",
+  "source": "四库全书本",
+  "publisher": "四库全书本",
+  "edition": "[元]胡祗通撰  紫山大全集第十六卷 第18页",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.17",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《故镇国上将军总管炮水手军匠元帅府清州张侯神道碑铭》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 25,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "002985_故镇国上将军总管炮水手军匠元帅府清州张侯神道碑铭.pdf"
+  ],
+  "original_source_filenames": {
+    "002985_故镇国上将军总管炮水手军匠元帅府清州张侯神道碑铭.pdf": "002985_故镇国上将军总管炮水手军匠元帅府清州张侯神道碑铭.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "002985_故镇国上将军总管炮水手军匠元帅府清州张侯神道碑铭.pdf",
+      "sha256": "91c70cc5045d8f51e1aaa1d4956aa181eebf9aa7ac442a6f318b47a7fe395588"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}
