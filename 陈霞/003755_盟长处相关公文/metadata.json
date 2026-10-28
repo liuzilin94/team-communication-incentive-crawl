@@ -1,0 +1,91 @@
+{
+  "id": "003755",
+  "title": "盟长处相关公文",
+  "batch": "04",
+  "batch_label": "第四次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 5,
+  "total_characters": 1660,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://archive.org/details/2021_20260123/page/n309/mode/2up",
+  "source": "国家图书馆出版社",
+  "publisher": "国家图书馆出版社",
+  "edition": "赤峰地区清代蒙满文档案汉译汇编",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.30",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《盟长处相关公文》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 31,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "003755_盟长处相关公文_001.jpeg",
+    "003755_盟长处相关公文_002.jpeg",
+    "003755_盟长处相关公文_003.jpeg",
+    "003755_盟长处相关公文_004.jpeg",
+    "003755_盟长处相关公文_005.jpeg",
+    "003755_盟长处相关公文_006.jpeg",
+    "003755_盟长处相关公文_007.jpeg",
+    "003755_盟长处相关公文_008.jpeg"
+  ],
+  "original_source_filenames": {
+    "003755_盟长处相关公文_001.jpeg": "屏幕截图_30-9-2026_20461_archive.org.jpeg",
+    "003755_盟长处相关公文_002.jpeg": "屏幕截图_30-9-2026_20469_archive.org.jpeg",
+    "003755_盟长处相关公文_003.jpeg": "屏幕截图_30-9-2026_20493_archive.org.jpeg",
+    "003755_盟长处相关公文_004.jpeg": "屏幕截图_30-9-2026_201938_reader.z-library.sk.jpeg",
+    "003755_盟长处相关公文_005.jpeg": "屏幕截图_30-9-2026_204849_archive.org.jpeg",
+    "003755_盟长处相关公文_006.jpeg": "屏幕截图_30-9-2026_204931_archive.org.jpeg",
+    "003755_盟长处相关公文_007.jpeg": "屏幕截图_30-9-2026_204949_archive.org.jpeg",
+    "003755_盟长处相关公文_008.jpeg": "屏幕截图_30-9-2026_205016_archive.org.jpeg"
+  },
+  "source_checksums": [
+    {
+      "file": "003755_盟长处相关公文_001.jpeg",
+      "sha256": "fe1ef47c28846239ae8144c7adc583ab92e0a31460e0307401ab80094c0f6932"
+    },
+    {
+      "file": "003755_盟长处相关公文_002.jpeg",
+      "sha256": "c2957af29ad33c7b013759980cd6029f34c6b25f45142bd7d2ef7cbd83d2046e"
+    },
+    {
+      "file": "003755_盟长处相关公文_003.jpeg",
+      "sha256": "845ebee29359e012d8a5b37dd07ff859af9eb6ea3934a74fdb1c130c60e41f63"
+    },
+    {
+      "file": "003755_盟长处相关公文_004.jpeg",
+      "sha256": "c31e885cdb87b7bcfbc8087350890423a068619bb73dfbb65be8c4e4257292b5"
+    },
+    {
+      "file": "003755_盟长处相关公文_005.jpeg",
+      "sha256": "84ea4bbc67ba16dfa1a764305a585d63f8832c15b835737322c4414dd1757c47"
+    },
+    {
+      "file": "003755_盟长处相关公文_006.jpeg",
+      "sha256": "7eac76c2e855f9720202ea5a00fbce1cb94640ee40691944bd1c60994fa0ea31"
+    },
+    {
+      "file": "003755_盟长处相关公文_007.jpeg",
+      "sha256": "31b20aca2a9899380cf276e2a6dbe7c9513ab010eda3f3bef964830ea15c9d92"
+    },
+    {
+      "file": "003755_盟长处相关公文_008.jpeg",
+      "sha256": "294a0c79ea2f20bbe1f85ec151787578307a857abd81e14eda3147b0bd34a1f2"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".jpeg": 8
+  },
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞4",
+  "raw_source_references": []
+}

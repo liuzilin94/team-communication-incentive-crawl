@@ -1,0 +1,55 @@
+{
+  "id": "015164",
+  "title": "里塘粮员详复通译等开支银两历年办理情形",
+  "batch": "04",
+  "batch_label": "第四次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 874,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://z-library.sk/book/gjGbYymmRW/%E6%B8%85%E6%9C%AB%E5%B7%9D%E6%BB%87%E8%BE%B9%E5%8A%A1%E6%A1%A3%E6%A1%88%E5%8F%B2%E6%96%99-%E4%B8%8B.html",
+  "source": "中华书局",
+  "publisher": "中华书局",
+  "edition": "四川省民族研究所, 《清末川滇边务档案史料》编辑组 清末川滇边务档案史料 下",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.3",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《里塘粮员详复通译等开支银两历年办理情形》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 120,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "015164_里塘粮员详复通译等开支银两历年办理情形.jpeg"
+  ],
+  "original_source_filenames": {
+    "015164_里塘粮员详复通译等开支银两历年办理情形.jpeg": "《里塘粮员详复通译等开支银两历年办理情形》.jpeg"
+  },
+  "source_checksums": [
+    {
+      "file": "015164_里塘粮员详复通译等开支银两历年办理情形.jpeg",
+      "sha256": "c31e885cdb87b7bcfbc8087350890423a068619bb73dfbb65be8c4e4257292b5"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".jpeg": 1
+  },
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞4",
+  "raw_source_references": [
+    {
+      "original_path": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞4\\《里塘粮员详复通译等开支银两历年办理情形》.jpeg",
+      "archived_file": "015164_里塘粮员详复通译等开支银两历年办理情形.jpeg",
+      "sha256": "c31e885cdb87b7bcfbc8087350890423a068619bb73dfbb65be8c4e4257292b5"
+    }
+  ]
+}

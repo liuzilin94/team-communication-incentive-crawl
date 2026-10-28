@@ -1,0 +1,55 @@
+{
+  "id": "009393",
+  "title": "关于检发商讨修正西南少数民族虫兽偏旁命名谈话会记录的训令、牌告",
+  "batch": "04",
+  "batch_label": "第四次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 3,
+  "total_characters": 72919,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://z-library.sk/book/yRaq2MrPRQ/%E4%B8%AD%E5%9B%BD%E6%B0%91%E6%97%8F%E5%8F%8A%E5%85%B6%E6%96%87%E5%8C%96%E8%AE%BA%E7%A8%BF.html",
+  "source": "艺文印书馆",
+  "publisher": "艺文印书馆",
+  "edition": "芮逸夫 中国民族及其文化论稿 上册",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.29",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《关于检发商讨修正西南少数民族虫兽偏旁命名谈话会记录的训令、牌告》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 75,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "009393_关于检发商讨修正西南少数民族虫兽偏旁命名谈话会记录的训令、牌告.pdf"
+  ],
+  "original_source_filenames": {
+    "009393_关于检发商讨修正西南少数民族虫兽偏旁命名谈话会记录的训令、牌告.pdf": "《关于检发商讨修正西南少数民族虫兽偏旁命名谈话会记录的训令、牌告》.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "009393_关于检发商讨修正西南少数民族虫兽偏旁命名谈话会记录的训令、牌告.pdf",
+      "sha256": "591a31f2153f07a74e46f3542b3842ee786e9be50de22848e4f8dddc49159064"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞4",
+  "raw_source_references": [
+    {
+      "original_path": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞4\\《关于检发商讨修正西南少数民族虫兽偏旁命名谈话会记录的训令、牌告》.pdf",
+      "archived_file": "009393_关于检发商讨修正西南少数民族虫兽偏旁命名谈话会记录的训令、牌告.pdf",
+      "sha256": "591a31f2153f07a74e46f3542b3842ee786e9be50de22848e4f8dddc49159064"
+    }
+  ]
+}
