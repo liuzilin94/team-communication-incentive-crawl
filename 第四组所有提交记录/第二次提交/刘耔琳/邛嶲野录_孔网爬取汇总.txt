@@ -1,0 +1,1291 @@
+======================================================================
+  邛嶲野录 - 孔夫子旧书网商品页爬取汇总
+======================================================================
+来源网址 : https://book.kongfz.com/5718/4368363782/
+抓取时间 : 2026-09-20 21:52:00
+工具     : requests + tesseract 5.4.0 (chi_sim+chi_tra+eng)
+
+----------------------------------------------------------------------
+[一] 网页元数据
+----------------------------------------------------------------------
+书名       : 邛嶲野录（线装一函全8册）点校本
+又名       : 邛嶲野录（1-8册函套线装）点校本
+作者       : (清) 何东铭
+出版社     : 西昌市市志编纂委员会办公室
+出版时间   : 2014-01
+印刷时间   : 2014-01
+装帧       : 线装
+开本       : 16开
+页数       : 1页（注：孔网此处填写异常，原书为七十五卷首五卷）
+售价       : ￥3600.00
+品相       : 八五品
+上书时间   : 2021-12-15
+店铺       : 林文书局
+店铺地址   : 四川省成都市其他区
+店铺好评率 : 99.92%
+发货时间   : 4.8小时（90天平均）
+店铺资质   : 拍卖等级；店铺等级；97.41% 成功完成（636笔，90天）
+发货承诺   : 承诺48小时内发货
+商品分类   : 历史
+货号       : SC-C-顶
+
+[商品描述 / 卖家留言]
+温馨提示：请谨慎下单！！！（注明：非诚勿扰——影响交易信誉的敬请书友不要下单！！！)【古旧书书品定位标准请参照网站定品范畴定品，书店所售均为原版书，有疑问欢迎多咨询！！！
+
+----------------------------------------------------------------------
+[二] 网页商品图（共 90 张）
+----------------------------------------------------------------------
+说明：孔夫子旧书网为防爬，会给图加水印并压缩，且同一张图同时提供
+      _n（普通 60KB 左右）、_s（缩略 16KB 左右）、_b（高清 200-400KB）
+      三种规格。下表按原始顺序排列。
+
+   1. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/aadaafbd/2664fcffaa460781_b.jpg
+   2. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/aadaafbd/2664fcffaa460781_n.jpg
+   3. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/aadaafbd/2664fcffaa460781_s.jpg
+   4. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/abcedfed/43b6fbf2ac588d6a_b.jpg
+   5. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/abcedfed/43b6fbf2ac588d6a_n.jpg
+   6. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/abcedfed/43b6fbf2ac588d6a_s.jpg
+   7. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/acacffea/3a0704a9062ebc11_b.jpg
+   8. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/acacffea/3a0704a9062ebc11_n.jpg
+   9. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/acacffea/3a0704a9062ebc11_s.jpg
+  10. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/bcedcbdf/f12ffa3ffca7c2d1_b.jpg
+  11. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/bcedcbdf/f12ffa3ffca7c2d1_n.jpg
+  12. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/bcedcbdf/f12ffa3ffca7c2d1_s.jpg
+  13. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/bdacddbe/d755ac0eaec462f8_b.jpg
+  14. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/bdacddbe/d755ac0eaec462f8_n.jpg
+  15. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/bdacddbe/d755ac0eaec462f8_s.jpg
+  16. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/befbcbac/df9427c27a691717_b.jpg
+  17. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/befbcbac/df9427c27a691717_n.jpg
+  18. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/befbcbac/df9427c27a691717_s.jpg
+  19. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/caaefaab/45b990f832e6718b_b.jpg
+  20. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/caaefaab/45b990f832e6718b_n.jpg
+  21. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/caaefaab/45b990f832e6718b_s.jpg
+  22. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/caecebae/03693207b41abd55_b.jpg
+  23. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/caecebae/03693207b41abd55_n.jpg
+  24. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/caecebae/03693207b41abd55_s.jpg
+  25. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/cbdccdea/80f237339a973d05_b.jpg
+  26. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/cbdccdea/80f237339a973d05_n.jpg
+  27. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/cbdccdea/80f237339a973d05_s.jpg
+  28. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ccbfaebb/6e4564b476ce0c81_b.jpg
+  29. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ccbfaebb/6e4564b476ce0c81_n.jpg
+  30. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ccbfaebb/6e4564b476ce0c81_s.jpg
+  31. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ccfcbada/f0cfc3c0da1c47b7_b.jpg
+  32. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ccfcbada/f0cfc3c0da1c47b7_n.jpg
+  33. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ccfcbada/f0cfc3c0da1c47b7_s.jpg
+  34. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ceeceebb/d357a7cce44b4739_b.jpg
+  35. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ceeceebb/d357a7cce44b4739_n.jpg
+  36. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ceeceebb/d357a7cce44b4739_s.jpg
+  37. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/cffedecf/45c43ddb061e474a_b.jpg
+  38. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/cffedecf/45c43ddb061e474a_n.jpg
+  39. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/cffedecf/45c43ddb061e474a_s.jpg
+  40. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/dadacffa/1c35b3a9be1b08af_b.jpg
+  41. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/dadacffa/1c35b3a9be1b08af_n.jpg
+  42. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/dadacffa/1c35b3a9be1b08af_s.jpg
+  43. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/dbaafbbf/2e1c3e6c0240ae3d_b.jpg
+  44. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/dbaafbbf/2e1c3e6c0240ae3d_n.jpg
+  45. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/dbaafbbf/2e1c3e6c0240ae3d_s.jpg
+  46. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/dbddccca/d90828dc688cb1d9_b.jpg
+  47. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/dbddccca/d90828dc688cb1d9_n.jpg
+  48. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/dbddccca/d90828dc688cb1d9_s.jpg
+  49. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ddefbada/7b921dd8e5bd6690_b.jpg
+  50. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ddefbada/7b921dd8e5bd6690_n.jpg
+  51. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ddefbada/7b921dd8e5bd6690_s.jpg
+  52. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/dfffdafc/ed47cff5b2e72474_b.jpg
+  53. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/dfffdafc/ed47cff5b2e72474_n.jpg
+  54. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/dfffdafc/ed47cff5b2e72474_s.jpg
+  55. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/eaaafdcc/82963e947ad829d1_b.jpg
+  56. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/eaaafdcc/82963e947ad829d1_n.jpg
+  57. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/eaaafdcc/82963e947ad829d1_s.jpg
+  58. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/eafefadf/e5f22604cc9fd4fa_b.jpg
+  59. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/eafefadf/e5f22604cc9fd4fa_n.jpg
+  60. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/eafefadf/e5f22604cc9fd4fa_s.jpg
+  61. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ebadcdda/e96e046ac0f2898b_b.jpg
+  62. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ebadcdda/e96e046ac0f2898b_n.jpg
+  63. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ebadcdda/e96e046ac0f2898b_s.jpg
+  64. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ebcecedf/07d48f1fdb834932_b.jpg
+  65. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ebcecedf/07d48f1fdb834932_n.jpg
+  66. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ebcecedf/07d48f1fdb834932_s.jpg
+  67. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/edcffccc/351afc9df10c5b8a_b.jpg
+  68. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/edcffccc/351afc9df10c5b8a_n.jpg
+  69. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/edcffccc/351afc9df10c5b8a_s.jpg
+  70. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/edecbdae/62d16692fcf25ab6_b.jpg
+  71. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/edecbdae/62d16692fcf25ab6_n.jpg
+  72. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/edecbdae/62d16692fcf25ab6_s.jpg
+  73. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/fadeeccc/33e98ac11d7b7684_b.jpg
+  74. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/fadeeccc/33e98ac11d7b7684_n.jpg
+  75. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/fadeeccc/33e98ac11d7b7684_s.jpg
+  76. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/fbaddbab/d0f31a460363680b_b.jpg
+  77. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/fbaddbab/d0f31a460363680b_n.jpg
+  78. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/fbaddbab/d0f31a460363680b_s.jpg
+  79. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/fcdcdcdd/3899f84486c3105b_b.jpg
+  80. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/fcdcdcdd/3899f84486c3105b_n.jpg
+  81. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/fcdcdcdd/3899f84486c3105b_s.jpg
+  82. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/fcdfbabf/ba4d9d67f4d6fdea_b.jpg
+  83. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/fcdfbabf/ba4d9d67f4d6fdea_n.jpg
+  84. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/fcdfbabf/ba4d9d67f4d6fdea_s.jpg
+  85. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/fdcadcbc/2f6b9cdcb781b16a_b.jpg
+  86. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/fdcadcbc/2f6b9cdcb781b16a_n.jpg
+  87. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/fdcadcbc/2f6b9cdcb781b16a_s.jpg
+  88. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ffafaead/ac267cd2b20008c8_b.jpg
+  89. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ffafaead/ac267cd2b20008c8_n.jpg
+  90. https://www0.kfzimg.com/sw/kfz-cos/kfzimg/ffafaead/ac267cd2b20008c8_s.jpg
+
+----------------------------------------------------------------------
+[三] 本地已下载图片清单（_ocr_temp_qiongyeyelu/images/）
+----------------------------------------------------------------------
+共 90 张本地副本，总大小 8.6 MB
+规格对应：img_15~44=普通_n；img_45~74=小图_s；img_75~104=高清_b
+
+文件名                大小(KB)  说明
+img_15.jpg             64  普通_n
+img_16.jpg             66  普通_n
+img_17.jpg             59  普通_n
+img_18.jpg             56  普通_n
+img_19.jpg             60  普通_n
+img_20.jpg             59  普通_n
+img_21.jpg             71  普通_n
+img_22.jpg             61  普通_n
+img_23.jpg             43  普通_n
+img_24.jpg             60  普通_n
+img_25.jpg             61  普通_n
+img_26.jpg             64  普通_n
+img_27.jpg             73  普通_n
+img_28.jpg             71  普通_n
+img_29.jpg             93  普通_n
+img_30.jpg             52  普通_n
+img_31.jpg             75  普通_n
+img_32.jpg             52  普通_n
+img_33.jpg             73  普通_n
+img_34.jpg             46  普通_n
+img_35.jpg            105  普通_n
+img_36.jpg             54  普通_n
+img_37.jpg             54  普通_n
+img_38.jpg             45  普通_n
+img_39.jpg             61  普通_n
+img_40.jpg             49  普通_n
+img_41.jpg             55  普通_n
+img_42.jpg             48  普通_n
+img_43.jpg             52  普通_n
+img_44.jpg             67  普通_n
+img_45.jpg             16  小图_s
+img_46.jpg             16  小图_s
+img_47.jpg             16  小图_s
+img_48.jpg             15  小图_s
+img_49.jpg             17  小图_s
+img_50.jpg             16  小图_s
+img_51.jpg             15  小图_s
+img_52.jpg             12  小图_s
+img_53.jpg             10  小图_s
+img_54.jpg             14  小图_s
+img_55.jpg             14  小图_s
+img_56.jpg             14  小图_s
+img_57.jpg             15  小图_s
+img_58.jpg             14  小图_s
+img_59.jpg             20  小图_s
+img_60.jpg             11  小图_s
+img_61.jpg             17  小图_s
+img_62.jpg             11  小图_s
+img_63.jpg             17  小图_s
+img_64.jpg             11  小图_s
+img_65.jpg             23  小图_s
+img_66.jpg             12  小图_s
+img_67.jpg             13  小图_s
+img_68.jpg             10  小图_s
+img_69.jpg             14  小图_s
+img_70.jpg             11  小图_s
+img_71.jpg             13  小图_s
+img_72.jpg             10  小图_s
+img_73.jpg             11  小图_s
+img_74.jpg             14  小图_s
+img_75.jpg            374  高清_b
+img_76.jpg            359  高清_b
+img_77.jpg            167  高清_b
+img_78.jpg            172  高清_b
+img_79.jpg            171  高清_b
+img_80.jpg            173  高清_b
+img_81.jpg            255  高清_b
+img_82.jpg            234  高清_b
+img_83.jpg            139  高清_b
+img_84.jpg            196  高清_b
+img_85.jpg            200  高清_b
+img_86.jpg            209  高清_b
+img_87.jpg            231  高清_b
+img_88.jpg            234  高清_b
+img_89.jpg            296  高清_b
+img_90.jpg            176  高清_b
+img_91.jpg            250  高清_b
+img_92.jpg            170  高清_b
+img_93.jpg            232  高清_b
+img_94.jpg            138  高清_b
+img_95.jpg            339  高清_b
+img_96.jpg            179  高清_b
+img_97.jpg            162  高清_b
+img_98.jpg            147  高清_b
+img_99.jpg            201  高清_b
+img_100.jpg           158  高清_b
+img_101.jpg           176  高清_b
+img_102.jpg           157  高清_b
+img_103.jpg           169  高清_b
+img_104.jpg           427  高清_b
+
+----------------------------------------------------------------------
+[四] OCR 识别结果（每张图一段）
+----------------------------------------------------------------------
+重要说明：
+  • Tesseract 5.4.0 加载 chi_sim+chi_tra+eng 三语种模型，对竖排繁体古籍
+    实物照片的识别效果较差。
+  • 孔夫子旧书网的商品展示图多为书的实物照片（书脊、函套外观、目录页、
+    散页等），并非完整内页扫描。
+  • 这些图中：含书脊文字、封面题字、目录等少量可识字符；大量竖排墨迹
+    难以识别为可读文本。
+  • 因此本节内容仅作为该书实物外观信息的原始记录使用，**并非《邛嶲野录》
+    的全文**。如需全文，建议通过四川省图书馆数字资源、地方志办公室或
+    国家图书馆『中华古籍资源库』获取正式影印本。
+
+
+----- img_15.jpg -----
+=   iB =
+1 Fe
+
+----- img_16.jpg -----
+=  4  站  |         =       =
+
+----- img_17.jpg -----
+=   一一         ——,    \
+SS        ER =
+ag
+om \    =      3% AE MOE     =
+tf                    本
+4  :          SRF i    b=
+7,      ae      SKF MM TIE     [2
+Z
+
+----- img_18.jpg -----
+PR   【
+ars) See
+wea]                i
+
+----- img_19.jpg -----
+TT    am
+IN一     a
+一
+ARS       2
+TH      Yo
+
+----- img_20.jpg -----
+中
+  i
+
+----- img_21.jpg -----
+圖 |国    圖    ‘A
+| Ler      —           |
+Ey   ae    |
+医 |            bad            ee
+‘lea            野
+ee           es           回
+|= |           bee |            a
+
+L           |
+二one
+
+----- img_22.jpg -----
+下3引   區     有
+|  八           七
+
+|
+
+|
+
+----- img_23.jpg -----
+6   fe   a                  了7
+同                                                     ee
+
+----- img_24.jpg -----
+3         aA         ca
+
+a       SHARE HEE 4       re      oe
+
+aoe       月間其間       wl      ee
+
+oe       本          a      Tes
+ae    ee AG HAHLIAE        a       \
+人       ,
+Ses) | ||| aisha
+|  |
+SR         到
+二所       后      \
+ty] fal | 从[|本|本|全|二|要          \
+san          i        \
+oe || ci) | RRR         :       \
+2 eal | Saget                  \
+Se | rid] | eeigeegint                  \
+See || ia) | isk eledee                 \
+
+2  | | ABI | ERIE    四              \
+cee | | (aie! | [ele hipann            \
+et  | JMB) | (gleleleleialale            \
+sR             \
+Neri
+
+----- img_25.jpg -----
+1. |e            io
+ee eee ETT) | | ag   PAV VAAN
+ae                                                     JF
+oe                                       RO
+
+----- img_26.jpg -----
+5
+
+----- img_27.jpg -----
+i             一         aa         a
+Pi sels/sl5||°| HABE      ERA
+ae  pas 2 2 2/8/55   BARA       Ni
+         jes
+
+----- img_28.jpg -----
+~  人    Fesgecc aes    “ai      i   ae
+eg  | ellatsealtelelgl       im\m\=\=\ | \z\=\z\s\2\
+oF   | /3/z/3/ 3/2) 5) 0/q)a\0\0        O\o\n\n\ | elelaigial P
+二上[四      ae
+
+----- img_29.jpg -----
+|  放生四了和N       一              berg
+seeea ie eae d  t    |生國NM      eee
+Hs) ged BEE Fi    Be Batt i  |       ae
+Paes 人和  We: iH H Rt :
+Beggs. ghiee     eal) | CAaEa ae
+IF) 二     Mele) | | heat Ah
+gtiatbaytee |     昌国 gy | oh |
+Pggag sha calat | Val  HI
+[eee ee Ene S Bee  |     : 4  司机ER | \\
+geegtameace | Ute  |
+ha iDance   Peet) | | Vuela) | | Vat |
+bac | 39 g |= ib Ae ABA}       和HI說
+Sea eae ee ke &   i    本让他、 于
+A dat ia       a\.\ | (allel | \ 18)!
+qi  PeeWee ey eis!) | ele | | RAR 4
+I ade shit        ABBEEEES BSE!
+| | apa | RB |X                 BEES Bas ial
+1           Zoe
+
+----- img_30.jpg -----
+|   全
+sy   y lals/#islalalal                    ies a
+BA ee
+Pesce  到到人下   |    |
+四 |
+| |                        ae
+|
+er”   全 [88
+ee fafieiz) 2/2) | | |                       :
+二 f2/f/si2} | (8| | |
+用生店點加日加 |
+二
+
+----- img_31.jpg -----
+和  4
+| sina emits    3         ee
+SABE | lelglee|:* sig  rr
+pez) | 183 lerelallsiik rece arate    ae
+3   sega) lslale 由 | HI ae 吧    rs
+> Ae HAMMEL HH HE? |    于
+alt 回同 HABE 站有关 | HR
+ale 則 lalgia| (33 BH Bay |和 Va
+|到 ig afial  iH  BHAI 了則 \lelle  \3\-\3\
+(7) Fala} lelelg] 7/2) EE alg ae Hea
+人  間馮劑記| 四 ARR
+中 lagi Ada  下属国 |: RE RN
+#] Aeaal el || i} LAURER
+L fa} (RIAL 出    【有上   和
+fe} faleh 19  |   i  a   HI
+FE) atl |   Vagal te)
+(3/ [AlEI | | 外   +) 8) | le  四时罗网四 和
+Hel (FALL le    還說 则  中
+i, BELEEEE EL EE  i  AUPLSIAY Vele\. \
+2   Tali) oa ALE, la
+
+----- img_32.jpg -----
++) eae       ae
+ae   ag gle aie) | a 晶 上 |
+| GARRY
+— BARBHE
+計量和有自     |
+Pa  Apa] Vee] |     |
+aa   上让 BHAI
+ BBRBHE
+‘ls    HE   :             IFN
+SREGUBESEEEEEee
+
+----- img_33.jpg -----
+办 int hav 【
+Se
+ee) | | lal | fie) eal Re IRRRERALRA\
+
+FLT | HLT ele) ia):   | AEN | ae
+fal | fotel Pee] |e) el eles  回隆重
+Hef | tel | eye) RP  bok
+fe) f | ial | ielg] ight   日   也過
+
+全
+
+LY | le) lee   i   aC   ,
+ys det Ele Lee  |
+
+----- img_34.jpg -----
+|   2  Telelalulelalglelalelssl&le)        '
+ee aera a |
+BEBE
+—  | |  |            ;
+ri                  a         Sse Fu)
+一一一           wwwikongizicom)
+加
+
+----- img_35.jpg -----
+ae
+l fee pt EET)  SF ee
+Pee PETTY "ee
+AE Ha A ee > :
+人的 CEE 4  中 HR aS
+"Bi sizigie i   ‘  tbe      we =
+elit ia  FAP EEL  Ahad A ni
+人和ll i
+eh EBERT Ee ueee ees  Tae 人
+| 的點站 aes a ahh eee bi At
+ae MIN HI
+ae a GTA
+if ARAL ERG iy ag  abil 1
+| lads HT  iat site
+= kl 中ML是 ae  Teena a PN
+gees 交加同名有 站全 ga Pees iy 是
+ MHT
+LIN MEET Eo gu tl BE
+Poteet Bligh
+必用
+
+----- img_36.jpg -----
+—_                        es
+ SBARAREARARBORE            <a
+Petes  Jig igi?                     fe
+四
+BBR MARE  |
+See 8/5) (ac acialaisiele| (a
+ee fee) fi feialal alae
+還
+s   [ale] [ofla[e[ ofa) Bala    |
+wwwikonagtzico
+
+----- img_37.jpg -----
+中的 Mh 1
+Pe ee      |       |
+ i | |         自
+a | |          | !
+LULL eae
+
+----- img_38.jpg -----
+Se  3 | || ||
+
+soe 月  LLP
+
+ATE  Bee El | |            .
+koa fal he           JE
+2 ed PELLET bel      cee.
+
+----- img_39.jpg -----
+PP        MT    ee
+ee 有
+Ba      \\'\\\\\\ 8) ar
+TO
+
+----- img_40.jpg -----
+大間 |
+| BREAR REE
+国人
+fel (Ele fale(dlae   a AaL
+BHA ils   RHE
+Ha nABE AREA AM HHL
+HEREREAACAEnE
+a]: fale (elefela/alel@ ee ee     LEFF
+st                 JRF ESF
+7             局        wwwikongfzicom
+
+----- img_41.jpg -----
+ID        ,
+
+----- img_42.jpg -----
+pe  fipseiiaga |e a            |
+Soe FgEiis | VTE             =
+有 周邊請 |                       :
+wre    BHAA
+2 由張月
+四 月
+- BABE
+Sa  fale] 生 Ab
+      sl  ofa]    了  *
+sHABORBEBEMEGEG           SURFS 4
+peed    ;       www kongfz.com
+
+----- img_43.jpg -----
+ll
+[ez         le} iy a th
+|           Li peace aa
+
+----- img_44.jpg -----
+=            圖
+坊-
+本
+
+----- img_45.jpg -----
+a            =
+
+----- img_46.jpg -----
+S| 5
+
+----- img_47.jpg -----
+二
+
+eee
+a | -1
+SSS
+ a 7
+SS
+a 其半還還抑2
+—<—_$===
+ES
+
+----- img_48.jpg -----
+Sa
+
+----- img_49.jpg -----
+三 =       公
+a     —
+aan =        =
+
+‘ NS        Z
+
+----- img_50.jpg -----
+ig
+We
+|
+
+----- img_51.jpg -----
+E 上 上
+
+----- img_52.jpg -----
+Ey    圖    a
+| 98 |    Be
+时|   圖畫|   |
+> 回 ，
+        |
+
+|
+
+----- img_53.jpg -----
+(OCR 无输出)
+
+----- img_54.jpg -----
+ae || isi | Seana
+
+----- img_55.jpg -----
+7 US
+:    He |
+4   ia
+
+----- img_56.jpg -----
+本          区
+Pea             3
+i      \
+
+----- img_57.jpg -----
+|
+
+----- img_58.jpg -----
+free, ul ae
+
+----- img_59.jpg -----
+(OCR 无输出)
+
+----- img_60.jpg -----
+eri: ||   |
+Ri
+
+----- img_61.jpg -----
+(OCR 无输出)
+
+----- img_62.jpg -----
+生了
+
+A,
+
+SE
+
+:   有
+al     |
+BH    ||
+Aa |)   |
+|
+EBEUHBE
+
+----- img_63.jpg -----
+丰
+AA ee
+
+----- img_64.jpg -----
+人 加
+
+----- img_65.jpg -----
+dnt at
+APT tee RA
+
+----- img_66.jpg -----
+—_—
+
+----- img_67.jpg -----
+(OCR 无输出)
+
+----- img_68.jpg -----
+Se
+li]
+
+----- img_69.jpg -----
+E      TS
+men «tik
+Vi
+|    i
+‘      HHT        wi
+.    AHI}     |    aN
+
+----- img_70.jpg -----
+和HI    |
+HEAT AA
+di HU) HAE
+
+----- img_71.jpg -----
+gat jay
+-              {il AN
+MT AAW
+CALL  AN,
+ul     L
+
+----- img_72.jpg -----
+四 作戰用
+fii ia |
+其
+
+----- img_73.jpg -----
+Co ae
+‘                   — ie a
+
+----- img_74.jpg -----
+Ma
+
+----- img_75.jpg -----
+TO  ER 一一一  a
+                     aa一二一一一一一             EE 8 f°     a          |
+                 二一                          ne          wae 、 對
+me                       ve         fevaduee, emerge
+:                       |                        Pt) nd
+_*                                                   ey      | 人 有
+i                                                          了 a 和            ite     iby
+a                                                                          ee                 i              2                                !
+35                                    ~~
+me               :            -                       六
+| “as                    =.
+5                             林|庆大十生|吕EN
+Flay Sri) a7 A)
+。                                                                  WWW EKONGIZscOm
+
+----- img_76.jpg -----
+re,  a" Ee                   TEA一
+一                            、  a # RS                 penn   一一
+ER一                    See             sens
+PP                                            ia
+:                                       Ass Sr) =5 i)
+WWW:KONGIZzcOm|
+
+----- img_77.jpg -----
+一         -
+一       =
+_          oa                                                   \
+4                                           aa  i s
+二
+AAA                Se BF ia IE           =
+      a          录野 1M IE        =
+4         =                             1
+区      和            & EF MIG          f=
+=                          SK EF py 2s            eS
+:
+
+----- img_78.jpg -----
+2  Lene       一一
+=               一         =
+A,             g          noses   .
+a 說    a       4
+一 j  EE  °
+ny             >. 、
+一
+人
+ee FE
+CCE ee
+a en OR
+SSS
+人 23 =2NS) Se 528)
+JIN}   Ay, 让
+
+----- img_79.jpg -----
+Te    se
+
+----- img_80.jpg -----
+(OCR 无输出)
+
+----- img_81.jpg -----
+“Ea               下 B            Ya
+脫 生       5      a) Be |
+
+[3B |      了      | xB
+
+               圖   和
+
+----- img_82.jpg -----
+|
+     |
+   :   fe    a  Www:kOnGiz.coml|
+
+----- img_83.jpg -----
+= ie                                                   Brat
+
+ene                                                                !                                       Te oe
+A oe eee                                          Ses
+eon                       >.
+cue x: tu
+gees"
+erp en
+“sina Si
+A                  ee ae       ;       Sil 23 = ays) =aqcale
+fad     JOR aa
+ot:                                      和                      上    oh
+He                                              1        Fom
+
+----- img_84.jpg -----
+Drala                                             B= i
+=    i a                             ® 点            eae
+s               V                      记|何|以          Re              BAS
+Lines  i] 上和全日日      eet    Se
+SA    Ea   altlal ale                Rage &        Sees
+2   eae  | | |} fatelale/*(alalele       “AG on    Fee
+=   ‘a iT] ] | PRR SEle         1    Br ee
+ee    [ae |e | | ae | a8 | |e      q                  FREES He
+of ee ef fe) fd eia/tele gia" le      3)  x  全    one
+gute |  冯|条|加|多|亿|吉|过|交|要         =  :
+ae  ee: | | | |  SIS le |, [#81818      去  a      :
+GS ea  有 | | |     Paes 区 A 同出同 z by      ;       4
+2      NMP raiar                   :
+ii Bee   |       Hela |e   | |为|会           4
+eee Bes Seat   |     Fla lElel£|2 | 12    4                2
+7   ‘ae    Ela |mle 福全
+4 ee Be an     alFlale/*|s|t ale       :
+LPs eo 閏     elgg [Ela lala lle       和         ees
+Te 1 ae     SAAR    3    洪         Bx
+a ee ene            由日 ee                                ge
+Rigg et            IES Pap ea rae:                              2
+ee i ot        fe    向同日間白自日出       4      品              ES
+SP Cae     二局   bar aaa aaa      ;     國            <a
+ial See oa    回忆  Pee aid ol. +    4             ;
+AS Se ae     — |   a/alslele la ale      7                   “i
+了  =    ge   Maine                     .
+全 sear        年 A     牙| pe   Bale
+eS ae        村      录|加|高|待|至 eg                                   了
+Pee ee     Alf   -lala  米|百|立|二
+eae aaa        +       普|点|参|是       批
+PR Pte   KLE  則同网各身邊過,
+oie      Ale    abana es LAPS
+neti ae        全    RAAT F |?) 4 十
+2S wi       密    POLL | lat ae        3
+ 1               全白白自過自          :       jue Figg
+a aoe              在|力|为|西                       JORG a: aa
+Saibaba                                  4         VWWAKONOTZ.cCOM
+yoo keg                                                                    :
+
+----- img_85.jpg -----
+a              4                          Bes ae
+Loa ees   ae ial Hed | |  |    误 PE     4     \ \ \V\\\\ \ \s   See
+2 杀生加|               不         .            Nae \ 人时   Ss em
+eee | || ||      Hes Ame) | \\\\\\\\\\
+ES | |   |  局         Bia Lf       4      \ \    VV \ \    ee era
+es |     | |         we #R      i     \ | \ \A\\\ \ \ \s   SS
+ee ae            同疝自人             VVUVVW
+peace. 和                      it eB        f                   \        are
+ot ea                         了 a &           ie                         eee
+ren                          aE           ts
+ates                     ft Hg       ;                    wae
+eo                           Al) 5                                  =
+2        Wwiwikongtzco
+
+----- img_86.jpg -----
+2 有  Poeea          |  \\\ \\ \
+> go eeeueeee
+Me.  | ia 回讀褒圖自是交交歡                 品
+ete.                                         od) eas eae
+ee                                                 1           ss spia)=5 vA
+cee                                                         WiwWwWeKOnd!z.com
+
+----- img_87.jpg -----
+eg     ~           be
+区     5                      iP  坊   \w\.\ el \       Eee,
+%   :   is                | 等全人二 a     ae Bay:
+=       3 二 二 和 tae    =  os
+4  Sa fear faa Fa | 第|        | = |—  全1六 \a       &   aes
+>   -车名车属局属    窟|学|公     NM  ee
+同    ig yt 三二     = 號|全|@   f       y= \\                      兩
+a 了 azialzis/o/2|-[alglalalsl                                 os
+ EB  =                        ngtz.
+Bae
+
+----- img_88.jpg -----
+一一一一                \8 ae aay a oe    eS gee
+      全     同 加 AH RN     cg
+ees | | fa || |= sede leila "     全圖同回 \ S| "  ee ae
+
+es me. | | /z/s/s/aie/aiei-|sials      國國國還和
+
+ee ee | | |. 4/4 2/4/2182 |2)-     GRBEEHGRHERE “22
+ae ee Mn a PPE) EPS (ate [ePaper   人轉 VV ALL AB   :
+iar     Prerefe/E/ififeleliti       eye 1: |:| | Aa!
+ete    2 Sean ies 1 ge ahs     m \m\m \=\=  ae ela
+2 il  五|五|五|五|五|五|四|四|四|四|四     |O10 九人人  El 卅
+3    #/2/=|=/=/Olajalan       國[|
+ee) |三/人| 三|5|虽|类|多到|人|
+i                                                       殉
+ee                                                                                                                Z.com
+ae te                                        '     Z
+i ri
+
+----- img_89.jpg -----
+| Rares:      =   | 3      d            才 eer
+~— BBS sak    ie      lias            Be eo ce
+> BES 用條各  Ht 1 itp   ae
+和 還
+店
+已 |? | gh | BE | Be |e ||    不|全| | \iagbe |4e|t  加和1    pa
+PP ae ee a eae) a ea  T\S\E\A\S) \GtENS) 5
+Mae lae || la Vem ele aie”) | | MMBMIAIS) | Fae) A
+BBRAAA Re eee |   同日過自同 at \ay
+= gel x |B | tie |B me | fw   i | gs | | 由   $\. \m\e  ale at
+Fix |g lan| Sle (Ele | |夫|攤|名 | | | Pee   Alalela\ \ \ele\ \2}
+iat | BH) S| 28 | |e | AU | | PO te  由   并|末|缉|村  B\y     ts
+RA || [ki | [ae | as | | ie en cin   mlz \e\8\ | \ele.
+Ble (FE fe lap | |e ae lem) oe  | | pyila|&   L\S\e\e   当
+TEI | laa) a | | | (a | |   |全|   生  下
+生 BE Nie (Fe (a | |e | AE | | fi   sali    回買交加  四
+2 elm 8 lH /E lose lele   HE   ella] \ | R\ \ ay
+Ble (eldialtia ala.    \a\a   * cll  中 \ 站
+充|征|智|湖|们|顺|是|法|总|策|咸|歼   |亲生|   同由則  由
+hd diapers:   HI   全li
+  Ga ea :    @ 和|站|月    HI ae
+| fae au || | a |e |||    oe |*     5a eae
+:   | ie | 起 不|。                x         WWW.kKO  [GO
+3          WWW:KONGIZ;COM
+
+----- img_90.jpg -----
+六        Tepalal | Te] [a] Jz         7             ea a
+~     站      ey, |e]     2       4                        Rae
+sae     es  AAP             【               全
+ots gee    BARE                                           Bee
+oe ee  |e w/itl  |*            1      q                     eS ar ae
+ee = am    有ME                                             Re Ae
+See    glelalalele é                  .                        Bee
+are Pee EES.  |全|全|要    漂| 素
+org Ree ae    Pap Ae fli              f                                   tee
+= aS see   体委 at tla             1                              Se
+人2  Serle   Ear  | 4               3                     A
+ES ae  i eairses a/z             :                              se
+Pa Peo ee    z/e/8/4/a/#                i                             2  es
+tap ee ee     BL SITES   六|要                                            ER
+ee    £/#/3|*/ a3 Fi             !      8                      ae hee
+iy See    地|基山| IES                                         Be
+Pe ae Ss    高|多 |天  aes                                        ee
+eR    Che 7a pe  2#/2                                         ata?
+sg 人     Fale  g                                      urs
+Fea ees agit      Z/a          z                                                       :
+rae    Tig|ela) |                       4                         i
+Een    elma   tle
+Ge recy:    积| Elo bd  F\g                                      :
+bit ore sel    aarp   备| ，
+RE    Alalels) [2 則                    :
+坊    权|负|山| 用    林                  4
+ee    還風生    4                                     2
+eae     Elitl       x                       ;         Zi ¥ Fel) =    ;
+a    3 4 ale    了                             了 SE   tues
+sgt 六       WWW KONOTZ.
+ane,
+avis
+
+----- img_91.jpg -----
+A aa    wi) 二|林|多  |            =o
+Re      |2|  sl ala AE may) tt                               ee:
+—— sd i 到到鋪 |RlRlzl3 sy] 站同回己  wltl Al zlwlal cla la\e a    a
+=   fe] (Riz al= 泊輻四自同EE 同軸點回條全  Java  oe
+2  Lo 7/8 alg alz/Slelal8 i    a [六 R\«\"\   oe
+> - {my al3/e{e  ; 同加國了Mi wle| "|e ela| MR) g\ a) 3\.  rf  和
+ woe 半生用|才 同中所 自邊圖向國四 各 全 生生|过|生生  vee =,
+Fe ale el ale |*|e| = 國4加同同的  計生|放生1 \&\ 虱  Saas a
+| ps Bla] 2 |x  Tha seat Biel |全|到|元 a\o\nl&\*\a\2 4   eae
+pasa a 关|有|连| ara abe 中|村|全 人|如|天|半生  和    an
+We sine AAS | «| o|2 |e) [218    El a\"s\a\>\a\2 a\ eg   eae
+|  pane  £lAla|2|2| 2/8 aba | * 全|得|一|有 le \e
+卷|子 efx) [4 同回同同由上 Blale 可| 考|至  最|千
+十|名  大| 4  回問癌交自日則站中 arabs 4\2\o\e a\=\ \x\ 5
+it aces alzlol*|slelal lal eal \elslelel Vals ;
+mie) |e) el Ale | SIE ella lee] (eels ell lal: \e\% :
+a ag eae |e lal ele aloe t\k\a\2  Ble \®
+p  i Ala 5 g/#/2  “|. |) 同 多 |相| ae | alk a
+-     4/_l2| |e/zZ/%  和| |了|下則和點 大| E\tle\ |时| 、 过 \基
+机 a{Rlel® Bia:  z| |/el2| [8] 1% 自人型回國也 生全
+al rar cae 麻|产|产  回圖站站 A i = 又|日 x\s \ 本
+j 似 ees  全上  实  3 ° Z  || 2 |e ae 經
+z    | | &    | |e Ele pede ds  x
+«| 俗| 似 Ree i    時 子  iA 和 而| 和| ee 总|支 %    ao
+| jz BIS Ra) |e    未  ，     ata 二村  大| \ 名   a
+朋 入 gee A    號 a  4   |當]才|到 于|又 Es    ;
+Bees  下而局 le      加|  a   wl elelel \E\3     ei
+   县  亦    其 提  a 和 ap 美|十|請 环|为 六
+等  迷|详   ye    an  a   “lal le 16 i
+wl [ale   z    anh 3  詳   生身邊還國國日圖上
+区  ale   gq    二|點  ry i  wel 遇  tle \ =
+PZ) [aie    2     ae  bea ae \a\m\ \el®\ \&
+一   =    a. |   Al | | | yieiaie 加  “
+人  会| 峙    岁| 二|  4  $  eel ole 起|和 和
+*| (ele   同    是IN
+四全   +    一|    FLSA STAI VIAL |e
+ilar    a    +| le      ees eee tga
+, 区  &    | 材  WY) 或  al
+———  美| 经| 。|  le 全
+    一  人
+ry i 二]
+8        GODgizZGcOom
+
+----- img_92.jpg -----
+SS全     [| ge] 灯| 牙| 营         is      3                          ss
+S— RESRER      u/s                                  i
+i  2/#/g/2/%      所| 县
+eee  ie | &      :                                     ees
+eis   hs   BIZ] 2] a     e\e            ‘                  Baas
+eae ae   Abs bs    |e       z\+                                            >
+和   Ke         a                                4                               二
+BBR        由               :                        we
+eee     slelzizle        =                                      品
+S ee?  meres:        a                                       :
+Be  F/#/*/F lal oe                 4
+eka     公| 貳| 2 要| 可
+二二     ELE! x |e
+aaa     #| 7 8   g                         站
+ae     Cae 3
+ee      gle! mle    ae.                 1    x
+)    tle   ae
+2       el 2l2la
+Sh      €/4/4/8                     3
+A     lB go | | 相    上
+oe     # 地 z gh    Rd                  1
+om      色       目     a|*                    7
+說    4 aif 了 5    ‘ ah             ?
+
+其| 2  ra   i        :                    -
+
+UE   x/e\z        Ps                    7                     $
+
+ask   此| ae       区|                        了了) 2 畫
+
+----- img_93.jpg -----
+Sy |_| se |e fee  fel eT)                soe
+meee) eT Le i) leis, fh 8S ae tps   “or
+of. |x   各   BRS  alia  要 ¥   ce
+: AF |Z  | 同   Si le lels  al  证|庆| 5) |e  4     学
+
+Bela | AL | Peel les eile  則
+Als   :   el ig) it | eal | (VaVaVEREL | (al
+|         和 £\B 和|以| 2 \-e\@\ 5  i
+之   服   4| |z it  a/8) | |e lal g\e\ele
+een ii  2  al lg tl] lig) at Elale\ela\ 4 Vet
+ERE mL PPT ft Gu vA Nae
+¥ iz  a   gt  slaleie\RL | \%
+A   mu   A) EL   H   ert
+A   三   :  : 4   从   人久久生基條
+ie   i   每| |B) |S   2\ g\e\£\e
+|   四| |四| 和   x   a\e\U\ ale
+, |       SBE   Bt   2\a|z
+Fa   ks   Ra ae   =   同交加和  和
+放射而自生生|劑笠和
+,    、   ! a ia Ia    于| &\y\*
+= 慎    舞    A) oR 由   Hi  RN
+> ait    +    每 每 Ne  Ay  isd |g \2\
+而     i     各加回生和自同    同點
+vd    us    各  各 Ng  秋| 、  加自站中1 +) 2) ye 网
+本    酒    六加同陛  和四BL ae
+ik    ¥
+
+----- img_94.jpg -----
+和    + ieee    :                本                   是
+加說 和用
+        ,/s/a/a/a/ala
+= MMAR:
+ee 放  a/a/a/ e248)                  ,
+2 = Sn,   of ”| 四| | ae                                                  Ps
+ce, ca :     | 内| 郭                                     a
+eo       aw) RR                                           3
+ee.       ied                                        é
+pie. Sat           a                                                                      ie
+Oye           i
+x                                    }
+earls
+von                                  4
+a
+4            =  3 =o > ea |
+BEGESSe0" Cees                    JOR a)
+c    3
+WWW KONGIZ:cCOM)|
+說
+
+----- img_95.jpg -----
+Tara
+J |e ea ale ala    an
+iii EE eh)                 eee
+Ea FARALEE gh                       ea    eee
+|   Ati ARTE
+人 LEP AE Lee aa EL rat's a)  ara a ee
+HI 4 Py 上  4  站 和 和   area
+PDEME EE APT ae aps  ig  bad PLL De ee.
+= dataeee hie re RAE Bea (gael AREA ‘ee
+HE GAGE ag 的国 ee ABE 同 aaa  ee as
+三| 4  |  [2B - | |e   be | A aba) Rik aba | 8B  Ft 多 到  \a\%| Bored
+生人了同 官 某|了 “用者 | Be  kin 不|税  | al HE | Hh  “a\e  \e\ Fae pe
+有   州|向|定|  |年| |B | | ara ak: Par ab al heehee 本民生  eae
+9   ag Hits Ace HCH fe
+genes  dane yeaa es a eeu Gets Ss
+|     ja | Es | 对 4 ie) |  [| Bel 和前在著 ane ‘ARR ae GES  eee
+和 lel® | 52 4 Bi  i at ate EIN LAE: rap 人
+Ele m/e He 民| 轎革自章 AEE ear 和 le
+民|丝|查| ， 县| “|力   申 ate | b ea 積|器 cea eo Ae RE ac
+ae Alki Ala lie gee ae pee EGG oe
+|g | gl" f/m) a AN hate Ax eRe RR wes  >
+Te      =|      \5\ \ jm | & | \ si  ie eee
+和 本 i LEME  ae
+bila Blalé   lal |i |   aif w aE aaa  he ay 和 eee
+P| as | Hw | 州|人 AAD il, cele nae tl HI ee
+| il    5    約|加 eit fe  Hi 陈  mR | eral ae
+则|征|粘|查|税 a iq Hla nae ee aide  a
+:   iH ribae   aye  \a  \\ ae
+te 4 bye las ae 投 a hat |e  ea
+Rai alee Ma 8 ee
+WeKOnGI  |  oe
+
+----- img_96.jpg -----
+人              is ree
+=- . JIGASAGBRARE        {                   ae
+
+有 Fe                                                  &
+
+SEIS ai a   || fe || S | | Be | bm | ae |                            a
+用  |村              a                    Be
+ee’ | falslzle/2ziele|                                         ae
+人                              ace
+MAR EARP ae pb              4                     a
+只     BEE | og LA |           :                           os
+so? AAR Bee                                                 an
+voor      Ble] |寺院|全
+      2/3] /£/ 98/2                                             :
+Nae      G/B) 三| Fis/S 2                  4
+Scag      RE] |e /8/¢|£     i               !
+ee      aia) (|2/@/2\@                |
+Sa    Hl?   baer ae.    i                 q
+“og               合|简| 新
+ae       ie     2 Rg
+ar in            _
+ey           7                  和|
+ae | /s/#/ [e/ Mla                  | 點
+
+                                               -          WWWiKONnGTZ-com
+
+----- img_97.jpg -----
+ee aia Tae 了     震|蓬| ve |e | ltt  |e                   I        ae
+窗外|       Bi dee        F
+pms   Se                i}   本         ‘a          A
+Lid |e/ai| foe          | lg                 1
+| [ig              i                    和
+著 lala             | 上
+                      |
+L
+
+----- img_98.jpg -----
+Breve        ¥en                                             DERE ER 康
+So CO |                  '                   bag
+ra     a    / | felml lela                             ‘ene
+-   二|   對                                [ee
+<= ees | |  能才  四            |                                pace
+Seem, | | /2/"| Fi :           |      :                  oe Si
+A ee aa op |   | |                  !                 So ee
+4 Whe    了 #      |                                       |                                               os   :
+a                                            1
+Mae  pf ff ff tf} tt tt         ;      ER让所 ry)
+Bs                                                        WWW KONGIZCO
+
+----- img_99.jpg -----
+eee |                            | \Q\m\q\,) SS      <
++ ead   ap apaeap 3    沒                 ARR   人各
+2局  i     i     2 |2\<\2\2\2\5\ nec oe
+Pe   acts     自  aes                同評點 NG    ee
+x    LS ae   ear dear op dees                 ie \e\5\% ER NS、二
+二大| 区 iz) 三|志                  EN
+|和| | |  =           |     网RAR 二
+ee eee || 2/2)" lal ole                   mn \e\S\e\h\a\S\e\ |說| 全1 lee
+Seg ee   | 到村/党      全                  |x| | RAR 二
+Fe ea     [7/8      é                  mele) \a\e\S\S\h\t\ 二NAN “eee
+ee | | |?       rs                     | \a\S\ala\c\e\5\ \e\e\k\ 5 ieee
+Se     |  2    aes                    |全 自生由 Ta \alk\a    soe
+ee ps  2              Bele \a\Rltlelt\e\ \ \\e\a\e  See
+%    i   — —     2                    j      L-  4   *\a\a t\e\ \ \a\a\a\e         起
+Se   :           |   Al  S\S\a\a\ | leva ale   fee
+oes                            |      ,         Ve \ \ AN      os
+eC        \\\ \ \ae\ oe
+Cant                             $        Vl  AR
+Bea                                          a \ \ als     aa
+Ee as                                          \ \ \ Vela    Woks
+ee                                        \ \\ \ \a
+                          <        | \ \ a 本 ，
+” 属                                    q        |      VAN點
+4                                           一
+eS                                                                     WWWKONGizicom
+
+----- img_100.jpg -----
+(Pe   a/e/e/E/*/ 3/31 2 |                                beer
+Sees |./¢/-/2/o/£/*|Zle                                     a
+二 2/8 /2/7/F/e/a/F/2        t                     ee
+Seems [altfale/e/AlF/e] a                                  She ee
+5 ae lee /e/z/slela als         1                eee
+Sse   向辣轩辣 | 時加點                                         eee
+ce.    a/2/@/*/F)g/*/ 2/8                                             =
+hey      T/A]    ais
+eee 8/2/32) 9/4) 2/0 |e lela
+區   五  3   a|  /2)%
+三
+> BRIE e hora aes a                !                           ars
+- BHAREBRGG                    =
+ay    办   和   aap n                                         tee
+- X/6 /2/e/2/*|Flale     shat                     2
+=    a) JEG (AB elale    |                         BB:
+E /gle/zlaieieie eles (salsa ela    ,
+Rg (ECE ela] al     到|六 1a    !
+Nfl la     a aera ane     ‘
+» RIE ISIS RAIS] |e Pat aren  ;
+B       ole] Ela]. |    本 |六 le 人
+g  #  a  Bl lEl3 發  elf iat    ;
+BPRS RT slelsial 本|这| 本|二 和|要
+me fal lls fmf al slat | Wale le |e
+到 [el |B] /El Al al 上    本         ZLK FIGS
+=              3            DK TEN) a)
+     时          www:kongiz.com
+ei
+
+----- img_101.jpg -----
+be       一一                                                                          Say
+REA    eae ae                                  ee
+SS Eee  Ed R   囊|下|鸭|责| |                                        人入
+eC  mai    i | Rae ard     i                                          ae
+Bae     al of fal | felaclacle || | |. ieee               ly     Shoes
+人和     回同同圖戰圖|     rik    則    口                        之
+a>     é|/    fe    三|十]五   a        Es                      1     Srey:
+ees     =    | |  于|七|年   rs  |          全    *           a        ee
+“a    Sf  z/     =     alee | ee          a          a              i          ape
+c=               =] |二全              a     cS         想 全         2\ ®        ara
+BB Tae      可     乜|百| 科      |      a     d    =   :|志       &          2
+<<         ak    页|科| °         &   a      ale      A
+= [mea        |  al”                :     社    t\itlala        =\ 昱
+=F              rae            |             二     國同同上         全
+                          | |           对|全|友|这       呈
++    所        3
+卷                              |               a| |t\e         >
+字                             |               考| \2\5
+d                         hy?                      =\i\%\2
+Mal | ig            i          4
+|   环                      村并
+上                            和
+x         人                   ;
+1                              |        SG                    4
+全         cd
+1         bal                    人
+训                    &
+t                                                                 4
+|                              和
+
+----- img_102.jpg -----
+全
+etre BBEEROABEL by 4                  bees
+cee tee   同同生後站大站生       3                     coe
+SS Cop 人是/誠書| 加中| ed         天                       a
+ERE, SS   3/8] 地| 不| 可  Fags                            =
+Sea ees    PETRIE IES   lA                                          ees
+Cae    S/S] | | S| ATS | o.                【                        5
+ates   t/e/Elale/3/ [2/%                                       :
+Pes ae     Blals & glelaie
+Any tee    汪汪六| Blo lglg               ]                      3
+Pees      ale] a   =| [2/4
+cae    了   本| al el el ede                ;
+Bee    2 ig zg   3   a 品                       ;
+Ay, a    兵 名 ae   上   o) ae          ;    |                           .
+G8     Pim) fale [eS
+Fart     # Fa a  你  Els
+- Ae eevee   1
+San    e/a   BAe   >       和
+= ah     全 让|全  政   .|过| 看     和全    :
+5      Ps 7 #   Fs    | See   +   發   4
+一  一一一一一             3  Ss as 去
+sae              q           FLAG 4
+:                  WWw:kOngiz.com
+
+----- img_103.jpg -----
+Pa  河    =      "會         Se aca:
+Fl TIS /EIRISVAS| sla le \s\ Zale lal a  a
+户|新|坤|至|生  |香雪   e\ ees Ve      os
+x bar ba    AS    %\"\m*\2\ 8          a
+明昌是He    eae
+和由HI
+友|信|對| |]夫|息|守|間|牙|銜    百|有\，
+A\A\E|R |S tl a | a) 2) om     4\a\8\ 2
+ce TSalblealtalg) \3\k\a4
+|人|和 Vala
+全章HI日自過
+            SERA) \E\EVG\B\ Bla \a\2
+gS           a) MS lEUEL (lS\Sl ele |e) Sele
+gm          S| lalRle vel le\e lam) \a\ela\3
+pu                        O\e le | 8          a\e
+Bw                   ae ae ARC    %\8\ a \%
+3 2!                  ‘  Hi ele   +    EI  ble   =.
+ae         Wipe Hd有ti
+ae        a) |El2\2 la) \e\ Shale) \e\ ale
+ot                    重   人|全1过   i \#\al=     五
+go                  同加了Pt和 ese       4 \»\ hi:
+te             a  glalt  3人   各|二
+品          a Pae at ar abata eave al ear ab ian
+Sabie                   ale  re  *       % 和  4
+和
+e412     x   |    \a\a\l \a
+ace         A\k\S\ 0 \4   ey
+Pe Le   其     i 人1主    \-  a
+fete |E |e] EL IRIE as Sia)? a3
+”一一   Sa  Cg 全ov   4
+;                              awkongZconm
+
+----- img_104.jpg -----
+一一一一一一          全    一一   —
+WW WEKONGiZaCON)
+
+----------------------------------------------------------------------
+[五] 备注
+----------------------------------------------------------------------
+• 本目录下同时保留了原始 HTML 快照与图片本地副本：
+    _ocr_temp_qiongyeyelu/page_raw.html
+    _ocr_temp_qiongyeyelu/images/  (90 张)
+    _ocr_temp_qiongyeyelu/ocr_text/  (每张图一个 txt + 合并文件)
+
+• 《邛嶲野录》全文七十五卷首五卷，本次仅 OCR 了孔网商品页内 30 张展示图，
+  故识别出的内容极有限。如需完整文本，请通过正规渠道获取。
+
+• 本次抓取遵守礼貌爬虫原则（单次请求间隔 0.4 秒），未对网站造成负载。
