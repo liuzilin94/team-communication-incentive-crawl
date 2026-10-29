@@ -1,0 +1,8 @@
+《翻译醒世要言》（醒世要言）正文提取说明
+
+提取日期：2026-09-20
+来源网站：识典古籍（https://www.shidianguji.com/）
+书目页URL：https://www.shidianguji.com/zh/mid-page/7509606499393454090
+内容页URL：https://www.shidianguji.com/zh/book/HY4856/chapter/1l16d8qdxks3a
+版本说明：清道光十八年（1838）刻本，仁愛會纂；识典古籍收录，繁体原文
+处理说明：全书一卷，共提取4个篇章（小引、戒饮三样最毒之酒论、论戒食鸦片烟之害、论赌博之害），按篇章切分保存为UTF-8编码txt文件
