@@ -1,0 +1,29 @@
+来源说明
+==============================================
+书目编号：007811
+书名：《清乾隆彩绘黑唐卡释迦牟尼像》
+爬取状态：已完成（GitHub 有 TXT，网盘未留源资料）
+
+【获取方式】
+文物图像条目抓取
+
+【来源站点 / 底本出处】
+台湾美术群像资料库
+
+【来源链接】
+- http://arts.fgs.org.tw/tw/keyword_search_detail.php?arg=S0UYVOYAwVVsKb1rN1nS90JZrhr8bwJOxT6PgBdw6B33WXeLVF%2B%2FLkaeDw
+
+【GitHub 位置】
+分支：刘耔琳
+仓库：https://github.com/liuzilin94/team-communication-incentive-crawl/tree/liuzilin
+- 刘耔琳/7811_清乾隆彩绘黑唐卡释迦牟尼像/正文.txt
+
+【网盘留存文件】
+- （网盘未留存 PDF/图片等源资料）
+
+【GitHub 随文保存的图像 / 压缩包】
+- 刘耔琳/7811_清乾隆彩绘黑唐卡释迦牟尼像/10._清乾隆彩绘黑唐卡释迦牟尼像_1.jpg
+- 刘耔琳/7811_清乾隆彩绘黑唐卡释迦牟尼像/10._清乾隆彩绘黑唐卡释迦牟尼像_3.jpg
+
+【版本与出版信息】
+爬取日期：9.18

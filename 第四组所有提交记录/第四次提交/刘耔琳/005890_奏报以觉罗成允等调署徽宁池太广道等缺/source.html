@@ -1,0 +1,550 @@
+  <!DOCTYPE HTML>
+<html lang="zh-Hant-TW">
+  <head >
+    <meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0,, maximum-scale=1.0, user-scalable=yes" />
+	<meta name="description"  content="清代檔案檢索系統提供故宮典藏清代檔案文獻查詢。 " />
+	<title>清代檔案檢索系統-首頁</title>
+	<!-- CSS -->
+	<link type="text/css" href="tool/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+	<link rel="stylesheet" type="text/css" href="theme/css/css_default.css" />
+	<link rel="stylesheet" type="text/css" href="theme/css/css_client.css?20230815" />
+	<link rel="stylesheet" type="text/css" href="theme/css/css_signin.css" />
+	<link rel="stylesheet" type="text/css" href="theme/css/css_landing.css?1790564382" />
+		<!-- JS -->
+	<script type="text/javascript" src="tool/jquery-3.7.1.min.js"></script>
+	<script type="text/javascript" src="tool/jquery-ui-1.13.2/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="tool/canvasloader-min.js"></script>
+    <script type="text/javascript" src="tool/html2canvas.js"></script>	  		<script type="text/javascript" src="tool/highcharts-11.1.0.js"></script>
+	 	<script type="text/javascript" src="js_library.js"></script>
+	<script type="text/javascript" src="js_client.js?1790564382"></script>
+	<script type="text/javascript" src="js_signin.js"></script>
+	<script type="text/javascript" src="js_landing.js?1790564382"></script>
+		<!-- PHP DATA -->
+				<data  id='model_message' data-refer=''></data>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-91MJR5YCWN"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];	  function gtag(){dataLayer.push(arguments);}	  gtag('js', new Date());	  gtag('config', 'G-91MJR5YCWN');	</script>
+	  </head>
+      <body>
+    	<header class='navbar'>
+		<a href="#system_content" id="gotocenter" title="跳到主要內容" class="sr-only-focusable">跳到主要內容</a>
+				<div class='container'>
+			<h1 id='navbar-header'>
+				<div id='organ_mark_l'><img src='theme/image/NPMLogo.png' alt="清代檔案檢索系統LOGO,點選將前往故宮首頁" /></div>
+				<div id='organ_mark_s'><img src='theme/image/logo.png' alt="清代檔案檢索系統LOGO,點選將前往故宮首頁" /></div>
+				<div id='system_mark'><img src='theme/image/NPMheader.png' alt="清代檔案檢索系統LOGO,點選將回到首頁" /></div>
+				<ul  id='system_manual'>
+									</ul>
+			</h1>
+			<ul id='header-function'>
+				<li ><a href='index.php?act=Archive' >資料檢索</a></li>
+				<li ><a href='index.php?act=Landing/information'>資料說明</a></li>
+				<li ><a class='option' id='act_feedback'  >意見回饋</a></li>
+				<li id='login_block' title='登入帳號'>
+										訪客，您好					 					<a class='mbraction option' id='formember' signin=0 > </a>
+				</li> 			</ul>
+		</div>
+	</header>
+		<!-- 緊急公告   -->
+	<div id='urgent-post' style='display:none;'>
+	  <div class='container'> 		<ul id='urgent-announcement'>
+				  <li class='annpost' id='00009' >本院即日起暫停提供清代檔案文獻提閱申請服務。</li>
+				</ul>
+	  </div>
+	</div>
+		<div id='system_content' class='system_body_area'   >
+		<div class='banner_block type2' >
+			<div class='container' >
+				<div class='introduction_block'>
+					<div class='system_title'>
+					    <img src='theme/image/NPMtitle.png'  class='systitle type1'  alt='系統名稱'  />
+						<img src='theme/image/NPMtitle2.png' class='systitle type2'  alt='系統名稱'  />
+					</div>
+					<div class='system_summary' >
+						<button class='button red _active' id='act_into_archive'>進入系統</button> 										</div>
+				</div>
+								<div class='information_block'> </div>
+							</div>
+		</div>
+								<div class='publicity_block container' >
+		   		    <!-- 公告列表   -->
+			<h2>最新消息</h2>
+		    <div class='landing_content announcement_block' id='announcement' more='0' >
+			  <div class='news_block' >
+				   				<div class='post' no='9' top='1' mark="緊急通告" popout='1'  >
+				  <div class='post_record'>
+					<span class='post_date' > 2024-06-11</span>
+					<span class='post_type' > 緊急通告 </span>
+					<span class='post_summary' > 本院即日起暫停提供清代檔案文獻提閱申請服務。 </span>
+					<span class='post_organ'>  國立故宮博物院 </span>
+					<span class='post_rate' style='width:44px'>  </span>
+				  </div>
+				  <div class='post_content'>
+					本院即日起暫停提供清代檔案文獻提閱申請服務。				  </div>
+				</div>
+				   				<div class='post' no='4' top='0' mark="新增史料公告" popout='0'  >
+				  <div class='post_record'>
+					<span class='post_date' > 2022-08-22</span>
+					<span class='post_type' > 新增史料公告 </span>
+					<span class='post_summary' > 官書《夷務始末記》及雜檔《（錫良）電稿》檔冊內容與影像圖檔瀏覽方式說明。 </span>
+					<span class='post_organ'>  系統管理者 </span>
+					<span class='post_rate' style='width:22px'>  </span>
+				  </div>
+				  <div class='post_content'>
+					官書《夷務始末記》及雜檔《（錫良）電稿》檔冊內容與影像圖檔瀏覽方式說明。				  </div>
+				</div>
+							  </div>
+			</div>
+									<h2>系統簡介</h2>
+		    <div class='page_text' id='system_descrip'>
+				<div style="text-align: left;"><br></div><p style="text-align: left;">本系統提供院藏清代宮中檔奏摺、軍機處檔摺件、<span id="isPasted" style='color: rgb(65, 65, 65); font-family: "Times New Roman", Georgia, serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;'>檔冊、大清國史人物列傳及史館檔傳包傳稿</span>等清代文獻之後設資料（metadata）及影像圖檔，再加上與中央研究院史語所合作建置之清代檔案人名權威等資料連結，以結構式呈現，藉以理解檔案生成之相關文獻脈絡；並因應新世代人文研究導向，以實踐人文研究新意涵，體現博物館數位典藏之重要前瞻性。</p><p style="text-align: left;">系統收錄文獻，其各檔案文獻類名之「編目數量」與「掃描頁數」之筆數／頁數、更新日期，如下表所示。			</div>
+						<!-- 收錄清單  -->
+		    			<div class='' id='system_collection'>
+							<table id='collection_summary' >
+										<tr class='collect_header' zonglist='1'>
+						<th >收錄文獻</th>
+						<th >編目數量</th>
+						<th >掃描頁數</th>
+						<th >更新日期</th>
+						<th >近30日新增</th>
+					</tr>
+															<tbody class='collect_record' >							<tr class='collect_descrip' zonglist='2' data-level='官書' >
+							<td ><div class='zong_title' title='瀏覽此文獻類別'>官書</div></td>
+							<td>
+																<span class='meta_num'>
+								14034<i >冊</i>
+								</span>
+																																	<span class='meta_num'>
+								7991<i >件</i>
+								</span>
+															</td>
+							<td> 								199776<i >影幅</i>
+							</td>
+							<td> 								2026-09-04							</td>
+							<td>
+								<i>無</i>							</td>
+						</tr>
+						<tr class=''>
+							<td >
+								<p class='zong_summary'> 本院所藏清代官書，大部分皆係歷朝皇帝下令開設史館，委派重要大臣編纂刊行的書籍，如實錄館編纂之清代歷朝實錄，起居注館記錄皇帝起居與公務活動的《起居注冊》，以及彙編對外軍事作戰資料的方略館、蒐集皇帝言論的聖訓館等。武英殿是清代官書的出版機構，刻印之書字體工整，用紙考究，外觀裝潢尤為典雅。</p>
+							</td>
+						</tr>
+						 					</tbody>
+										<tbody class='collect_record' >							<tr class='collect_descrip' zonglist='3' data-level='史館檔' >
+							<td ><div class='zong_title' title='瀏覽此文獻類別'>史館檔</div></td>
+							<td>
+																<span class='meta_num'>
+								11051<i >冊</i>
+								</span>
+																																</td>
+							<td> 								36635<i >影幅</i>
+							</td>
+							<td> 								2026-09-23							</td>
+							<td>
+								<i>無</i>							</td>
+						</tr>
+						<tr class=''>
+							<td >
+								<p class='zong_summary'> 本院所藏史館檔，為清朝國史館為編纂國朝歷史，或民國初年組成之清史館著手纂修前朝歷史而開設史館機構留下之稿本文獻。史館編纂歷史方式，依西漢史家司馬遷撰寫《史記》，分紀、志、表、傳體例整理編纂，更有編纂之初仿北宋司馬光撰《資治通鑑》形式，整理而長之《長編總檔》與《長編總冊》。由於史館檔案保留相當豐富的原始抄錄稿本，為研究清代歷史制度重要文獻。</p>
+							</td>
+						</tr>
+						 					</tbody>
+										<tbody class='collect_record' >							<tr class='collect_descrip' zonglist='4' data-level='內閣部院檔案' >
+							<td ><div class='zong_title' title='瀏覽此文獻類別'>內閣部院檔案</div></td>
+							<td>
+																<span class='meta_num'>
+								1958<i >冊</i>
+								</span>
+																																	<span class='meta_num'>
+								12249<i >件</i>
+								</span>
+															</td>
+							<td> 								2003<i >影幅</i>
+							</td>
+							<td> 								2026-09-24							</td>
+							<td>
+								＋428件							</td>
+						</tr>
+						<tr class=''>
+							<td >
+								<p class='zong_summary'> 院藏內閣部院檔案，主要為清代內閣及六部衙門抄錄其他機關文書，或辦理公務時產生之檔案文書所留存之檔冊，內容包括皇帝詔告天下重大事情之《詔書》、清代晚期與西洋各國交換往來之國書、六部各科抄錄之檔案等。</p>
+							</td>
+						</tr>
+						 					</tbody>
+										<tbody class='collect_record' >							<tr class='collect_descrip' zonglist='5' data-level='宮中檔奏摺' >
+							<td ><div class='zong_title' title='瀏覽此文獻類別'>宮中檔奏摺</div></td>
+							<td>
+																																	<span class='meta_num'>
+								158614<i >件</i>
+								</span>
+															</td>
+							<td> 								590981<i >影幅</i>
+							</td>
+							<td> 								2026-09-09							</td>
+							<td>
+								<i>無</i>							</td>
+						</tr>
+						<tr class=''>
+							<td >
+								<p class='zong_summary'> 奏摺是清代官員向皇帝請安、謝恩，以及報告地方事務的一種文書。清代奏摺制度推行於康熙時期，確立於雍正年間，乾隆朝以後成為定制，而奏摺上所見皇帝的批示，反映奏摺在官員與皇帝間溝通所扮演的重要媒介。奏摺內容多樣，涵蓋政軍經濟、風俗民情、治安內政與人事任免等，提供今人了解清代重大事件的原始文獻史料。</p>
+							</td>
+						</tr>
+						 					</tbody>
+										<tbody class='collect_record' >							<tr class='collect_descrip' zonglist='6' data-level='軍機處檔摺件' >
+							<td ><div class='zong_title' title='瀏覽此文獻類別'>軍機處檔摺件</div></td>
+							<td>
+																																	<span class='meta_num'>
+								190889<i >件</i>
+								</span>
+															</td>
+							<td> 								670376<i >影幅</i>
+							</td>
+							<td> 								2026-09-04							</td>
+							<td>
+								<i>無</i>							</td>
+						</tr>
+						<tr class=''>
+							<td >
+								<p class='zong_summary'> 院藏軍機處檔摺件，包含奏摺經皇帝批示後遞交軍機處，軍機處官員以行草書體抄錄的副本，或各奏摺上呈皇帝閱覽所附的清單、供詞、圖繪等資料。奏摺經抄錄副本後，原摺發還上奏官員依皇帝批示辦理，而奏摺所附之清單圖繪，則置入軍機處檔案內以原件形式歸檔，是以院藏軍機處摺件內容豐富多元，成為彌補奏摺的另一種重要文獻資料。</p>
+							</td>
+						</tr>
+						 					</tbody>
+										<tbody class='collect_record' >							<tr class='collect_descrip' zonglist='7' data-level='軍機處檔冊' >
+							<td ><div class='zong_title' title='瀏覽此文獻類別'>軍機處檔冊</div></td>
+							<td>
+																<span class='meta_num'>
+								6218<i >冊</i>
+								</span>
+																																	<span class='meta_num'>
+								51728<i >件</i>
+								</span>
+															</td>
+							<td> 								1717251<i >影幅</i>
+							</td>
+							<td> 								2026-09-21							</td>
+							<td>
+								<i>無</i>							</td>
+						</tr>
+						<tr class=''>
+							<td >
+								<p class='zong_summary'> 清代軍機處除抄錄奏摺副本外，也依經辦之文件分類，另以楷書謄錄一份，並按月裝訂成冊，備供日後查閱，是為月摺檔。軍機處登錄之檔冊種類繁多，內容涵蓋各種公文收發、文移往返紀錄、歷朝皇帝的公開或機密性諭旨、以專案形式記錄清廷平定地方動亂或對外戰事的檔冊，以及與軍機處日常例行事務相關的紀錄等。</p>
+							</td>
+						</tr>
+						 					</tbody>
+										<tbody class='collect_record' >							<tr class='collect_descrip' zonglist='8' data-level='傳稿（包）' >
+							<td ><div class='zong_title' title='瀏覽此文獻類別'>傳稿（包）</div></td>
+							<td>
+																<span class='meta_num'>
+								11920<i >包</i>
+								</span>
+																																</td>
+							<td> 								315222<i >影幅</i>
+							</td>
+							<td> 								2026-06-01							</td>
+							<td>
+								<i>無</i>							</td>
+						</tr>
+						<tr class=''>
+							<td >
+								<p class='zong_summary'> 本院所藏清代人物傳記檔案數量頗多，主要是清代國史館與民初清史館兩機構累年編纂的人物稿本、傳包等資料。所錄皆為中央與地方重要文武官員人物的生平事蹟；其種類形式亦且多樣，包含事蹟冊、行狀、履歷、年譜、文集、奏摺、訃聞等。此等檔案內容豐富，不僅可資研究清代人物，尤足說明清政府對人物行事的評價與準則。</p>
+							</td>
+						</tr>
+						 					</tbody>
+										<tbody class='collect_record' >							<tr class='collect_descrip' zonglist='9' data-level='雜檔' >
+							<td ><div class='zong_title' title='瀏覽此文獻類別'>雜檔</div></td>
+							<td>
+																<span class='meta_num'>
+								461<i >冊</i>
+								</span>
+																																	<span class='meta_num'>
+								774<i >件</i>
+								</span>
+															</td>
+							<td> 								689<i >影幅</i>
+							</td>
+							<td> 								2025-06-30							</td>
+							<td>
+								<i>無</i>							</td>
+						</tr>
+						<tr class=''>
+							<td >
+								<p class='zong_summary'> 院藏清代檔案文獻，除依原文獻產行之衙門機構作而分類為官書、內閣部院檔、軍機處摺件與史館檔案外，對部分無法歸類之文件或書冊以取名「雜檔」。雜檔內容也豐富多樣，部分屬於專題性質文書，而更多是清單目錄類之文書。</p>
+							</td>
+						</tr>
+						 					</tbody>
+										<tbody class='collect_record' >							<tr class='collect_descrip' zonglist='10' data-level='增添文獻' >
+							<td ><div class='zong_title' title='瀏覽此文獻類別'>增添文獻</div></td>
+							<td>
+																<span class='meta_num'>
+								109<i >冊</i>
+								</span>
+																																	<span class='meta_num'>
+								437<i >件</i>
+								</span>
+															</td>
+							<td> 								152<i >影幅</i>
+							</td>
+							<td> 								2026-09-04							</td>
+							<td>
+								<i>無</i>							</td>
+						</tr>
+						<tr class=''>
+							<td >
+								<p class='zong_summary'> 院藏之清代檔案大多來源自清代中央政府一級行政單位文書，較少地方文獻。政府遷台復院後，累年來經由添購或民間捐贈等形式，使本院文獻典藏類型日趨豐富，範圍也擴大地方低層機關與台灣地方文書。其中包括臺灣地契文書、版畫、輿圖、私人信札等。</p>
+							</td>
+						</tr>
+						 					</tbody>
+										</tbody></div> 				</table>
+						</div>
+		    												<div class='page_text' id='system_collect'>
+				 			</div>
+					</div>
+		 	</div>
+			<!-- 框架 footer -->
+	    <footer>
+		<div class='container footer-block'>
+			<div class='declared'>
+			  <div class='copyright'>
+				© 2021 National Palace Museum. All rights reserved.  國立故宮博物院			  </div>
+			  <div class='contact'> 				111001臺北市士林區至善路二段221號			  </div>
+			</div>
+			<div class='information'>
+				<a id='mark_company' href='https://www.npm.gov.tw/' target=_blank title='前往官方網站'>
+				   <img src="theme/image/npmlogo-w.png" class="npm"> 				</a>
+			</div>
+		</div>
+	</footer>
+		<!-- 無JS警告 -->
+	<noscript class='noscript'>
+	    <div class='container'>Your browser does not support JavaScript! 您的瀏覽器不支援JavaScript功能，若網頁功能無法正常使用時，請開啟瀏覽器JavaScript狀態。</div>
+	</noscript> 		<!-- 服務條款 -->
+		<article class='syscustomdom'  id='system_document_module'  view='privacy' >
+		</article> 	  	     	<!-- 框架外結構  -->
+			<!-- 帳號框架 -->
+	<!-- 登入介面-個人 -->
+	<article class='syscustomdom'  id='user_login_module'  >
+		<div class='module_container login_block'  id='member_login_block' >
+			<main>
+				<div class='login_border'>
+					<span>會員登入</span>
+					<a class='option icon_close act_login_cancel' id=''  ></a>
+				</div>
+				<div class='login_form'>
+					<form id='user_login_form' method='post' action='index.php?act=Landing'> 						<input type='hidden' name='CSRFToken' value='1790564382' />
+						<div class='login_field' fail='' >
+							<label>帳號：</label>
+							<input type='text' id='uname' class='_require' />
+						</div>
+						<div class='login_field' fail='' >
+							<label>密碼：</label>
+							<input type='password' id='upass' class='_require' />
+						</div>
+												<div class='login_option'>
+							<span >登入可使用查詢歷史或個人資料夾服務</span>
+							<a class='option' id='act_account_repass' >忘記密碼?</a>
+						</div>
+											</form>
+				</div>
+				<div class='login_active'>
+					<button class='button blue login_submit'  id='act_login_submit'  disabled>登入</button>
+					<button class='button'  id='act_member_signup'  >註冊</button>
+				</div>
+								 			</main>
+		</div>
+	</article>
+		<!-- 登入介面 忘記密碼 -->
+	<article class='syscustomdom'  id='user_reseter_module'  >
+		<div class='module_container reseter_block' >
+			<main>
+				<div class='module_title'>
+					<span >忘記密碼</span>
+					<a class='option icon_close' id='act_reseter_cancel'  ></a>
+				</div>
+				<div class='module_body' >
+					<div >請輸入註冊信箱(帳號)</div>
+					<div class='field_input_set _inputchk' id='user_account_email'  fail='必填'>
+						<input type='text' name='user_mail' id='emailforreset'  placeholder='請至此信箱收取您的密碼重置信件'>
+						<a class='option icon_close act_input_clear'   ></a>
+					</div>
+				</div>
+				<div class='signup_field' fail='' id='reset_captcha_block' >
+					<span class='captcha'>
+						<a href="#" onclick="document.getElementById('captcha2').src = document.getElementById('captcha2').src + '?' + (new Date()).getMilliseconds()" title='新驗證碼'><i class="fa fa-refresh" aria-hidden="true"></i></a> 								<img src="tool/captcha/code.php" id="captcha2" alt='驗證圖片'>														<input type="text" class='' id='reset_captcha_input' name="Turing"  value="" style='width:90px;' placeholder='驗證碼' maxlength="5">
+					 </span>
+				</div>					<div class='module_active'>
+					<button class='button blue'  id='act_reseter_confirm' disabled>下一步</button>
+				</div>
+			</main>
+		</div> 	</article> 		 	<!-- 登入介面-註冊 -->
+	<article class='syscustomdom'  id='user_signup_module'  >
+		<div class='module_container regist_block'  id='user_signup_block' >
+			<aside>
+				<div class='area_border'>帳號註冊須知</div>
+				<div class='member_rule' id='account_registration_statement'>
+				    <p><strong>系統使用注意事項：</strong></p><p>一、線上閱覽全文影像之使用者，不得篡改或破壞系統與資料內容，亦不得進行其他有礙系統營運及使用之行為，如違反使用規範，本院得終止其使用權限。</p><p>二、使用者以系統全文影像完成之學術研究、教育推廣成果，於公開發表時應註明資料來源為「國立故宮博物院藏」。又使用者因運用本系統之全文影像而衍生損及本院或第三者權益情事，應自負法律責任。 				</div>
+			</aside>
+			<main>
+				<div class='area_border'>會員註冊 </div>
+				<div class='login_form'>
+					<form id='user_signup_form' method='post' action='index.php?act=Landing'> 						<input type='hidden' name='CSRFToken' value='1790564382' />
+						<div class='signup_field' fail='' >
+							<label>帳&ensp;&ensp;&ensp;&ensp;號：</label>
+							<input type='text' class='_regist _require'		name='user_mail'	placeholder='請輸入註冊信箱' />
+						</div>
+						<div class='signup_field' fail='' >
+							<label>用戶名稱：</label>
+							<input type='text' class='_regist _require'		name='user_name'	placeholder='請輸入識別名稱' />
+						</div>
+						<div class='signup_field' fail='' >
+							<label>密&ensp;&ensp;&ensp;&ensp;碼：</label>
+							<input type='password' class='_regist' 		name='' placeholder='註冊成功後系統將發送密碼設定信' disabled />
+						</div>
+						<div class='signup_field' fail='' id='captcha_block' >
+							<span class='captcha'>
+								<a href="#" onclick="document.getElementById('captcha').src = document.getElementById('captcha').src + '?' + (new Date()).getMilliseconds()" title='新驗證碼'><i class="fa fa-refresh" aria-hidden="true"></i></a> 										<img src="tool/captcha/code.php" id="captcha" alt='驗證圖片'>																<input type="text" class='' id='captcha_input' name="Turing"  value="" style='width:90px;' placeholder='驗證碼' maxlength="5">
+							 </span>
+						</div>																		<div class='signup_option'>
+							<input type='checkbox' id='act_member_rule_agree' class='_' >
+							<span>我已了解並同意系統使用注意事項<i style='color:#be2d2d;'>(需勾選)</i></span>
+						</div>
+					</form>
+				</div>
+				<div class='login_active'>
+					<button class='button blue login_submit'  id='act_signup_submit'  disabled>註冊</button>
+					<button class='button'  id='act_landing_return'  >返回</button>
+				</div>
+			</main>
+		</div>
+	</article>  			<!-- 重新設定密碼 -->
+	<article class='syscustomdom'  id='user_repass_module'  >
+		<div class='module_container repass_block' >
+			<main>
+				<div class='module_title'>
+					<span   >設定登入密碼</span>
+					<a class='option icon_close' id='act_repass_cancel'  ></a>
+				</div>
+				<div class='module_body' >
+					<div >註冊帳號</div>
+					<div class='field_input_set _inputchk' id='user_account'  >
+											</div>
+				</div>
+				<div class='module_body' >
+					<div >請設定登入密碼(至少5碼)</div>
+					<div class='field_input_set _inputchk' id=''  fail=''>
+						<input type='password' name='setpass' id='urepass'  placeholder=''>
+						<a class='option icon_close act_input_clear'   ></a>
+					</div>
+				</div>
+				<div class='module_body' >
+					<div >請再次設定登入密碼</div>
+					<div class='field_input_set _inputchk' id=''  fail=''>
+						<input type='password' name='setpass' id='urepass_chk'  placeholder=''>
+						<a class='option icon_close act_input_clear'   ></a>
+					</div>
+				</div>
+				<div class='module_active'>
+					<button class='button blue'  id='act_repass_confirm' disabled>設定</button>
+				</div>
+			</main>
+		</div> 	</article> 			<!-- 公告訊息 -->
+	<div class='system_announcement_area'>
+	    <div class='container'>
+		  <div id='announcement_block'>
+		    <h1>
+			  <div class='ann_header'>
+			    <span class='ann_type'></span> 				<span class='ann_title'></span> 			  </div>
+			  <span class='ann_close option' title='關閉'><i class="fa fa-times-circle" aria-hidden="true"></i></span>
+			</h1>
+			<div class='ann_contents'></div>
+			<div class='ann_footer'>
+			  <div>
+			    <span class='ann_time'>  </span>
+				From				<span class='ann_from'>  </span>
+			  </div>
+			  <div>
+			    <span class='ann_counter'>  </span>
+			  </div>
+			</div>
+		  </div>
+        </div>
+	</div> 			<!-- 基礎區塊  -->
+		<!-- System Alert  -->
+	<div class='system_message_area'>
+	    <div class='message_block'>
+		  <div id='message_container'>
+		    <div class='msg_title'></div>
+		    <div class='msg_info'></div>
+		  </div>
+		  <div id='area_close'></div>
+        </div>
+	</div> 			<!-- 系統訊息 v2 -->
+	<article class='syscustomdom'  id='system_message_confirm'  >
+		<div class='module_container confirm_block' >
+			<main>
+				<div class='message_title'>
+					<span class='message_val' id='message_confirm_title' >意見回饋</span>
+					<a class='option icon_close' id='act_message_cancel'  ></a>
+				</div>
+				<div class='message_body message_val' id='message_confirm_content'>
+				 				</div>
+				<div class='message_active'>
+					<button class='button blue'  id='act_message_confirm'  >確認</button>
+				</div>
+			</main>
+		</div> 	</article> 		<!-- 意見回饋 -->
+	<article class='syscustomdom'  id='user_feedback_module'  >
+		<div class='module_container feedback_block'  id='user_feedback_block' >
+			<main>
+				<div class='feedback_border'>
+					<span>意見回饋</span>
+					<a class='option icon_close' id='act_feedback_cancel'  ></a>
+				</div>
+				<div class='feedback_body' >
+					<div class='fb_viewopt'>
+						<span>畫面</span>
+						<a class='option' id='act_preview_clear'>刪除畫面</a>
+					</div>
+					<div class='fb_preview' mode='wait'></div>
+					<div class='fb_imgload option'>按一下擷取當前畫面</div>
+					<div class='fb_descrip option'>
+						<div class='fb_subject fb_ctcheck' fail='必填'>
+						  <span class='fbd_title'>類型(必填) </span>
+						  <label ><input type='checkbox' class='feedback_type _fbval' name='fbd_type' value='資料錯誤' > 資料錯誤</label>
+						  <label ><input type='checkbox' class='feedback_type _fbval' name='fbd_type' value='系統障礙' > 系統障礙</label>
+						  <label ><input type='checkbox' class='feedback_type _fbval' name='fbd_type' value='登入問題' > 登入問題</label>
+						  <label ><input type='checkbox' class='feedback_type _fbval' name='fbd_type' value='使用建議' > 使用建議</label>
+						  <label ><input type='checkbox' class='feedback_type _fbval' name='fbd_type' value='其他' >其他</label>
+						</div>
+						<div class='fb_account fb_ctcheck' fail='必填'>
+						  <span class='fbd_title'>您的email(必填) </span>
+						  <input type='text' class='feedback_user _fbval' name='fbd_usermail' value='' placeholder='請提供您的email，我們會盡速為您解決問題' />
+						</div>  						<div class='fb_content fb_ctcheck' fail='必填'>
+							<span class='fbd_title' style='padding-bottom:1.3em;'>回報描述(必填) </span>
+							<textarea  class='feedback_content _fbval'  name='fbd_content'></textarea>
+						</div> 					</div>
+				</div>
+				<div class='feedback_active'>
+					<span class='captcha'>
+						<label for='captcha_inputf' style='display:none;'>請輸入驗證文字</label>
+						<input type="text" class='' id='captcha_inputf' name="Turing" value="" style='width:90px;' maxlength="5" placeholder='驗證碼'>
+						<img src="tool/captcha/code.php" id="captchaf" alt='驗證圖片'>
+						[ <a id='captcha_reset' href="#" onclick="document.getElementById('captchaf').src = document.getElementById('captchaf').src + '?' + (new Date()).getMilliseconds();" title='新驗證碼'><i class="fa fa-refresh" aria-hidden="true"></i></a> ] 									</span>
+													<button class='button blue'  id='act_feedback_submit'  disabled>送出</button>
+				</div>
+			</main>
+		</div>
+	</article>     	 	<!-- System Loading -->
+    <div class='system_loading_area inview'>
+	    <div class='loading_block' >
+	      <div class='loading_string'> <div>系統處理中</div><div id="turnstile-container"></div> </div>
+		  <div class='loading_image' id='sysloader'></div>
+	      		  <div class='loading_info'>
+		    <span >如果系統過久無回應，請按[ Esc ] 關閉 loading 版面，並重新操作剛才的動作.</span>
+	      </div>
+	    </div>
+	</div>
+			    		  </body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "id": "003067",
+  "title": "平水韵",
+  "volume_count": null,
+  "text_file_count": 110,
+  "total_characters": 24908,
+  "source_url": "https://zh.wikisource.org/zh/平水韻",
+  "source": "维基文库",
+  "author": null,
+  "publisher": "维基文库",
+  "edition": "维基文库整理本",
+  "crawled_by": "刘耔琳",
+  "crawl_date": "2026-09",
+  "content_scope": "单篇/整理稿",
+  "notes": [
+    "获取方式：维基文库公开全文页抓取，按卷拆分保存"
+  ]
+}
