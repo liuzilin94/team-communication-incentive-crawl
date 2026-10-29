@@ -1,0 +1,18 @@
+{
+  "id": "008963",
+  "title": "大唐故陇西郡李公墓志铭",
+  "volume_count": null,
+  "text_file_count": 8,
+  "total_characters": 13521,
+  "source_url": "https://ctext.org/wiki.pl?chapter=832586&if=gb",
+  "source": "中国哲学书电子化计划（ctext.org）",
+  "author": null,
+  "publisher": "中国哲学书电子化计划",
+  "edition": "在线全文；CText 在线文本",
+  "crawled_by": "刘耔琳",
+  "crawl_date": "2026-09",
+  "content_scope": "单篇/整理稿",
+  "notes": [
+    "获取方式：ctext.org 公开全文页抓取，按卷拆分保存"
+  ]
+}

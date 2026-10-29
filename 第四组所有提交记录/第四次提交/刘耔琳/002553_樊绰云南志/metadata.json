@@ -1,0 +1,18 @@
+{
+  "id": "002553",
+  "title": "樊绰云南志",
+  "volume_count": 5,
+  "text_file_count": 5,
+  "total_characters": 88444,
+  "source_url": "https://ctext.org/wiki.pl?if=gb&res=468773",
+  "source": "中国哲学书电子化计划（ctext.org）",
+  "author": null,
+  "publisher": "中国哲学书电子化计划",
+  "edition": "在线全文",
+  "crawled_by": "刘耔琳",
+  "crawl_date": "2026-09",
+  "content_scope": "全文",
+  "notes": [
+    "获取方式：ctext.org 公开全文页抓取，按卷拆分保存"
+  ]
+}

@@ -1,0 +1,25 @@
+来源说明
+==============================================
+书目编号：019216
+书名：《新疆各民族代表大会闭幕，选林主席等为名誉主席团》
+爬取状态：未获取（无源资料）
+
+【获取方式】
+未获取：需注册登录（抗战文献数据平台）
+
+【来源站点 / 底本出处】
+抗战文献数据平台 modernhistory.org.cn
+
+【来源链接】
+- https://www.modernhistory.org.cn/
+
+【GitHub 位置】
+分支：刘耔琳
+仓库：https://github.com/liuzilin94/team-communication-incentive-crawl/tree/liuzilin
+- （本分支尚无对应 TXT）
+
+【网盘留存文件】
+- （网盘未留存 PDF/图片等源资料）
+
+【备注】
+B=需登录注册：抗战文献数据平台

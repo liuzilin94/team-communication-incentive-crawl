@@ -1,0 +1,20 @@
+书目编号：002553
+题　　名：樊绰云南志
+
+一、目录结构
+本目录共含 13 个文件（含本说明、metadata.json、README.md）。
+
+1. 正文卷次（汉字数字命名）：
+   - 卷三六_詔第三Volume 3_ The Six Chao Third.txt
+   - 卷二_山川江源第二Volume 2_ Rivers and Mountains, Chapter 2.txt
+   - 卷五六_第五Volume 56_ Fifth.txt
+   - 卷六_雲南城鎮第六Volume 6_ The Sixth City of Yunnan.txt
+   - 卷四_名類第四Volume 4_ Fourth Category of Names.txt
+
+二、命名与编码
+- 正文 TXT：UTF-8 无 BOM，LF 换行。
+- 卷次文件名统一使用汉字数字（卷一、卷二十八）。
+- 单篇文章、公文、碑文、文物介绍使用实际篇名或 正文.txt，不编造卷次。
+
+三、待核事项
+- 暂未发现需特别复核之处；如发现个别错字、缺页，请以来源底本为准校正。
