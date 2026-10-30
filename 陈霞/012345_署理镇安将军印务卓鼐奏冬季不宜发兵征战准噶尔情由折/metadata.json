@@ -1,0 +1,66 @@
+{
+  "id": "012345",
+  "title": "署理镇安将军印务卓鼐奏冬季不宜发兵征战准噶尔情由折",
+  "batch": "04",
+  "batch_label": "第四次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 189,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.shidianguji.com/book/SK0784/chapter/1kfqx69m5n3tm",
+  "source": "北大字节人文开放研究室",
+  "publisher": "北大字节人文开放研究室",
+  "edition": "[清] 傅恒等 撰 \n平定准噶尔方略",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "10.9",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《署理镇安将军印务卓鼐奏冬季不宜发兵征战准噶尔情由折》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 98,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "012345_署理镇安将军印务卓鼐奏冬季不宜发兵征战准噶尔情由折_001.png",
+    "012345_署理镇安将军印务卓鼐奏冬季不宜发兵征战准噶尔情由折_002.png"
+  ],
+  "original_source_filenames": {
+    "012345_署理镇安将军印务卓鼐奏冬季不宜发兵征战准噶尔情由折_001.png": "《署理镇安将军印务卓鼐奏冬季不宜发兵征战准噶尔情由折》1.png",
+    "012345_署理镇安将军印务卓鼐奏冬季不宜发兵征战准噶尔情由折_002.png": "《署理镇安将军印务卓鼐奏冬季不宜发兵征战准噶尔情由折》2.png"
+  },
+  "source_checksums": [
+    {
+      "file": "012345_署理镇安将军印务卓鼐奏冬季不宜发兵征战准噶尔情由折_001.png",
+      "sha256": "b1f6d9524f16cc33f53689c6fd7a17e1db5c4965d1ffb16942c4a3254bfea2e9"
+    },
+    {
+      "file": "012345_署理镇安将军印务卓鼐奏冬季不宜发兵征战准噶尔情由折_002.png",
+      "sha256": "55094b926cfcb8d8377593296e15ec46597139ef31b21a2a6c25744c4c0c5b1f"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".png": 2
+  },
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞4",
+  "raw_source_references": [
+    {
+      "original_path": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞4\\《署理镇安将军印务卓鼐奏冬季不宜发兵征战准噶尔情由折》1.png",
+      "archived_file": "012345_署理镇安将军印务卓鼐奏冬季不宜发兵征战准噶尔情由折_001.png",
+      "sha256": "b1f6d9524f16cc33f53689c6fd7a17e1db5c4965d1ffb16942c4a3254bfea2e9"
+    },
+    {
+      "original_path": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞4\\《署理镇安将军印务卓鼐奏冬季不宜发兵征战准噶尔情由折》2.png",
+      "archived_file": "012345_署理镇安将军印务卓鼐奏冬季不宜发兵征战准噶尔情由折_002.png",
+      "sha256": "55094b926cfcb8d8377593296e15ec46597139ef31b21a2a6c25744c4c0c5b1f"
+    }
+  ]
+}

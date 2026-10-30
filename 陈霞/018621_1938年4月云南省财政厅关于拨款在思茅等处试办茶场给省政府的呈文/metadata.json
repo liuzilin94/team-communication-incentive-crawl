@@ -1,0 +1,55 @@
+{
+  "id": "018621",
+  "title": "1938年4月云南省财政厅关于拨款在思茅等处试办茶场给省政府的呈文",
+  "batch": "04",
+  "batch_label": "第四次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 5702,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://z-lib.sk/book/2z6RdD8Kzm/%E6%B0%91%E5%9B%BD%E6%97%B6%E6%9C%9F%E8%A5%BF%E5%8D%97%E8%BE%B9%E7%96%86%E6%A1%A3%E6%A1%88%E8%B5%84%E6%96%99%E6%B1%87%E7%BC%96-%E4%BA%91%E5%8D%97%E5%8D%B7-%E7%AC%AC17%E5%8D%B7.html",
+  "source": "社会科学文献出版社",
+  "publisher": "社会科学文献出版社",
+  "edition": "云南省档案馆编 民国时期西南边疆档案资料汇编 云南卷 第17卷",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.29",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《1938年4月云南省财政厅关于拨款在思茅等处试办茶场给省政府的呈文 》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 147,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "018621_1938年4月云南省财政厅关于拨款在思茅等处试办茶场给省政府的呈文.pdf"
+  ],
+  "original_source_filenames": {
+    "018621_1938年4月云南省财政厅关于拨款在思茅等处试办茶场给省政府的呈文.pdf": "《1938年4月云南省财政厅关于拨款在思茅等处试办茶场给省政府的呈文 》.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "018621_1938年4月云南省财政厅关于拨款在思茅等处试办茶场给省政府的呈文.pdf",
+      "sha256": "89b77b5d0e4f461723df1515079034ec52fcf6c71164e245f496904cef15d3bd"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞4",
+  "raw_source_references": [
+    {
+      "original_path": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞4\\《1938年4月云南省财政厅关于拨款在思茅等处试办茶场给省政府的呈文 》.pdf",
+      "archived_file": "018621_1938年4月云南省财政厅关于拨款在思茅等处试办茶场给省政府的呈文.pdf",
+      "sha256": "89b77b5d0e4f461723df1515079034ec52fcf6c71164e245f496904cef15d3bd"
+    }
+  ]
+}

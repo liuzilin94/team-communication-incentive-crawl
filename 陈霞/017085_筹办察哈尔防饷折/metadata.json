@@ -1,0 +1,55 @@
+{
+  "id": "017085",
+  "title": "筹办察哈尔防饷折",
+  "batch": "04",
+  "batch_label": "第四次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 1086,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://z-lib.sk/book/45vbPL2E5a/%E6%9D%8E%E9%B8%BF%E7%AB%A0%E5%85%A8%E9%9B%86-9-%E5%A5%8F%E8%AE%AE%E4%B9%9D.html",
+  "source": "安徽教育出版社",
+  "publisher": "安徽教育出版社",
+  "edition": "李鸿章全集 9 奏议九",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "10.10",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《筹办察哈尔防饷折》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 135,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "017085_筹办察哈尔防饷折.jpeg"
+  ],
+  "original_source_filenames": {
+    "017085_筹办察哈尔防饷折.jpeg": "《筹办察哈尔防饷折》.jpeg"
+  },
+  "source_checksums": [
+    {
+      "file": "017085_筹办察哈尔防饷折.jpeg",
+      "sha256": "a1c5e1e2224cac91b38c265b47bfff4f013b58ad867d8b986b93da075c649589"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".jpeg": 1
+  },
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞4",
+  "raw_source_references": [
+    {
+      "original_path": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞4\\《筹办察哈尔防饷折》.jpeg",
+      "archived_file": "017085_筹办察哈尔防饷折.jpeg",
+      "sha256": "a1c5e1e2224cac91b38c265b47bfff4f013b58ad867d8b986b93da075c649589"
+    }
+  ]
+}

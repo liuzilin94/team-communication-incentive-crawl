@@ -1,0 +1,8 @@
+009393_关于检发商讨修正西南少数民族虫兽偏旁命名谈话会记录的训令、牌告/
+├── README.md
+├── metadata.json
+├── 目录结构说明.txt
+├── 伍、西南少数民族兽偏旁命名考略.txt
+├── 柒、The Miao：Their Origin and Southward Migration.txt
+├── 陆、Notes on the Ethnic Minorities of South China.txt
+├── 原始资料/009393_关于检发商讨修正西南少数民族虫兽偏旁命名谈话会记录的训令、牌告.pdf
