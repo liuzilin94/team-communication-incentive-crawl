@@ -1,0 +1,51 @@
+{
+  "id": "012473",
+  "title": "山西朔州市后寨墓地东周时期墓葬发掘简报",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 16609,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.ncpssd.org/Literature/secure/articleinfo?params=cUFLZ015elNVRGMybFhvbUZtWDd5dmhvbWU3M0pWM1h1TGYrbmh0NEZMRmlUZ3piMXh5VndZZERtdCtKUlgvQlhucGRFWERlNHpFNkFxZitIWFZ0QmVSeWtNZVNUeUMyT2UxZVhubUZGVlhlYkFtT3lSaXJkbTNlVzZWYVpHSnZNYUk1cktrL0dMSHBncTdSSm5GWVp3PT0&pageUrl=https%253A%252F%252Fwww.ncpssd.org%252Fjournal%252Fsecure%252Fdetails%253Fparams%253DUytyK2c1cmJEQU11Tng1ZnlUYUkrSGtqd2xWVmlxQW5jcEJCaXNHTGVEbGgyZ1lxMlZDWmhSY1lTQTFyaldCOQ",
+  "source": "山西博物院",
+  "publisher": "山西博物院",
+  "edition": "《文物季刊》 (Journal of Chinese Antiquity) 贾尧[1,2,3];高振华[1,2,3];张琪[1,2,3];刘元[1,2,3];解晓庆[1,2,3] 2023年第1期",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.19",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《山西朔州市后寨墓地东周时期墓葬发掘简报》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 99,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "012473_山西朔州市后寨墓地东周时期墓葬发掘简报.pdf"
+  ],
+  "original_source_filenames": {
+    "012473_山西朔州市后寨墓地东周时期墓葬发掘简报.pdf": "012473_山西朔州市后寨墓地东周时期墓葬发掘简报.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "012473_山西朔州市后寨墓地东周时期墓葬发掘简报.pdf",
+      "sha256": "3ccbdc65759e36d21bdf71ddafe34bd47fbbd4783d8f6c96c05a8e36e38f728d"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。",
+    "原始PDF文件名含“秦汉墓葬”，书目题名为“东周时期墓葬”，两者时期不同；作为待核相关材料保留。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

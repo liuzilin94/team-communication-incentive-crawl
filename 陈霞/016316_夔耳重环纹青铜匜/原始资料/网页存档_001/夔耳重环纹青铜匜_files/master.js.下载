@@ -1,0 +1,238 @@
+$(document).ready(function () {
+    //=== 典藏檢索-預設顯示列表模式
+    //showCardMode();
+    /*
+    // 切換到列表模式
+    $("#table-mode").click(function () {
+        showListMode();
+    });
+
+    // 切換到卡片模式
+    $("#card-mode").click(function () {
+        showCardMode();
+    });*/
+
+    function showListMode() {
+        $(".table-mode-content").show();
+        $(".card-mode-content").hide();
+        $("#table-mode").addClass("active");
+        $("#card-mode").removeClass("active");
+        $("#downloadCSV").show();
+    }
+
+    function showCardMode() {
+        $(".table-mode-content").hide();
+        $(".card-mode-content").show();
+        $("#table-mode").removeClass("active");
+        $("#card-mode").addClass("active");
+        $("#downloadCSV").hide();
+    }
+
+    //=== 典藏檢索-控制收合展開
+    /*
+    $("#filter-conterl").click(function () {
+        $("#result").toggleClass("filter-open");
+        $("#filter-conterl").toggleClass("active");
+    });*/
+
+    //=== 典藏檢索-輸入關鍵字搜尋後分類label內容(由claude生成)
+    $('.filter-search input[type="text"]').on("keyup", function () {
+        var searchText = $(this).val().toLowerCase();
+
+        $(".filter-list .filter-checkbox").each(function () {
+            var labelText = $(this).find("label span:first").text().toLowerCase();
+
+            if (labelText.indexOf(searchText) > -1) {
+                $(this).show();
+            } else {
+                $(this).hide();
+            }
+        });
+    });
+    //清除
+    $('.filter-search input[type="button"]').on("click", function () {
+        $('.filter-search input[type="text"]').val("");
+        $(".filter-list .filter-checkbox").show();
+    });
+    //關閉
+    $(".close-dropdown").on("click", function (e) {
+        e.preventDefault();
+        var $dropdownMenu = $(this).closest(".dropdown-menu");
+        $dropdownMenu.removeClass("show");
+
+        // 找到對應的 dropdown 觸發器並更新 aria-expanded 屬性
+        var dropdownId = $dropdownMenu.attr("aria-labelledby");
+        $("#" + dropdownId).attr("aria-expanded", "false");
+    });
+
+    //=== 初始化 tooltip，html可以換行，trigger、data-bs-toggle-second解決dropdown點擊問題
+    $('[data-bs-toggle="tooltip"],[data-bs-toggle-second="tooltip"]').tooltip({
+        html: true,
+        trigger: "hover",
+    });
+
+    //=== 字體放大縮小 ===
+    function getSize() {
+        size = $(".font-resize").css("font-size");
+        size = parseInt(size, 10);
+        $("#font-size").text(size);
+    }
+    getSize();
+    $("#font-up").on("click", function () {
+        if (size + 4 <= 32) {
+            $(".font-resize").css("font-size", "+=4");
+            $("#font-size").text((size += 4));
+        }
+    });
+    $("#font-down").on("click", function () {
+        if (size - 4 >= 16) {
+            $(".font-resize").css("font-size", "-=4");
+            $("#font-size").text((size -= 4));
+        }
+    });
+
+    //===典藏檢索-依時代
+    var $range = $(".js-range-slider"),
+        $inputFrom = $(".js-input-from"),
+        $inputTo = $(".js-input-to"),
+        instance;
+    var max = 2000;
+    var min = -2500;
+    $range.ionRangeSlider({
+        grid: true, //顯示下面刻度
+        skin: "round",
+        type: "double", //設定為區間
+        hide_min_max: true, //隱藏上面頭尾數字
+        max_postfix: "+", //最大數字
+        // postfix: "年", //區間文字
+        prettify_enabled: false, //數字千以上不要有間隔
+        force_edges: true, //刻度頭尾數字不超出邊界
+        grid_num: 5, //刻度分格數
+        grid_margin: false, //刻度頭尾沒有間隔
+        min: -2500,
+        max: 2000,
+        from: -200,
+        to: 1200,
+        onStart: updateInputs,
+        onChange: updateInputs,
+    });
+
+    $(".irs-grid-text").each(function () {
+        var text = $(this).text();
+        if (parseInt(text) < 0) {
+            $(this).text(Math.abs(parseInt(text)) + "BCE");
+        } else {
+            $(this).text(parseInt(text) + "");
+        }
+    });
+
+    var fromValue = $(".irs-from").text();
+    var toValue = $(".irs-to").text();
+    if (parseInt(fromValue) < 0) {
+        $(".irs-from").text(Math.abs(parseInt(fromValue)) + "BCE");
+    } else {
+        $(".irs-from").text(parseInt(fromValue) + "");
+    }
+    if (parseInt(toValue) < 0) {
+        $(".irs-to").text(Math.abs(parseInt(toValue)) + "BCE");
+    } else {
+        $(".irs-to").text(parseInt(toValue) + "");
+    }
+
+    instance = $range.data("ionRangeSlider");
+
+    function updateInputs(data) {
+        from = data.from;
+        to = data.to;
+
+        $inputFrom.prop("value", from);
+        $inputTo.prop("value", to);
+
+        if (from < 0) {
+            $(".irs-from").text(Math.abs(from) + "BCE");
+        } else {
+            $(".irs-from").text(from + "");
+        }
+        if (to < 0) {
+            $(".irs-to").text(Math.abs(to) + "BCE");
+        } else {
+            $(".irs-to").text(to + "");
+        }
+    }
+    /*
+    $inputFrom.on("input", function () {
+        var val = $(this).prop("value");
+
+        // validate
+        if (val < min) {
+            val = min;
+        } else if (val > to) {
+            val = to;
+        }
+
+        instance.update({
+            from: val,
+        });
+    });
+
+    $inputTo.on("input", function () {
+        var val = $(this).prop("value");
+
+        // validate
+        if (val < from) {
+            val = from;
+        } else if (val > max) {
+            val = max;
+        }
+
+        instance.update({
+            to: val,
+        });
+    });
+    */
+    //===進階查詢-朝代&時代切換
+    $("#slider").hide();
+    $("#year").hide();
+
+    // 預設選中 #radio1
+    //$("#radio1").prop("checked", false);
+
+    // 為 radio 按鈕添加 change 事件監聽器
+    $('input[type="radio"]').change(function () {
+        // 隱藏所有元素
+        $("#year, #slider").hide();
+
+        // 根據選中的 radio 按鈕顯示對應元素
+        if ($("#radio1").is(":checked")) {
+            $("#slider").show();
+        } else if ($("#radio2").is(":checked")) {
+            $("#year").show();
+        }
+    });
+
+    //===下載圖片-CC BY 4.0 複製標示文字
+    $("#copyButton").click(function () {
+        // 獲取要複製的文字
+        var textToCopy = $("#textToCopy").text();
+        const el = document.createElement('textarea');
+        el.value = textToCopy;
+        document.body.appendChild(el);
+        el.select();
+        document.execCommand('copy');
+        alert("複製成功：" + el.value);
+        document.body.removeChild(el);
+        // 使用Clipboard API複製文字
+        /*
+        navigator.clipboard
+            .writeText(textToCopy)
+            .then(function () {
+                // 成功複製後提示
+                alert("文字已複製到剪貼簿");
+            })
+            .catch(function (error) {
+                // 若複製失敗，提示錯誤
+                alert("複製失敗: " + error);
+            });*/
+    });
+
+});

@@ -1,0 +1,50 @@
+{
+  "id": "013883",
+  "title": "刘景石神道碑",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 1752,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.shidianguji.com/book/JINANLIB11243/chapter/1lwimx6yo0cnd?page_from=searching_page&paragraphId=7621326924228378675&keywords=%E5%8A%89%E6%99%AF%2C%E5%8A%89%E6%99%AF%E7%9F%B3%E7%A5%9E%E9%81%93%E7%A2%91%2C%E7%A5%9E%E9%81%93%2C%E7%A5%9E%E9%81%93%E7%A2%91%2C%E7%A2%91&topicId=&version=5&contentMatch=1",
+  "source": "识典古籍",
+  "publisher": "识典古籍",
+  "edition": "道光十三年（1833）[清] 曹楙坚 纂修 章邱县志 刻本 ",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.17",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《刘景石神道碑》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 110,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "013883_刘景石神道碑.pdf"
+  ],
+  "original_source_filenames": {
+    "013883_刘景石神道碑.pdf": "013883_刘景石神道碑.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "013883_刘景石神道碑.pdf",
+      "sha256": "475e470bd7c94fa1996d96e04066f843305c7348f48b8ab63429648610632c0b"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

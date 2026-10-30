@@ -1,0 +1,139 @@
+.bodyPic {
+    text-align: center;
+    margin: 1em auto;
+    width: 100%;
+}
+
+.qrbodyPic {
+    text-align: center;
+    margin: 1em auto;
+    width: 100%;
+}
+
+.s-pic {
+    width: 1em;
+    vertical-align: middle;
+}
+
+.qqreader-footnote {
+    width: 1em;
+    margin-left: 0.2em;
+}
+
+.content {
+    font-family: "汉仪旗黑50S","HYQiHei-50s";
+    font-size: 1em;
+    text-indent: 2em;
+}
+
+.frontCover {
+    qrfullpage: 1;
+}
+
+.imgtitle {
+    font-family: "汉仪楷体","ETrump KaiTi","方正仿宋","FZFSJW--GB1-0";
+    font-size: 1em;
+    line-height: 1.4em;
+    text-align: center;
+    text-indent: 0;
+}
+
+.contentCR {
+    font-family: "汉仪旗黑50S","HYQiHei-50s";
+    font-size: 0.9em;
+    text-indent: 0em;
+    color: #000000;
+    margin: 0.5em 0;
+}
+
+.content3 {
+    font-family: "汉仪旗黑50S","HYQiHei-50s";
+    font-size: 1em;
+    text-indent: 0em;
+}
+
+.content1 {
+    font-family: "汉仪旗黑50S","HYQiHei-50s";
+    font-size: 1em;
+    text-indent: 2em;
+    margin-left: 2em;
+}
+
+.content2 {
+    font-family: "汉仪旗黑50S","HYQiHei-50s";
+    font-size: 1em;
+    text-indent: 2em;
+    margin-left: 4em;
+}
+
+.right-info {
+    font-family: "汉仪楷体","ETrump KaiTi","方正仿宋","FZFSJW--GB1-0";
+    font-size: 0.9em;
+    text-align: right;
+    line-height: 1.3em;
+    margin: 0.2em 0em 0.2em auto;
+    color: #2b2c2c;
+}
+
+.content_102 {
+    font-family: "汉仪楷体","ETrump KaiTi","方正仿宋","FZFSJW--GB1-0";
+    font-size: 1em;
+    text-indent: 2em;
+}
+
+.content_105 {
+    font-family: "汉仪旗黑50S","HYQiHei-50s";
+    font-size: 1em;
+    text-indent: 0;
+    text-align: center;
+}
+
+.bgColor-1 {
+    background-color: #ffffff;
+}
+
+.copyRightTitle-1 {
+    font-family: "汉仪旗黑65S","HY-QiHei65";
+    font-size: 1.5em;
+    line-height: 1.2em;
+    text-align: center;
+    text-indent: 0;
+    margin-bottom: 1em;
+    background-color: #B7762C;
+    color: #ffffff;
+}
+
+.width90 {
+    width: 90%;
+}
+
+.firstTitle-1 {
+    font-family: "汉仪旗黑65S","HY-QiHei65";
+    font-size: 1.5em;
+    line-height: 1.2em;
+    text-align: center;
+    text-indent: 0;
+    margin-bottom: 1.5em;
+    margin-top: 2.5em;
+    color: #B7762C;
+    border-bottom: 2px  solid #B7762C;
+    padding-bottom: 0.3em;
+}
+
+.secondTitle-1 {
+    font-family: "汉仪旗黑65S","HY-QiHei65";
+    font-size: 1.3em;
+    line-height: 1.3em;
+    text-indent: 0;
+    margin-top: 1em;
+    color: #B7762C;
+}
+
+.thirdTitle-1 {
+    font-family: "汉仪旗黑65S","HY-QiHei65";
+    font-size: 1.1em;
+    line-height: 1.4em;
+    text-indent: 0;
+    margin-top: 1em;
+    color: #B7762C;
+}

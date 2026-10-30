@@ -1,0 +1,106 @@
+{
+  "id": "011063",
+  "title": "雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 968,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "http://www.tibetology.ac.cn/2026-02/03/content_43348717.htm",
+  "source": "西藏社会科学院",
+  "publisher": "西藏社会科学院",
+  "edition": "阿音娜《西藏研究》2025年第5期",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.19",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "wu",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 88,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "011063_雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书.pdf",
+    "网页存档_001/011063_雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书.html"
+  ],
+  "original_source_filenames": {
+    "011063_雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书.pdf": "011063_雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书（.pdf",
+    "网页存档_001/011063_雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书.html": "《雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书（》\\雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书2.html"
+  },
+  "source_checksums": [
+    {
+      "file": "011063_雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书.pdf",
+      "sha256": "1d66b5050f20bdf6bd6fab96bfdf86aabb0d99ba9184101582ca776a96aea23f"
+    },
+    {
+      "file": "网页存档_001/011063_雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书.html",
+      "sha256": "483445f1f0b2d09626ca6306af05e41a2a37c3384e6cbe482623a8a5ba5a0539"
+    },
+    {
+      "file": "网页存档_001/雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书2_files/3927c9e0-8655-40a2-860c-7db90b831d3c.jpg",
+      "sha256": "40eeccfc6f16831885242996e88475cf1bc124f4e3a5c16f05d836bd993adef0"
+    },
+    {
+      "file": "网页存档_001/雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书2_files/banner2.jpg",
+      "sha256": "d8e6f10519b9a3f4804f3fc3c1ae45a870c92fc817b6c736d1239b50a0860aaa"
+    },
+    {
+      "file": "网页存档_001/雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书2_files/jquery-1.11.0.min.js.下载",
+      "sha256": "b294e973896f8f874e90a8eb1a8908ac790980d034c4c4bdf0fc3d37b8abf682"
+    },
+    {
+      "file": "网页存档_001/雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书2_files/sou.png",
+      "sha256": "6eb76457372a66c63b97ec2ea00a25e09a7df6a970a901973b5153a2740ccc34"
+    },
+    {
+      "file": "网页存档_001/雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书2_files/style.css",
+      "sha256": "632a7a0968446d4ba5a3840b676226efaf9ec9555a811f7ca6090d10da9133ff"
+    },
+    {
+      "file": "网页存档_001/雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书2_files/swiper-3.3.1.min.css",
+      "sha256": "6b6bf68b59a71f79863bf3b342b6dba38c2dbb76814deea82250c513517ddb19"
+    },
+    {
+      "file": "网页存档_001/雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书2_files/swiper.min.js.下载",
+      "sha256": "46f54e91885e0a119bbdffab2a91ec249bf6e60cc34a6d955c4315e8cb99f25d"
+    },
+    {
+      "file": "网页存档_001/雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书2_files/top_btn.png",
+      "sha256": "76627b115ccb1ecd0ce6b59263e9392680c2e95ea10d8846b542d6d6b9472374"
+    },
+    {
+      "file": "网页存档_001/雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书2_files/two1.jpg",
+      "sha256": "f3a9feb2caeeb350e8342c793bdd9254348c356fc75ccbb9a7fa80831ff0c84c"
+    },
+    {
+      "file": "网页存档_001/雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书2_files/two2.png",
+      "sha256": "d2e3ca339621ab9a81a5574c992a882b791b19cd13200503e6380167acf7db1d"
+    },
+    {
+      "file": "网页存档_001/雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书2_files/two_btn.png",
+      "sha256": "206d45c9cc86c5964621be5c805ebad4b51fa607b002c5974c7592258678724b"
+    },
+    {
+      "file": "网页存档_001/雍正皇帝颁赐七世达赖喇嘛名号及金册金印的诏书2_files/video.js.下载",
+      "sha256": "cf2f41b8616c645a24291f876ac2eeb9707bc9f150e406bafc96b9b5fc72c4b6"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。",
+    "来源表该编号的题名登记为“wu”；目录采用本批实际文件题名，需核对表格。"
+  ],
+  "source_formats": {
+    ".pdf": 1,
+    ".html": 1
+  },
+  "supporting_file_count": 12,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

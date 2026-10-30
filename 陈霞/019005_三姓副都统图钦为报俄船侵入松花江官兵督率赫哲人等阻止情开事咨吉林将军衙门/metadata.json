@@ -1,0 +1,50 @@
+{
+  "id": "019005",
+  "title": "三姓副都统图钦为报俄船侵入松花江官兵督率赫哲人等阻止情开事咨吉林将军衙门",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 466,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.shidianguji.com/book/CADAL02081307/chapter/1lcimbzo0asro?page_from=searching_page&paragraphId=7660967407934963748&keywords=%E6%9D%BE%E8%8A%B1%2C%E6%9D%BE%E8%8A%B1%E6%B1%9F%2C%E5%A7%93%2C%E4%BF%84%2C%E5%92%A8%2C%E5%90%89%E6%9E%97%2C%E6%9E%97%E5%B0%87%2C%E5%B0%87%E8%BB%8D%2C%E8%A1%99%E9%96%80%2C%E5%89%AF%2C%E9%83%BD%E7%B5%B1%2C%E8%B5%AB&topicId=&version=17",
+  "source": "复旦大学图书馆",
+  "publisher": "复旦大学图书馆",
+  "edition": "[清] 文庆 纂辑、[清] 贾桢 纂辑、\n[清]宝鋆 纂辑 [民国]《筹办夷务始末》十九年故宫博物院影印清内府抄本 卷十一",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.18",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《三姓副都统图钦为报俄船侵入松花江官兵督率赫哲人等阻止情开事咨吉林将军衙门》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 150,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "019005_三姓副都统图钦为报俄船侵入松花江官兵督率赫哲人等阻止情开事咨吉林将军衙门.pdf"
+  ],
+  "original_source_filenames": {
+    "019005_三姓副都统图钦为报俄船侵入松花江官兵督率赫哲人等阻止情开事咨吉林将军衙门.pdf": "019005_三姓副都统图钦为报俄船侵入松花江官兵督率赫哲人等阻止情开事咨吉林将军衙门.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "019005_三姓副都统图钦为报俄船侵入松花江官兵督率赫哲人等阻止情开事咨吉林将军衙门.pdf",
+      "sha256": "87d06b30fa342db9769bb8212133401babcdfcda83fafc10d343bf7c1433222d"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

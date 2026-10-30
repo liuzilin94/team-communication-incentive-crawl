@@ -1,0 +1,57 @@
+{
+  "id": "006576",
+  "title": "匽侯旨鼎",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 268,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.cnbksy.com/literature/tushu/694dbdda0e359f1918b1fc4d54cc2713/101?skipVersion=v1",
+  "source": "南方印书馆",
+  "publisher": "南方印书馆",
+  "edition": "民国三十二年一月[1943.1] 中国政治思想史  陶希圣",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.17",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《匽侯旨鼎》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 53,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "006576_匽侯旨鼎.pdf",
+    "006576_匽侯旨鼎.png"
+  ],
+  "original_source_filenames": {
+    "006576_匽侯旨鼎.pdf": "006576_匽侯旨鼎.pdf",
+    "006576_匽侯旨鼎.png": "《匽侯旨鼎》\\匽侯旨鼎.png"
+  },
+  "source_checksums": [
+    {
+      "file": "006576_匽侯旨鼎.pdf",
+      "sha256": "ceba18d9cd22f441cd429bf5205da61b04129ea1b2e552efb77ea552ac85211b"
+    },
+    {
+      "file": "006576_匽侯旨鼎.png",
+      "sha256": "c2c3643b4dfecdfdcd3443785af28255b27e374e59c219046c2462f87342a65a"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1,
+    ".png": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

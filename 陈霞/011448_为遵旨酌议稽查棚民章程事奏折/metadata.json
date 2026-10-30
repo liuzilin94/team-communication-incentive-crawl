@@ -1,0 +1,50 @@
+{
+  "id": "011448",
+  "title": "为遵旨酌议稽查棚民章程事奏折",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 1400,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.shidianguji.com/book/CADAL02015110/chapter/1lak9o4dvvi1u?page_from=searching_page&paragraphId=7541057179819261952&keywords=%E7%A8%BD%E6%9F%A5%2C%E6%A3%9A%E6%B0%91%2C%E9%85%8C%E8%AD%B0%2C%E7%AB%A0%E7%A8%8B&topicId=&version=5",
+  "source": "识典古籍",
+  "publisher": "识典古籍",
+  "edition": "[清] 琴川居士 编 国朝名臣奏议 光绪二十八年丽泽学会石印本",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.17",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《为遵旨酌议稽查棚民章程事奏折》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 91,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "011448_为遵旨酌议稽查棚民章程事奏折.pdf"
+  ],
+  "original_source_filenames": {
+    "011448_为遵旨酌议稽查棚民章程事奏折.pdf": "011448_为遵旨酌议稽查棚民章程事奏折.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "011448_为遵旨酌议稽查棚民章程事奏折.pdf",
+      "sha256": "e7a9c36bccf5e8ef5f635c8999a18e9d80bd73c9a4dc3635d41ef38fd8bcdcb7"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

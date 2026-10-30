@@ -1,0 +1,201 @@
+{
+  "id": "016316",
+  "title": "夔耳重环纹青铜匜",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 728,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://digitalarchive.npm.gov.tw/Collection/Detail/6331?dep=U",
+  "source": "故宫典藏",
+  "publisher": "故宫典藏",
+  "edition": "春秋\n西元前8-前5世紀",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.19",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《夔耳重环纹青铜匜》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 129,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "016316_夔耳重环纹青铜匜.pdf",
+    "网页存档_001/016316_夔耳重环纹青铜匜.html"
+  ],
+  "original_source_filenames": {
+    "016316_夔耳重环纹青铜匜.pdf": "016316_夔耳重环纹青铜匜.pdf",
+    "网页存档_001/016316_夔耳重环纹青铜匜.html": "《夔耳重环纹青铜匜》\\夔耳重环纹青铜匜.html"
+  },
+  "source_checksums": [
+    {
+      "file": "016316_夔耳重环纹青铜匜.pdf",
+      "sha256": "da69a46286d7514c114301d5e8935a5b41dc28c5a37a904016ed8241fa126134"
+    },
+    {
+      "file": "网页存档_001/016316_夔耳重环纹青铜匜.html",
+      "sha256": "b2821a3ae8b96dd83526bee6e3359ca9c4a6c7dfb9e7964dd81181dae10fd9df"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/1MP.svg",
+      "sha256": "275c2a95fa50702dea63e055cd83e2d0e970ef8382a38913e4cacd90ebd9a571"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/6MP.svg",
+      "sha256": "21e00d8a5946581a2378d923226a229568680e8fa63e834fa436963d21e5a96a"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/bootstrap",
+      "sha256": "7bb59aaa1dd83d83a436a6e34eb6e5d87d1048a7cbacfaa242ed33a78d83a8d5"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/CC.svg",
+      "sha256": "03f216f345695904b80c3e84fd3b2d414d1f35683b0f06c6049b6910a9e69a6d"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/CC0.svg",
+      "sha256": "1796caa68c440ffbe265ceacba7699d733c2c8ee140d606bd31b99f592490363"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/CC_BY_4.0.svg",
+      "sha256": "f0ff20be1a2c22812920bf9796a1341c4fc938bf480a46e50afede6736385acb"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/css",
+      "sha256": "d7286142e181c1617453008f73da18f943d4e446704d3b3417f6e2185fe2f7f9"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/FileSaver.min.js.下载",
+      "sha256": "c68874cbaa2fd1650b7d770b328680ea765fb3376023cc3608427fde4f0d0481"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/GetCaptchaImageFor100",
+      "sha256": "dad88ecf85e9b42316016c52f0a70460ea95a97b8b568d1130255d2774c3b4c9"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/GetCaptchaImageFor600",
+      "sha256": "decb69a6560623fea1daf3f5e607979c9b5d072e773657e72d27c3c960f4f826"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/GetImage",
+      "sha256": "b2772240d083b200b3b4f0de34bca8fb4956bbbfffbdd56ea4cd22d02d9a173c"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/GetImage(1)",
+      "sha256": "1889b339f1a21d22e98548f8da6d715f99200d24b3e00e98b29d17cfd5e60f15"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/GetImage(10)",
+      "sha256": "f708b69fbb6d5dff26a64233bfd4bd4e8069c376ed9fe4cd9e2513fad9ac9f5c"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/GetImage(11)",
+      "sha256": "0ab319277ae68c6e28008857d87abdad5203f1d8781c259769d1e12b3502bc4e"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/GetImage(12)",
+      "sha256": "09200f1be2f434cd9e2d7acf4a0b30a96c9cdda2093bf55326a1b71f6eed99be"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/GetImage(13)",
+      "sha256": "1a338abeb2a9730b40f9242fb0936ed1432f25864de4de59bedd7eddb3c0b89e"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/GetImage(14)",
+      "sha256": "26f507869a911d1283d10632f2094e1f5a74c00d36deffafebcea7700cfdb813"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/GetImage(15)",
+      "sha256": "5c7e0966d4cd020a97b1e5fe3f3e14d22826476a21f041caadb95ed794eae74d"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/GetImage(2)",
+      "sha256": "2505c4c3ed74ff338ac45f155d825fc0f18082f8f6ad3292436fb92e34c00640"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/GetImage(3)",
+      "sha256": "e570edcc06403ba4e228d978e58bf9e824e2449279cda1c831ab7c5a1814ffdc"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/GetImage(4)",
+      "sha256": "5b8b9bab2a02397d0404bffecc6c427c322bb5a6f7c95029fa2ff0f554016069"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/GetImage(5)",
+      "sha256": "e4704b7796b4f1ce55ba7eafe67facbe0fd3361e79260d598b808ca7fc2cca72"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/GetImage(6)",
+      "sha256": "49bfedc63392cae2f10e06c8e21cd83e4886b0b1019d2f4eebd64f767bf89b78"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/GetImage(7)",
+      "sha256": "a684a8f1b579610ac0e3975d42980f990555b253be785cb1c57b67d9a256fb02"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/GetImage(8)",
+      "sha256": "7f5cc9c5f9ab249ee70651ced65972e4c21ab13022f14c610967d20979f317b8"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/GetImage(9)",
+      "sha256": "5e2eb231c052eae63eb4d58357a2400411ec03cded39e20624b7eafb285627c2"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/IIIF-colored.svg",
+      "sha256": "f84891a01f387d5af0a6cefa47529ab676d07e3cfa73bbe8cc3c2964a257dbc1"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/IIIF-link.svg",
+      "sha256": "527442430c30acda4be2f4e4c0e55fe23c1999c15d06a7212350fa279c6c5dfa"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/jquery",
+      "sha256": "174ae13b9457aea32b20ef28e726e7cbf023775c914760fb777b60152ac451f9"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/LOGO1.png",
+      "sha256": "c714c586e0f4823ff5df0ec7d55e31a2b7e210d09efa2628830a8bfe24fc7351"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/LOGO7.svg",
+      "sha256": "9e9b14570bf723a921f800d78647cab2a6e971295ba9c081d336728d97be2e0f"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/master.css",
+      "sha256": "f0c0e8fc9029f5a6fe0f6d357f2afd88d47daa55a7c40affded5b8051e00d051"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/master.js.下载",
+      "sha256": "ab99823007bb4d9dc6596a5e31030ac44c8c995909bcfb6ee2b576a98b861084"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/rangeSlidercss",
+      "sha256": "bb6b5fad12ffc814f522f047343f4f0fd59362cdb6606067cef2ff3f32e580ba"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/rangeSliderjs",
+      "sha256": "f7696cdb4e2715b07b35b742edcffedd6e6fdb4b0a0e35e3c896a5dc9d68a082"
+    },
+    {
+      "file": "网页存档_001/夔耳重环纹青铜匜_files/unitegalleryjs",
+      "sha256": "7904b555f51241811a3f8eda2f79d725ae2bdab4eb84f3d9cbb788b3bc723a38"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1,
+    ".html": 1
+  },
+  "supporting_file_count": 36,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

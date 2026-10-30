@@ -1,0 +1,69 @@
+{
+  "id": "000120",
+  "title": "神州日报",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 4,
+  "total_characters": 103460,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://archive.org/details/shenzhou-ribao-shanghai-archive",
+  "source": "神州日報社",
+  "publisher": "神州日報社",
+  "edition": "深圳-日保-上海",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.18",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《神州日报》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 3,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "000120_神州日报_001.pdf",
+    "000120_神州日报_002.pdf",
+    "原始文本/000120_神州日报_1907.04.02_text.txt",
+    "原始文本/000120_神州日报_1946.12.15_text.txt"
+  ],
+  "original_source_filenames": {
+    "000120_神州日报_001.pdf": "000120_神州日报_01.pdf",
+    "000120_神州日报_002.pdf": "000120_神州日报_02.pdf",
+    "原始文本/000120_神州日报_1907.04.02_text.txt": "《神州日报》\\1907.04.02_text.txt",
+    "原始文本/000120_神州日报_1946.12.15_text.txt": "《神州日报》\\1946.12.15_text.txt"
+  },
+  "source_checksums": [
+    {
+      "file": "000120_神州日报_001.pdf",
+      "sha256": "7610b45c5bdc5ac39dfeaf7c8ed2a11c8130ff611f74a1b0c97b73aa49ab5a81"
+    },
+    {
+      "file": "000120_神州日报_002.pdf",
+      "sha256": "62db41efac53e0a66f4501e67bb673a44cd9e6358de564fad2245ec79e47e90d"
+    },
+    {
+      "file": "原始文本/000120_神州日报_1907.04.02_text.txt",
+      "sha256": "c2deaecd69a5d9f644b632c69c1512063443826dfb4ee7eb645e1260e4e7b77a"
+    },
+    {
+      "file": "原始文本/000120_神州日报_1946.12.15_text.txt",
+      "sha256": "91776fc3db303335edb73f8601255c1a838828e4413ba160335f01875e155e37"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 2,
+    ".txt": 2
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

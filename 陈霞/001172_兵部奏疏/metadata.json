@@ -1,0 +1,62 @@
+{
+  "id": "001172",
+  "title": "兵部奏疏",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 2,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 3,
+  "total_characters": 56831,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "http://read.nlc.cn/allSearch/searchDetail?searchType=all&showType=1&indexName=data_892&fid=0363",
+  "source": "中国国家图书馆",
+  "publisher": "中国国家图书馆",
+  "edition": "明萬曆[1573-1620] (明)潘季馴撰 刻本",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.15",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《兵部奏疏》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 11,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "001172_兵部奏疏_001.pdf",
+    "001172_兵部奏疏_002.pdf",
+    "001172_兵部奏疏_003.pdf"
+  ],
+  "original_source_filenames": {
+    "001172_兵部奏疏_001.pdf": "001172_兵部奏疏_01.pdf",
+    "001172_兵部奏疏_002.pdf": "001172_兵部奏疏_02.pdf",
+    "001172_兵部奏疏_003.pdf": "001172_兵部奏疏_03.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "001172_兵部奏疏_001.pdf",
+      "sha256": "e619490f29e63cd711a189f72fb507d906bb93c0ec7bd052acac777aa2a02fac"
+    },
+    {
+      "file": "001172_兵部奏疏_002.pdf",
+      "sha256": "1b374f0590fd9afa6a99036fabe5c5913ce5d540d89fb1d9f9f14a1c14c5149c"
+    },
+    {
+      "file": "001172_兵部奏疏_003.pdf",
+      "sha256": "4f725a19d31aa97bfa7ce6db744ca864793ac0f733501e8edd449c1bc330346f"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 3
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

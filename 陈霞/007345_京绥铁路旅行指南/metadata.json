@@ -1,0 +1,50 @@
+{
+  "id": "007345",
+  "title": "京绥铁路旅行指南",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 45836,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "http://read.nlc.cn/allSearch/searchDetail?searchType=24&showType=1&indexName=data_416&fid=16jh000777",
+  "source": "京绥铁路管理局[发行者]",
+  "publisher": "京绥铁路管理局[发行者]",
+  "edition": "民国七年[1918]",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.18",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《京绥铁路旅行指南》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 59,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "007345_京绥铁路旅行指南.pdf"
+  ],
+  "original_source_filenames": {
+    "007345_京绥铁路旅行指南.pdf": "007345_京绥铁路旅行指南.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "007345_京绥铁路旅行指南.pdf",
+      "sha256": "3ac96b115d79fc8b194fe8397878e5f4841954a1153bbfb0916c818cd7cb4f29"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

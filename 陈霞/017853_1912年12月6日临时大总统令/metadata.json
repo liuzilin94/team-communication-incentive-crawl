@@ -1,0 +1,58 @@
+{
+  "id": "017853",
+  "title": "1912年12月6日临时大总统令",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 1837,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://zh.wikisource.org/zh-hans/%E8%87%A8%E6%99%82%E5%A4%A7%E7%B8%BD%E7%B5%B1%E4%BB%A4_(%E6%B0%91%E5%9C%8B%E5%85%83%E5%B9%B43%E6%9C%8810%E6%97%A5)",
+  "source": "总统府公报局编纂，由总统府印铸局印",
+  "publisher": "总统府公报局编纂，由总统府印铸局印",
+  "edition": "《临时公报》民国元年3月11日第3页",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.16",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《1912年12月6日临时大总统令》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 141,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "017853_1912年12月6日临时大总统令.epub",
+    "017853_1912年12月6日临时大总统令.pdf"
+  ],
+  "original_source_filenames": {
+    "017853_1912年12月6日临时大总统令.pdf": "017853_1912年12月6日临时大总统令.pdf",
+    "017853_1912年12月6日临时大总统令.epub": "《1912年12月6日临时大总统令》\\臨時大總統令_(民國元年3月10日).epub"
+  },
+  "source_checksums": [
+    {
+      "file": "017853_1912年12月6日临时大总统令.epub",
+      "sha256": "2094a53990316a83db2f66a211430fcc3ac350f40cd0c71e2613749b2a4427cb"
+    },
+    {
+      "file": "017853_1912年12月6日临时大总统令.pdf",
+      "sha256": "b3836d3305958eca59a257882375da8b8382676ebd513e9f3a43f409522b3d7b"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。",
+    "原始EPUB文件名含“民国元年3月10日”，书目日期为1912年12月6日；两者日期不同，需核对。"
+  ],
+  "source_formats": {
+    ".epub": 1,
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

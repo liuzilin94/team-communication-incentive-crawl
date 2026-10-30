@@ -1,0 +1,50 @@
+{
+  "id": "000585",
+  "title": "甓余杂集",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 11,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 12,
+  "total_characters": 235212,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.shidianguji.com/book/NA11598/chapter/1ko0l9r1vh3pc?page_from=searching_page&version=9",
+  "source": "日本内阁文库",
+  "publisher": "日本内阁文库",
+  "edition": "[明] 朱纨 选   ·   [明] 朱篁 校订 明万历15年刻本",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.17",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《甓余杂集》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 6,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "000585_甓余杂集.pdf"
+  ],
+  "original_source_filenames": {
+    "000585_甓余杂集.pdf": "000585_甓余杂集.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "000585_甓余杂集.pdf",
+      "sha256": "ac0fbf833ce1e4249c5d37284f3951c0effde4efbbbef4b59ad644b34b50f55f"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}

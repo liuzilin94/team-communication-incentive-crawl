@@ -1,0 +1,57 @@
+{
+  "id": "008369",
+  "title": "西安北郊北周康业墓出土东罗马金币",
+  "batch": "02",
+  "batch_label": "第二次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 91,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.maritimesilkroad.org.hk/cmsfiles/Cultural%20Tour/Xi%27an/%E8%A5%BF%E5%8C%97%E5%A4%A7%E5%AD%A6%E5%B8%AD%E4%BC%9A%E4%B8%9C_%E5%8F%A4%E9%83%BD%E8%A5%BF%E5%AE%89%E4%B8%8E%E4%B8%9D%E7%BB%B8%E4%B9%8B%E8%B7%AF.pdf?utm_source=chatgpt.com",
+  "source": "西北大学",
+  "publisher": "西北大学",
+  "edition": "丝绸之路研究院 席会东 ppt内容",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.18",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《西安北郊北周康业墓出土东罗马金币》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 67,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "008369_西安北郊北周康业墓出土东罗马金币.jpeg",
+    "008369_西安北郊北周康业墓出土东罗马金币.pdf"
+  ],
+  "original_source_filenames": {
+    "008369_西安北郊北周康业墓出土东罗马金币.pdf": "008369_西安北郊北周康业墓出土东罗马金币.pdf",
+    "008369_西安北郊北周康业墓出土东罗马金币.jpeg": "《西安北郊北周康业墓出土东罗马金币》\\西安北郊北周康业墓出土东罗马金币.jpeg"
+  },
+  "source_checksums": [
+    {
+      "file": "008369_西安北郊北周康业墓出土东罗马金币.jpeg",
+      "sha256": "0e7a7eca97948dd4c77075ad8267dd3cd5a9a04590510635a6123a21de5cc0ff"
+    },
+    {
+      "file": "008369_西安北郊北周康业墓出土东罗马金币.pdf",
+      "sha256": "0beafcce31e8fedec13591f878cc9d97ad5d51a127e0a685577727db95628d77"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".jpeg": 1,
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞2"
+}
