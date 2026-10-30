@@ -1,0 +1,80 @@
+{
+  "id": "009651",
+  "title": "王仲兴墓志",
+  "batch": "03",
+  "batch_label": "第三次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 0,
+  "total_characters": 0,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://z-lib.sk/book/M9pVrO2KqO/%E8%BE%BD%E9%87%91%E5%8E%86%E5%8F%B2%E4%B8%8E%E8%80%83%E5%8F%A4-%E7%AC%AC8%E8%BE%91.html",
+  "source": "辽宁省博物馆, 辽宁省辽金契丹女真史研究会",
+  "publisher": "辽宁省博物馆, 辽宁省辽金契丹女真史研究会",
+  "edition": "辽宁省博物馆, 辽宁省辽金契丹女真史研究会 辽金历史与考古 第8辑",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.24",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《王仲兴墓志》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 77,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "009651_王仲兴墓志_001.jpeg",
+    "009651_王仲兴墓志_002.jpeg",
+    "009651_王仲兴墓志_003.jpeg",
+    "009651_王仲兴墓志_004.jpeg",
+    "009651_王仲兴墓志_005.jpeg",
+    "009651_王仲兴墓志_006.jpeg"
+  ],
+  "original_source_filenames": {
+    "009651_王仲兴墓志_001.jpeg": "009651_王仲兴墓志_01.jpeg",
+    "009651_王仲兴墓志_002.jpeg": "009651_王仲兴墓志_02.jpeg",
+    "009651_王仲兴墓志_003.jpeg": "009651_王仲兴墓志_03.jpeg",
+    "009651_王仲兴墓志_004.jpeg": "009651_王仲兴墓志_04.jpeg",
+    "009651_王仲兴墓志_005.jpeg": "009651_王仲兴墓志_05.jpeg",
+    "009651_王仲兴墓志_006.jpeg": "009651_王仲兴墓志_06.jpeg"
+  },
+  "source_checksums": [
+    {
+      "file": "009651_王仲兴墓志_001.jpeg",
+      "sha256": "4bfcda3acb08a78ac8db61d96b3d1f33f0f8f98c3542efcb11d9f7f876b828c5"
+    },
+    {
+      "file": "009651_王仲兴墓志_002.jpeg",
+      "sha256": "4d70b629a9b569b417601f908325275340f2e70b2696da9d504d449570aa69ba"
+    },
+    {
+      "file": "009651_王仲兴墓志_003.jpeg",
+      "sha256": "c0aa18b915efbdcc0178723f773b9839ff0280623c6a0f1d23145df518e4717e"
+    },
+    {
+      "file": "009651_王仲兴墓志_004.jpeg",
+      "sha256": "8f1e50d0f5995246328f6ce1fb92f957579e3b64c3eaaa27a0ce7fcb9504134b"
+    },
+    {
+      "file": "009651_王仲兴墓志_005.jpeg",
+      "sha256": "8679352f86ae247114d860740e2fb3c3b8d921b3df5949d16e635e11c97f5511"
+    },
+    {
+      "file": "009651_王仲兴墓志_006.jpeg",
+      "sha256": "2472ab7aafdc01ed6db9dc4061c86751d111b64b2c939ede51a750417268d5a0"
+    }
+  ],
+  "local_content_status": "本批暂无正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".jpeg": 6
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞3"
+}
