@@ -1,0 +1,68 @@
+{
+  "id": "009779",
+  "title": "沈阳小北街金墓",
+  "batch": "03",
+  "batch_label": "第三次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 0,
+  "total_characters": 0,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://z-lib.sk/book/M9WoaMDQ93/%E6%B2%88%E9%98%B3%E8%80%83%E5%8F%A4%E5%8F%91%E7%8E%B060%E5%B9%B4-%E6%8A%A5%E5%91%8A%E5%8D%B7.html",
+  "source": "沈阳市文物考古研究所编, 沈阳市文物考古研究所",
+  "publisher": "沈阳市文物考古研究所编, 沈阳市文物考古研究所",
+  "edition": "沈阳市文物考古研究所编, 沈阳市文物考古研究所 沈阳考古发现60年 报告卷",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.24",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《沈阳小北街金墓》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 78,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "009779_沈阳小北街金墓_001.jpeg",
+    "009779_沈阳小北街金墓_002.jpeg",
+    "009779_沈阳小北街金墓_003.jpeg",
+    "009779_沈阳小北街金墓_004.jpeg"
+  ],
+  "original_source_filenames": {
+    "009779_沈阳小北街金墓_001.jpeg": "009779_沈阳小北街金墓_01.jpeg",
+    "009779_沈阳小北街金墓_002.jpeg": "009779_沈阳小北街金墓_02.jpeg",
+    "009779_沈阳小北街金墓_003.jpeg": "009779_沈阳小北街金墓_03.jpeg",
+    "009779_沈阳小北街金墓_004.jpeg": "009779_沈阳小北街金墓_04.jpeg"
+  },
+  "source_checksums": [
+    {
+      "file": "009779_沈阳小北街金墓_001.jpeg",
+      "sha256": "12dc94406a0c2f2f98e822b9c6a2c1c7f1805ca088b82ccbd81b8804e1e63371"
+    },
+    {
+      "file": "009779_沈阳小北街金墓_002.jpeg",
+      "sha256": "db4f0e2c3d6b8aa01a92d62a31a681b8dd9b9cb1b88bb1c2a89dae11fa64f68f"
+    },
+    {
+      "file": "009779_沈阳小北街金墓_003.jpeg",
+      "sha256": "f852c605e54345149e7322b77635d9ca4c8ffee649f44e49e35114b74b40e50b"
+    },
+    {
+      "file": "009779_沈阳小北街金墓_004.jpeg",
+      "sha256": "8114356332b9cd05f8eefc4eaba2f0c3a1175099548216807eddf1e532a3e49a"
+    }
+  ],
+  "local_content_status": "本批暂无正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".jpeg": 4
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞3"
+}

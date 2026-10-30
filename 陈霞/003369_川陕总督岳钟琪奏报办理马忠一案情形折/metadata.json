@@ -1,0 +1,50 @@
+{
+  "id": "003369",
+  "title": "川陕总督岳钟琪奏报办理马忠一案情形折",
+  "batch": "03",
+  "batch_label": "第三次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 1536,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://zouzhe.cn/memorial/14182?return_query=keyword_modes%3D%26title%3D%26official%3D%25E5%25B2%25B3%25E9%2592%259F%25E7%2590%25AA%26position%3D%25E5%25B7%259D%25E9%2599%259C%25E6%2580%25BB%25E7%259D%25A3%26full_text%3D%25E9%25A9%25AC%25E5%25BF%25A0%26prefecture%3D%26emperor%3D%25E9%259B%258D%25E6%25AD%25A3%26year_start%3D%26year_end%3D%26comment%3D%26comment_tag%3D%26category%3D%25E4%25BA%25BA%25E4%25BA%258B%25E6%25A1%2588%25E4%25BB%25B6%26source%3D%26memorial_type%3D",
+  "source": "台北故宫024930",
+  "publisher": "台北故宫024930",
+  "edition": "奏为查拿要犯马仓情形折",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.25",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《川陕总督岳钟琪奏报办理马忠一案情形折》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 28,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "003369_川陕总督岳钟琪奏报办理马忠一案情形折.pdf"
+  ],
+  "original_source_filenames": {
+    "003369_川陕总督岳钟琪奏报办理马忠一案情形折.pdf": "003369_川陕总督岳钟琪奏报办理马忠一案情形折.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "003369_川陕总督岳钟琪奏报办理马忠一案情形折.pdf",
+      "sha256": "224603fddca0ee9ec429cbb3925af1220b991c48b6d9d30dd1ae5f9e5624269e"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞3"
+}

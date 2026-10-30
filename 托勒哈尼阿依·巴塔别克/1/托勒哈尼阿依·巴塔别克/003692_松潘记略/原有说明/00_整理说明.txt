@@ -1,0 +1,84 @@
+《松潘紀略》TXT 整理说明
+
+作者：[清] 何遠慶 撰
+来源：识典古籍，书籍 ID 7506141759634669609，版本 5。
+底本信息：网站标注为清刻本。
+采集日期：2026-10-22（北京时间）
+
+分卷方式：此版本目录没有“卷一、卷二”等卷号。依网站 13 个独立 volumeId 分成 13 个 TXT，
+文件名前的 01—13 只是整理顺序，不代表原书卷号。序与《夷情記》在网站同一分卷，合存一份。
+《聽治卯圖》这一篇名沿用网站目录，不作校改。
+
+处理方式：保留原文繁体字、异体字、标点、正文及小字文字和篇目次序；
+去除网页导航、按钮、翻译和分页标记，相邻文字片段拼接，原段落之间空行。
+未作繁简转换或文字校勘。编码为 UTF-8（带 BOM），Windows 换行为 CRLF。
+
+完整性：网站目录共 23 个篇目、212 个段落，全部取得；逐篇核对段落数和段落序号，
+并验证每份 TXT 与对应分卷的全部文本字段相符（忽略空白和整理者插入的图像标记）。
+网站可直接提取的文字共 13,666 字符（含标点）。
+
+图像说明：12 幅插图没有独立文字字段，以〔插圖01〕至〔插圖12〕标明位置，未对图内字做 OCR。
+正文另有 2 处字形图片，网站没有提供有效 Unicode 字符，分别用〔字圖1〕、〔字圖2〕保留位置。
+字圖1：在《職官兵額記》“一松潘〔字圖1〕隸同知一員”处，网站标注为“直”的异体字。
+字圖2：在《城垣記·漳臘營》“絕砦譚〔字圖2〕等十七屯堡”处，网站未提供字义或异体字说明。
+这些标记为整理者添加，不是原文；没有将图像里的字猜测填入正文。
+
+文件目录及来源：
+01_聽治卯圖.txt　22 段，58 字符
+https://www.shidianguji.com/book/7506141759634669609/chapter/1lgyn1epcvcbq?version=5
+02_直隸松潘廳記略序（附夷情記）.txt　11 段，2329 字符
+https://www.shidianguji.com/book/7506141759634669609/chapter/1lhqch45s0m4g?version=5
+03_民俗記.txt　4 段，551 字符
+https://www.shidianguji.com/book/7506141759634669609/chapter/1l3ywwonxa78m?version=5
+04_詞訟記.txt　3 段，498 字符
+https://www.shidianguji.com/book/7506141759634669609/chapter/1l3ywwonxeexy?version=5
+05_物產記.txt　4 段，754 字符
+https://www.shidianguji.com/book/7506141759634669609/chapter/1lhqd19f3lou8?version=5
+06_江源記.txt　7 段，729 字符
+https://www.shidianguji.com/book/7506141759634669609/chapter/1ll66gf89z5lv?version=5
+07_職官兵額記.txt　23 段，406 字符
+https://www.shidianguji.com/book/7506141759634669609/chapter/1ll66jxh2baio?version=5
+08_城垣記.txt　8 段，637 字符
+https://www.shidianguji.com/book/7506141759634669609/chapter/1lhqd19f3v668?version=5
+09_學校記.txt　3 段，106 字符
+https://www.shidianguji.com/book/7506141759634669609/chapter/1l3ywwonximna?version=5
+10_關隘塘汛記.txt　4 段，1753 字符
+https://www.shidianguji.com/book/7506141759634669609/chapter/1ll66jz5qwo3k?version=5
+11_土弁章程記.txt　11 段，986 字符
+https://www.shidianguji.com/book/7506141759634669609/chapter/1ll66jz5r9b7k?version=5
+12_新設土弁記.txt　42 段，995 字符
+https://www.shidianguji.com/book/7506141759634669609/chapter/1ll66k09i4g00?version=5
+13_舊設土官寨落記.txt　70 段，3864 字符
+https://www.shidianguji.com/book/7506141759634669609/chapter/1ll66k1q0copu?version=5
+
+字形图片来源：
+字圖1：
+https://p6-ancientlib-sign.byteimg.com/tos-cn-i-ceu0di7tn2/book-ref/platform-import/7456690887105921078/1-0d640dbd060818f3.webp~tplv-ceu0di7tn2-presize-v1:300:q70.png?lk3s=e5c95217&x-expires=1798848000&x-signature=blfkzWmWKHxXg7dl20L0RBgrX2Q%3D
+字圖2：
+https://p6-ancientlib-sign.byteimg.com/tos-cn-i-ceu0di7tn2/read/7506141759634669609/4/ref/1lhqfwd4xfz17/1-1761496620080.webp~tplv-ceu0di7tn2-presize-v1:300:q70.png?lk3s=e5c95217&x-expires=1798848000&x-signature=CJwWte6EQVX7D202%2BdY%2FBb%2FD%2B8s%3D
+
+插图所在篇目及图片来源：
+插圖01：松潘㕔地輿圖
+https://p3-ancientlib-sign.byteimg.com/tos-cn-i-ceu0di7tn2/read/7506141759634669609/2/ref/1lduwnnaf1puy/1-7506141544439136296_9866_11591795.webp~tplv-ceu0di7tn2-png.png?lk3s=e5c95217&x-expires=1798848000&x-signature=FHWofU7VyBtK4FrZGpxwA9Bh%2FHg%3D
+插圖02：松潘㕔地輿圖
+https://p3-ancientlib-sign.byteimg.com/tos-cn-i-ceu0di7tn2/read/7506141759634669609/2/ref/1lduwnnaf22i2/1-7506143217524736063_4355_11041811.webp~tplv-ceu0di7tn2-png.png?lk3s=e5c95217&x-expires=1798848000&x-signature=jF8zZ4uMLnDCfj99jornOVyTNOM%3D
+插圖03：松潘㕔城垣圖
+https://p6-ancientlib-sign.byteimg.com/tos-cn-i-ceu0di7tn2/read/7506141759634669609/2/ref/1lduwnnaf2f56/1-7506142536038170624_13438_11531785.webp~tplv-ceu0di7tn2-png.png?lk3s=e5c95217&x-expires=1798848000&x-signature=d5sINvObTbPW53WITR%2Bbb6qTUuE%3D
+插圖04：松潘㕔城垣圖
+https://p3-ancientlib-sign.byteimg.com/tos-cn-i-ceu0di7tn2/read/7506141759634669609/2/ref/1lduwnnaf2rsa/1-7506143217524785215_4942_10601798.webp~tplv-ceu0di7tn2-png.png?lk3s=e5c95217&x-expires=1798848000&x-signature=55fi%2F2iEHacbJR4SX9ni0Tam%2FCw%3D
+插圖05：松潘㕔東方圖
+https://p3-ancientlib-sign.byteimg.com/tos-cn-i-ceu0di7tn2/read/7506141759634669609/2/ref/1lduwnnaf34fe/1-7506141148089810979_10461_11521816.webp~tplv-ceu0di7tn2-png.png?lk3s=e5c95217&x-expires=1798848000&x-signature=7W6T%2Fh0YwRDQn%2BsC0FcWYAo830M%3D
+插圖06：松潘㕔東方圖
+https://p9-ancientlib-sign.byteimg.com/tos-cn-i-ceu0di7tn2/read/7506141759634669609/2/ref/1lduwnnaf3h2i/1-7506142536038203392_5357_11011800.webp~tplv-ceu0di7tn2-png.png?lk3s=e5c95217&x-expires=1798848000&x-signature=LV6SwWuJnwgv31V3c9OW76ykUt8%3D
+插圖07：松潘㕔西方圖
+https://p3-ancientlib-sign.byteimg.com/tos-cn-i-ceu0di7tn2/read/7506141759634669609/2/ref/1lduwnnaf3tpm/1-7506142536038236160_10761_11491797.webp~tplv-ceu0di7tn2-png.png?lk3s=e5c95217&x-expires=1798848000&x-signature=Zb0oewaf%2FMq1dovTPiJh%2B9ipals%3D
+插圖08：松潘㕔西方圖
+https://p9-ancientlib-sign.byteimg.com/tos-cn-i-ceu0di7tn2/read/7506141759634669609/2/ref/1lduwnnaf46cq/1-7506142877404643362_5665_10971795.webp~tplv-ceu0di7tn2-png.png?lk3s=e5c95217&x-expires=1798848000&x-signature=E%2Fg%2FdbySfcPqoaX2nxXf5xPNSr0%3D
+插圖09：松潘㕔南方圖
+https://p9-ancientlib-sign.byteimg.com/tos-cn-i-ceu0di7tn2/read/7506141759634669609/2/ref/1lduwnnaf4izu/1-7506142877404676130_10360_11541793.webp~tplv-ceu0di7tn2-png.png?lk3s=e5c95217&x-expires=1798848000&x-signature=jGOJzYp%2BDcrpC6rtiuXciB4Bo9Y%3D
+插圖10：松潘㕔南方圖
+https://p3-ancientlib-sign.byteimg.com/tos-cn-i-ceu0di7tn2/read/7506141759634669609/2/ref/1lduwnnaf4vmy/1-7506142692641079359_4571_10901791.webp~tplv-ceu0di7tn2-png.png?lk3s=e5c95217&x-expires=1798848000&x-signature=CW4CF1uzYYPgMazJ6YOz4ZnbK0M%3D
+插圖11：松潘㕔北方圖
+https://p3-ancientlib-sign.byteimg.com/tos-cn-i-ceu0di7tn2/read/7506141759634669609/2/ref/1lduwnnaf58a2/1-7506143327595659318_11976_11521798.webp~tplv-ceu0di7tn2-png.png?lk3s=e5c95217&x-expires=1798848000&x-signature=WATkjQjGRa3Y%2BlZ3oKI5a2pYnIE%3D
+插圖12：松潘㕔北方圖
+https://p9-ancientlib-sign.byteimg.com/tos-cn-i-ceu0di7tn2/read/7506141759634669609/2/ref/1lduwokexpbmz/1-7506143217524916287_4574_11061785.webp~tplv-ceu0di7tn2-png.png?lk3s=e5c95217&x-expires=1798848000&x-signature=aoO%2F1RTQKtkWGQoQjT0gBU3DJpM%3D

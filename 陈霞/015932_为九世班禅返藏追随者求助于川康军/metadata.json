@@ -1,0 +1,55 @@
+{
+  "id": "015932",
+  "title": "为九世班禅返藏追随者求助于川康军",
+  "batch": "04",
+  "batch_label": "第四次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 7,
+  "total_characters": 31181,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://qje.qhmu.edu.cn/info/1067/3597.htm",
+  "source": "青海民族研究",
+  "publisher": "青海民族研究",
+  "edition": "张永攀 内政与外交的努力和困境：1936年国民政府\n护送九世班禅返藏及与英国交涉研究",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "10.2",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《为九世班禅返藏追随者求助于川康军》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 126,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "015932_为九世班禅返藏追随者求助于川康军.pdf"
+  ],
+  "original_source_filenames": {
+    "015932_为九世班禅返藏追随者求助于川康军.pdf": "《为九世班禅返藏追随者求助于川康军》.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "015932_为九世班禅返藏追随者求助于川康军.pdf",
+      "sha256": "7cf09d419b41e25154be9e6e3b582c24e49f2c3ce191dea66e3017a16b3098ef"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞4",
+  "raw_source_references": [
+    {
+      "original_path": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞4\\《为九世班禅返藏追随者求助于川康军》.pdf",
+      "archived_file": "015932_为九世班禅返藏追随者求助于川康军.pdf",
+      "sha256": "7cf09d419b41e25154be9e6e3b582c24e49f2c3ce191dea66e3017a16b3098ef"
+    }
+  ]
+}

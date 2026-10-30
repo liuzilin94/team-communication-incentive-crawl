@@ -1,0 +1,44 @@
+{
+  "id": "001041",
+  "title": "济南近年发现的元代砖雕壁画墓",
+  "batch": "01",
+  "batch_label": "第一次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 9363,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.ncpssd.cn/Literature/secure/articleinfo?params=Rm42anpLUlNPdTZFbHhiS2o1Q2psTzRzNmZhVHFrUnI0WERFWTNmeXBvWjBsSjFqd1l1TnhROFdJRUlMVHRpcGhaK25hSDB2Y0RRVmFlbXo3U095UzFENTFHbTU1SmJuaTl1NEE3UzM2citldzVxQm0xYkZ4ci80ODE4UC9Yb0o",
+  "source": "文物出版社",
+  "publisher": "文物出版社",
+  "edition": "1992年第二期 作者：刘善沂;宁堂;孙亮;王方",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.11",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《济南近年发现的元代砖雕壁画墓》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 10,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "001041_济南近年发现的元代砖雕壁画墓.pdf"
+  ],
+  "original_source_filenames": {
+    "001041_济南近年发现的元代砖雕壁画墓.pdf": "001041_济南近年发现的元代砖雕壁画墓.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "001041_济南近年发现的元代砖雕壁画墓.pdf",
+      "sha256": "7aa7111f2492fcbe73d0d0cd43b2c6d94e28e1348596855b0fdfee1ee4dbfe14"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ]
+}

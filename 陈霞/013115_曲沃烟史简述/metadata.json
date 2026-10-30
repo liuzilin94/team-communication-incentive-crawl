@@ -1,0 +1,50 @@
+{
+  "id": "013115",
+  "title": "曲沃烟史简述",
+  "batch": "03",
+  "batch_label": "第三次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 5267,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://z-lib.sk/book/0zM3L8wK5g/%E5%B1%B1%E8%A5%BF%E6%96%87%E5%8F%B2%E8%B5%84%E6%96%99%E5%85%A8%E7%BC%96-%E7%AC%AC2%E5%8D%B7-%E7%AC%AC1425%E8%BE%91.html",
+  "source": "《山西文史资料》编辑部",
+  "publisher": "《山西文史资料》编辑部",
+  "edition": "《山西文史资料》编辑部 山西文史资料全编 第2卷 第14-25辑",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.24",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《曲沃烟史简述》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 104,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "013115_曲沃烟史简述.pdf"
+  ],
+  "original_source_filenames": {
+    "013115_曲沃烟史简述.pdf": "013115_曲沃烟史简述.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "013115_曲沃烟史简述.pdf",
+      "sha256": "c6cae0379cdcde52d00f308d2ab6bc219ae101f42d7317daf55f403271d92c45"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞3"
+}

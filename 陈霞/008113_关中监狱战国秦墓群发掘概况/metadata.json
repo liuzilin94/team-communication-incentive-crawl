@@ -1,0 +1,44 @@
+{
+  "id": "008113",
+  "title": "关中监狱战国秦墓群发掘概况",
+  "batch": "01",
+  "batch_label": "第一次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 7531,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://bar.cnki.net/bar/fee_DZhy2_GB.html?lang=CHS&cacheID=WEEvREcwSlJHSldTTEYyRTJmNUZqL0xSMU1tTC9OWXZ4cnJ0SFF5SUVLVT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!settlementPmp/5es3RB81cmauPwpbvsnRTWg93/bWFyyGfw+u26s5cNG7GpZM9rcxUrJVFJDugY4J69t/DzE/PMi1+mArYbB1BCgGlnWgaAS6zjDc6+KyDTjll3huHfQW/Sufz6U4D7SkGsrFE2TBBPVpU+mIVFw43y6+GOCV0kn/pJh5EM5zUVI8ryHL0/0vT2/jgIF3miLr8XsHN4dlEV1NRt+wLdgj4ZpzNoTSRx45nDY/lCCBbCaJjw5wp+dOpv8eB1SskeRhxbVLSgBK947efTcF1TeXqsGa0n/NxZ5TmMqsSnAR3JOq/p45sWsGnYAw1qw4O80gRPyJbqkSZ+GmURDC7A==",
+  "source": "中国知网",
+  "publisher": "中国知网",
+  "edition": "杭州市文物考古所  刘卫鹏",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.13",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《关中监狱战国秦墓群发掘概况》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 65,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "008113_关中监狱战国秦墓群发掘概况.pdf"
+  ],
+  "original_source_filenames": {
+    "008113_关中监狱战国秦墓群发掘概况.pdf": "008113_关中监狱战国秦墓群发掘概况.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "008113_关中监狱战国秦墓群发掘概况.pdf",
+      "sha256": "9fe8850eb14cc038afe3c7deadef655b14a599e3ebb400d821548c42d856d20e"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ]
+}

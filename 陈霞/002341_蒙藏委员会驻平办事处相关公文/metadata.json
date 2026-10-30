@@ -1,0 +1,44 @@
+{
+  "id": "002341",
+  "title": "蒙藏委员会驻平办事处相关公文",
+  "batch": "01",
+  "batch_label": "第一次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 409,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "http://read.nlc.cn/OutOpenBook/OpenObjectBook?aid=462&bid=7802.0",
+  "source": "中国国家图书馆",
+  "publisher": "中国国家图书馆",
+  "edition": "三十四年七月十三日\n平貳字第一四八四一號",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.11",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《蒙藏委员会驻平办事处相关公文》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 20,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "002341_蒙藏委员会驻平办事处相关公文.pdf"
+  ],
+  "original_source_filenames": {
+    "002341_蒙藏委员会驻平办事处相关公文.pdf": "002341_蒙藏委员会驻平办事处相关公文.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "002341_蒙藏委员会驻平办事处相关公文.pdf",
+      "sha256": "c4d959777365fae41a8e4a8c54de93067cd4dccea02402c3abc65bcb7c186e9c"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ]
+}

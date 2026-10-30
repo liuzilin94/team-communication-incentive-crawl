@@ -1,0 +1,55 @@
+{
+  "id": "019262",
+  "title": "中华民族之生存力",
+  "batch": "04",
+  "batch_label": "第四次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 395,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "http://read.nlc.cn/allSearch/searchDetail?searchType=all&showType=1&indexName=data_511&fid=027032013012408",
+  "source": "新亚细亚学会",
+  "publisher": "新亚细亚学会",
+  "edition": "民国二十一年十二月[1932.12] 马鹤天著 内外蒙古考察日记",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "10.6",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《中华民族之生存力》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 152,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "019262_中华民族之生存力.pdf"
+  ],
+  "original_source_filenames": {
+    "019262_中华民族之生存力.pdf": "《中华民族之生存力》.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "019262_中华民族之生存力.pdf",
+      "sha256": "57c5282a13dda5aa2d98d0af573130f10e43faf1cb3e414a227d4accf5a9a4c6"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞4",
+  "raw_source_references": [
+    {
+      "original_path": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞4\\《中华民族之生存力》.pdf",
+      "archived_file": "019262_中华民族之生存力.pdf",
+      "sha256": "57c5282a13dda5aa2d98d0af573130f10e43faf1cb3e414a227d4accf5a9a4c6"
+    }
+  ]
+}

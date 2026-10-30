@@ -1,0 +1,48 @@
+{
+  "id": "018365",
+  "title": "竹林七贤铜镜",
+  "batch": "01",
+  "batch_label": "第一次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 0,
+  "total_characters": 0,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.vcg.com/creative/1613057720.html",
+  "source": "云南省博物馆",
+  "publisher": "云南省博物馆",
+  "edition": "唐",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.14",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《竹林七贤铜镜》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 145,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "018365_竹林七贤铜镜.jpg"
+  ],
+  "original_source_filenames": {
+    "018365_竹林七贤铜镜.jpg": "《竹林七贤铜镜》.jpg"
+  },
+  "source_checksums": [
+    {
+      "file": "018365_竹林七贤铜镜.jpg",
+      "sha256": "930364aaac4ac435d71e2d6006d8a22ac172346adacd80a19cb52f738066935d"
+    }
+  ],
+  "local_content_status": "已有原始资料，暂无正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".jpg": 1
+  },
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞1"
+}

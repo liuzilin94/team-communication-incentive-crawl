@@ -1,0 +1,44 @@
+{
+  "id": "008497",
+  "title": "府谷县志",
+  "batch": "01",
+  "batch_label": "第一次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 34,
+  "total_characters": 863458,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://pan.quark.cn/s/78446f7c4f3b#/list/share/ff5a7757817043db9c55829e24581d13",
+  "source": "陕西人民出版社",
+  "publisher": "陕西人民出版社",
+  "edition": "府谷县志编纂员会",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.13",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《府谷县志》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 68,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "008497_府谷县志.pdf"
+  ],
+  "original_source_filenames": {
+    "008497_府谷县志.pdf": "008497_府谷县志.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "008497_府谷县志.pdf",
+      "sha256": "e4d5307d14b8ed71fdf9c6dc0f0fe7fda63fc040511cf27baec6cec27346894f"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ]
+}

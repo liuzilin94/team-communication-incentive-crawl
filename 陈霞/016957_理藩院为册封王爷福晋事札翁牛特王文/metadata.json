@@ -1,0 +1,55 @@
+{
+  "id": "016957",
+  "title": "理藩院为册封王爷福晋事札翁牛特王文",
+  "batch": "04",
+  "batch_label": "第四次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 280,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://archive.org/details/2021_20260123/page/n85/mode/2up",
+  "source": "国家图书馆出版社",
+  "publisher": "国家图书馆出版社",
+  "edition": "赤峰地区清代蒙满文档案汉译汇编 上册",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.29",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《理藩院为册封王爷福晋事札翁牛特王文》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 134,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "016957_理藩院为册封王爷福晋事札翁牛特王文.jpeg"
+  ],
+  "original_source_filenames": {
+    "016957_理藩院为册封王爷福晋事札翁牛特王文.jpeg": "《理藩院为册封王爷福晋事札翁牛特王文》.jpeg"
+  },
+  "source_checksums": [
+    {
+      "file": "016957_理藩院为册封王爷福晋事札翁牛特王文.jpeg",
+      "sha256": "ddf34f28ad614a356094cc920ae35628220a7522f5221a5ba297a53b33d1e790"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".jpeg": 1
+  },
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞4",
+  "raw_source_references": [
+    {
+      "original_path": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞4\\《理藩院为册封王爷福晋事札翁牛特王文》.jpeg",
+      "archived_file": "016957_理藩院为册封王爷福晋事札翁牛特王文.jpeg",
+      "sha256": "ddf34f28ad614a356094cc920ae35628220a7522f5221a5ba297a53b33d1e790"
+    }
+  ]
+}
