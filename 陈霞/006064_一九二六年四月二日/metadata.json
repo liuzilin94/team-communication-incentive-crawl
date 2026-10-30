@@ -1,0 +1,50 @@
+{
+  "id": "006064",
+  "title": "一九二六年四月二日",
+  "batch": "03",
+  "batch_label": "第三次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 2551,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://oddownload.nuduseng.com/13%E8%80%81%E5%85%89%E7%9B%98%E7%BE%A4%28%E7%BE%A4%E5%8F%B7854318908%29%E7%BE%A4%E5%8F%8B%E5%88%86%E4%BA%AB%E6%B1%87%E6%80%BB%202019%E5%B9%B412%E6%9C%881%E6%97%A5%E8%87%B310%E6%97%A5/2019-12-09/fy/fy%E4%B8%AD%E5%8D%8E%E7%99%BE%E7%A7%91%E8%97%8F%E4%B9%A6/04%20%E4%B8%AD%E5%9B%BD%E7%8E%B0%E4%BB%A3%E6%96%87%E5%AD%A6/%E9%B2%81%E8%BF%85%E6%96%87%E9%9B%86/%E3%80%8A%E9%B2%81%E8%BF%85%E6%96%87%E9%9B%86%C2%B7%E5%8D%8E%E7%9B%96%E9%9B%86%E7%BB%AD%E7%BC%96%E3%80%8B.pdf?utm_source=chatgpt.com",
+  "source": "人民文学出版社",
+  "publisher": "人民文学出版社",
+  "edition": "鲁迅 华盖续集",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.27",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《一九二六年四月二日》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 49,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "006064_一九二六年四月二日.pdf"
+  ],
+  "original_source_filenames": {
+    "006064_一九二六年四月二日.pdf": "006064_一九二六年四月二日.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "006064_一九二六年四月二日.pdf",
+      "sha256": "11a7f97974e16eed1907de671ad5c6a21a39ffd1bebfbd8f463786089b7a5a04"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞3"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "001826",
+  "title": "晋中考古",
+  "batch": "03",
+  "batch_label": "第三次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 0,
+  "total_characters": 0,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://z-library.sk/book/JvelgVYMjE/%E6%99%8B%E4%B8%AD%E8%80%83%E5%8F%A4.html",
+  "source": "文物出版社",
+  "publisher": "文物出版社",
+  "edition": "国家文物局等",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.25",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《晋中考古》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 16,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "001826_晋中考古.djvu"
+  ],
+  "original_source_filenames": {
+    "001826_晋中考古.djvu": "001826_晋中考古.djvu"
+  },
+  "source_checksums": [
+    {
+      "file": "001826_晋中考古.djvu",
+      "sha256": "0917886332269ed3c7766e79d6dbb21347af0849dc7193649e4e604083074265"
+    }
+  ],
+  "local_content_status": "本批暂无正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".djvu": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞3"
+}

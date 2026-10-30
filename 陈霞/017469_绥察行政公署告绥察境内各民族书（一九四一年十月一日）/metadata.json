@@ -1,0 +1,56 @@
+{
+  "id": "017469",
+  "title": "绥察行政公署告绥察境内各民族书（一九四一年十月一日）",
+  "batch": "03",
+  "batch_label": "第三次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 0,
+  "total_characters": 0,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://z-library.sk/book/ZjK9nXb0O0/%E5%A4%A7%E9%9D%92%E5%B1%B1%E6%8A%97%E6%97%A5%E6%B8%B8%E5%87%BB%E6%A0%B9%E6%8D%AE%E5%9C%B0%E8%B5%84%E6%96%99%E9%80%89%E7%BC%96%E4%B8%8A%E5%86%8C.html",
+  "source": "内蒙古人民出版社",
+  "publisher": "内蒙古人民出版社",
+  "edition": "中共内蒙古自治区委员会党史资料征集委员会, 中国人民解放军档案馆, 内蒙古自治区档案馆 大青山抗日游击根据地资料选编（上册）",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.27",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《绥察行政公署告绥察境内各民族书（一九四一年十月一日）》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 138,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "017469_绥察行政公署告绥察境内各民族书（一九四一年十月一日）_001.jpeg",
+    "017469_绥察行政公署告绥察境内各民族书（一九四一年十月一日）_002.jpeg"
+  ],
+  "original_source_filenames": {
+    "017469_绥察行政公署告绥察境内各民族书（一九四一年十月一日）_001.jpeg": "017469_绥察行政公署告绥察境内各民族书（一九四一年十月一日）_01.jpeg",
+    "017469_绥察行政公署告绥察境内各民族书（一九四一年十月一日）_002.jpeg": "017469_绥察行政公署告绥察境内各民族书（一九四一年十月一日）_02.jpeg"
+  },
+  "source_checksums": [
+    {
+      "file": "017469_绥察行政公署告绥察境内各民族书（一九四一年十月一日）_001.jpeg",
+      "sha256": "8e8a0e812eee8c11de9a293907b7f7cf2b29d096f8b4879b1178ceb47cfe7a5e"
+    },
+    {
+      "file": "017469_绥察行政公署告绥察境内各民族书（一九四一年十月一日）_002.jpeg",
+      "sha256": "77ae97b60563e431b9004b916fb7d38e8ca3f1ede69a521e320d12b7d911864b"
+    }
+  ],
+  "local_content_status": "本批暂无正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".jpeg": 2
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞3"
+}

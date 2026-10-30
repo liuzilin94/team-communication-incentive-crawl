@@ -1,0 +1,50 @@
+{
+  "id": "007601",
+  "title": "蓝地十字花缂丝",
+  "batch": "03",
+  "batch_label": "第三次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 5687,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.sohu.com/a/468692675_121106869",
+  "source": "青海省文物考古研究所",
+  "publisher": "青海省文物考古研究所",
+  "edition": "青海省文化旅游【文旅新闻】山宗•水源•路之冲 | 吐蕃人有多精致？来看都兰吐蕃墓群中出土的金银器、丝织品……",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.23",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《蓝地十字花缂丝》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 61,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "007601_蓝地十字花缂丝.pdf"
+  ],
+  "original_source_filenames": {
+    "007601_蓝地十字花缂丝.pdf": "007601_蓝地十字花缂丝.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "007601_蓝地十字花缂丝.pdf",
+      "sha256": "cbb5da318c9c13575bcbcaea7d3ffa76a7c7bd8189ed79dad50446c6f5c7a5f8"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞3"
+}

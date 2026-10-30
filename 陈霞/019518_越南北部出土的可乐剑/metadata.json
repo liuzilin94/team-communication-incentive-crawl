@@ -1,0 +1,50 @@
+{
+  "id": "019518",
+  "title": "越南北部出土的可乐剑",
+  "batch": "03",
+  "batch_label": "第三次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 18985,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.sohu.com/a/432707590_199807",
+  "source": "社科院考古所中国考古网",
+  "publisher": "社科院考古所中国考古网",
+  "edition": "杨勇：论古代中国西南与东南亚的联系——以考古发现的青铜器为中心",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.23",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《越南北部出土的可乐剑》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 154,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "019518_越南北部出土的可乐剑.pdf"
+  ],
+  "original_source_filenames": {
+    "019518_越南北部出土的可乐剑.pdf": "019518_越南北部出土的可乐剑.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "019518_越南北部出土的可乐剑.pdf",
+      "sha256": "c3687c102f46e0cb030342a06c5ba6206fd4d9f16a52dd5612c6877038bf6feb"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞3"
+}

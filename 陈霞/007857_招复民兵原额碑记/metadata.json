@@ -1,0 +1,50 @@
+{
+  "id": "007857",
+  "title": "招复民兵原额碑记",
+  "batch": "03",
+  "batch_label": "第三次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 0,
+  "total_characters": 0,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://z-library.sk/book/7vbYZebXjY/%E9%9D%92%E6%B5%B7%E9%87%91%E7%9F%B3%E5%BD%95.html",
+  "source": "西宁：青海人民出版社",
+  "publisher": "西宁：青海人民出版社",
+  "edition": "谢佐等编著 青海金石录 碑文概述",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.26",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《招复民兵原额碑记》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 63,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "007857_招复民兵原额碑记.jpeg"
+  ],
+  "original_source_filenames": {
+    "007857_招复民兵原额碑记.jpeg": "007857_招复民兵原额碑记.jpeg"
+  },
+  "source_checksums": [
+    {
+      "file": "007857_招复民兵原额碑记.jpeg",
+      "sha256": "378d89690459e1be2832f9aa57cb8c87f9f640bd287e4342ea888c68a5a33d59"
+    }
+  ],
+  "local_content_status": "本批暂无正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".jpeg": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞3"
+}

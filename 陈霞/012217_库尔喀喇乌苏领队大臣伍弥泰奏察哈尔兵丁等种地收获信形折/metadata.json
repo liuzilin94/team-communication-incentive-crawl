@@ -1,0 +1,50 @@
+{
+  "id": "012217",
+  "title": "库尔喀喇乌苏领队大臣伍弥泰奏察哈尔兵丁等种地收获信形折",
+  "batch": "03",
+  "batch_label": "第三次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 520,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://z-lib.sk/book/69N2lrnn9Y/%E6%B8%85%E4%BB%A3%E8%A5%BF%E8%BF%81%E6%96%B0%E7%96%86%E5%AF%9F%E5%93%88%E5%B0%94%E8%92%99%E5%8F%A4%E6%BB%A1%E6%96%87%E6%A1%A3%E6%A1%88%E5%85%A8%E8%AF%91.html",
+  "source": "乌鲁木齐:新疆人民出版社",
+  "publisher": "乌鲁木齐:新疆人民出版社",
+  "edition": "吴元丰等主编 清代西迁新疆察哈尔蒙古满文档案全译 第77则\n",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.24",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《库尔喀喇乌苏领队大臣伍弥泰奏察哈尔兵丁等种地收获信形折》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 97,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "012217_库尔喀喇乌苏领队大臣伍弥泰奏察哈尔兵丁等种地收获信形折.pdf"
+  ],
+  "original_source_filenames": {
+    "012217_库尔喀喇乌苏领队大臣伍弥泰奏察哈尔兵丁等种地收获信形折.pdf": "012217_库尔喀喇乌苏领队大臣伍弥泰奏察哈尔兵丁等种地收获信形折.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "012217_库尔喀喇乌苏领队大臣伍弥泰奏察哈尔兵丁等种地收获信形折.pdf",
+      "sha256": "79661b5b8ceb4b06ab8ae2f0ba8c991069f76c06aabcdb39468adc13dd90a9dc"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞3"
+}
