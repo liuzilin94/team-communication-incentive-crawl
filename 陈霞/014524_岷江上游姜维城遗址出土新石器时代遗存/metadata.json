@@ -1,0 +1,44 @@
+{
+  "id": "014524",
+  "title": "岷江上游姜维城遗址出土新石器时代遗存",
+  "batch": "01",
+  "batch_label": "第一次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 11378,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://kns.cnki.net/kcms2/article/abstract?v=sb6TFb_dKprmqfxIPHukP4JdDoEm7LGFmppniOdbYN7Cc4Vg1YAdGD1aVKqQetJH6k8qC98M5kYS7lgdJjz7D5wGsT5PCZ4Zi0buVVbzAusxEI6vZEjNOPJge1PST9MzdwEs0h6ulryiRcmlIX0xQExSlTfcOqHjObSXEqHVndSce-HA6cKz-w==&uniplatform=NZKPT&language=CHS",
+  "source": "中国知网",
+  "publisher": "中国知网",
+  "edition": "四川省文物考古研究院 辛中华",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.14",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《岷江上游姜维城遗址出土新石器时代遗存》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 115,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "014524_岷江上游姜维城遗址出土新石器时代遗存.pdf"
+  ],
+  "original_source_filenames": {
+    "014524_岷江上游姜维城遗址出土新石器时代遗存.pdf": "014524_岷江上游姜维城遗址出土新石器时代遗存.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "014524_岷江上游姜维城遗址出土新石器时代遗存.pdf",
+      "sha256": "217ba7f0a25fcd22d82c85a39f085b5315017dd9076f7ed3abd75a896660cefd"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ]
+}

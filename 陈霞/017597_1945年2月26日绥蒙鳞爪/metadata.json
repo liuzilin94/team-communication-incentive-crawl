@@ -1,0 +1,50 @@
+{
+  "id": "017597",
+  "title": "1945年2月26日绥蒙鳞爪",
+  "batch": "03",
+  "batch_label": "第三次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 723,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://tk.cepiec.com.cn/tknewsc/tknewskm?.0bf30066AD0020000000000100430000^TKCQ19503304@@13651116090~62104^10000000044000010200116ceb",
+  "source": "大公报报社",
+  "publisher": "大公报报社",
+  "edition": "大公报",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.25",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《1945年2月26日绥蒙鳞爪》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 139,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "017597_1945年2月26日绥蒙鳞爪.pdf"
+  ],
+  "original_source_filenames": {
+    "017597_1945年2月26日绥蒙鳞爪.pdf": "017597_1945年2月26日绥蒙鳞爪.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "017597_1945年2月26日绥蒙鳞爪.pdf",
+      "sha256": "f38006b4e8861a768422256190f202cdb87c6306e06639384835f01d203a2c45"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞3"
+}

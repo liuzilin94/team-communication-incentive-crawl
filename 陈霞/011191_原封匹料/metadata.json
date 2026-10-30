@@ -1,0 +1,50 @@
+{
+  "id": "011191",
+  "title": "原封匹料",
+  "batch": "03",
+  "batch_label": "第三次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 242,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.tibetmuseum.com.cn/pc/zh-CN/exhibitsDetail?exhibit_id=102&zangstype=%E0%BD%95%E0%BE%B1%E0%BD%B2%E0%BD%A2%E0%BC%8B%E0%BD%A3%E0%BD%BC%E0%BD%82&zhtype=%E8%BF%94%E5%9B%9E&ustype=Return",
+  "source": "西藏博物馆",
+  "publisher": "西藏博物馆",
+  "edition": "清代民国时期",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.25",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《原封匹料》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 89,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "011191_原封匹料.jpg"
+  ],
+  "original_source_filenames": {
+    "011191_原封匹料.jpg": "011191_原封匹料.jpg"
+  },
+  "source_checksums": [
+    {
+      "file": "011191_原封匹料.jpg",
+      "sha256": "5a37e2a8fdd84488ad9400b4868267724ddb314912dd68c538515894aacc797a"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".jpg": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞3"
+}

@@ -1,0 +1,110 @@
+{
+  "id": "011577",
+  "title": "精河直隶厅乡土志",
+  "batch": "03",
+  "batch_label": "第三次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 0,
+  "total_characters": 0,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://z-lib.sk/book/kzPxPB87zG/%E6%96%B0%E7%96%86%E4%B9%A1%E5%9C%9F%E5%BF%97%E7%A8%BF.html",
+  "source": "新疆人民出版社",
+  "publisher": "新疆人民出版社",
+  "edition": "马大正 新疆乡土志稿\n (清)曹淩漢纂",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.24",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《精河直隶厅乡土志》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 92,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "011577_精河直隶厅乡土志_001.jpeg",
+    "011577_精河直隶厅乡土志_002.jpeg",
+    "011577_精河直隶厅乡土志_003.jpeg",
+    "011577_精河直隶厅乡土志_004.jpeg",
+    "011577_精河直隶厅乡土志_005.jpeg",
+    "011577_精河直隶厅乡土志_006.jpeg",
+    "011577_精河直隶厅乡土志_007.jpeg",
+    "011577_精河直隶厅乡土志_008.jpeg",
+    "011577_精河直隶厅乡土志_009.jpeg",
+    "011577_精河直隶厅乡土志_010.jpeg",
+    "011577_精河直隶厅乡土志_011.jpeg"
+  ],
+  "original_source_filenames": {
+    "011577_精河直隶厅乡土志_001.jpeg": "011577_精河直隶厅乡土志_01.jpeg",
+    "011577_精河直隶厅乡土志_002.jpeg": "011577_精河直隶厅乡土志_02.jpeg",
+    "011577_精河直隶厅乡土志_003.jpeg": "011577_精河直隶厅乡土志_03.jpeg",
+    "011577_精河直隶厅乡土志_004.jpeg": "011577_精河直隶厅乡土志_04.jpeg",
+    "011577_精河直隶厅乡土志_005.jpeg": "011577_精河直隶厅乡土志_05.jpeg",
+    "011577_精河直隶厅乡土志_006.jpeg": "011577_精河直隶厅乡土志_06.jpeg",
+    "011577_精河直隶厅乡土志_007.jpeg": "011577_精河直隶厅乡土志_07.jpeg",
+    "011577_精河直隶厅乡土志_008.jpeg": "011577_精河直隶厅乡土志_08.jpeg",
+    "011577_精河直隶厅乡土志_009.jpeg": "011577_精河直隶厅乡土志_09.jpeg",
+    "011577_精河直隶厅乡土志_010.jpeg": "011577_精河直隶厅乡土志_10.jpeg",
+    "011577_精河直隶厅乡土志_011.jpeg": "011577_精河直隶厅乡土志_11.jpeg"
+  },
+  "source_checksums": [
+    {
+      "file": "011577_精河直隶厅乡土志_001.jpeg",
+      "sha256": "2b1dfc893fb1cd73286f557465a99075c116a8da020132463992f4b07b0452d6"
+    },
+    {
+      "file": "011577_精河直隶厅乡土志_002.jpeg",
+      "sha256": "b886807c08e222e236b71303d02746a33e7746585752de55885093db1fb59d17"
+    },
+    {
+      "file": "011577_精河直隶厅乡土志_003.jpeg",
+      "sha256": "4e97e9ceb37645b3f385ffdb19e2d474618a938dbfa1a757b5cd5bfe7e1db9f4"
+    },
+    {
+      "file": "011577_精河直隶厅乡土志_004.jpeg",
+      "sha256": "dc2f73d66264942dedd8fec0b7db00b2f4d6d608378ed06cca87f4609b8556fa"
+    },
+    {
+      "file": "011577_精河直隶厅乡土志_005.jpeg",
+      "sha256": "6b3d3a74f25672b3b373a462e6753271577b24645dd09dd82dc9bc261dbe64ae"
+    },
+    {
+      "file": "011577_精河直隶厅乡土志_006.jpeg",
+      "sha256": "685f10a9ac1048e71cc90ac4ce694a2ad9edea655c87e1b8ca0fd173a4561415"
+    },
+    {
+      "file": "011577_精河直隶厅乡土志_007.jpeg",
+      "sha256": "41f975d81d0d02f2666734c4abf96bfcd7d927f07e2fbd9c388a3f2bdb550abf"
+    },
+    {
+      "file": "011577_精河直隶厅乡土志_008.jpeg",
+      "sha256": "e71dcfbd05cfd4c839fab80a5df5bdea67ca3cf11ba2a2aaf63d3c009d3cd9ec"
+    },
+    {
+      "file": "011577_精河直隶厅乡土志_009.jpeg",
+      "sha256": "89066c886e7f0e900a3b7b1d7c830e1632a047fba310b2ccc94f8eaf9c2dea9d"
+    },
+    {
+      "file": "011577_精河直隶厅乡土志_010.jpeg",
+      "sha256": "504f55dce606808b12abe97b1c28842e8af71cdfe0513bb0f1117e698df86687"
+    },
+    {
+      "file": "011577_精河直隶厅乡土志_011.jpeg",
+      "sha256": "c22fdca02c70d92a4281f84208b727059fe07d36c45a59c2662c135c3deb2740"
+    }
+  ],
+  "local_content_status": "本批暂无正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".jpeg": 11
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞3"
+}

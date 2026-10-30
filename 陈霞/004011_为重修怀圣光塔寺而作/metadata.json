@@ -1,0 +1,57 @@
+{
+  "id": "004011",
+  "title": "为重修怀圣光塔寺而作",
+  "batch": "03",
+  "batch_label": "第三次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 7666,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://kns.cnki.net/reader/flowpdf?invoice=JI9qTofR1zuQ79ItPl0AKE1MbdXaoJC1kpMGVlNB0nXratt17tr1D18W%2FuMXl9rMC7VyxfQF4uN0dAnXrZ897IjtIrS%2BirNA6HVsNYcLIoxgC%2F6wOZrrsu5rGfb68o97cc53x0BqrMmgPF1MLUN0efLauE6kfHBks8pGAP8R%2Fno%3D&platform=NZKPT&sourcetype=nxgp&product=CJFQ&filename=LLWS202302014&tablename=cjfdlast2023&type=JOURNAL&scope=trial&cflag=overlay&dflag=&pages=&language=CHS&trial=&nonce=EA22C83AF3E84F3683094CA60BAB3C2B",
+  "source": "广东省人民政府文史研究馆 岭南文史",
+  "publisher": "广东省人民政府文史研究馆 岭南文史",
+  "edition": "龚甜甜 伊斯兰教入华与怀圣寺、光塔的起源——以元《重建怀圣塔寺之记》碑为线索",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.25",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《为重修怀圣光塔寺而作》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 33,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "004011_为重修怀圣光塔寺而作.pdf",
+    "004011_为重修怀圣光塔寺而作.webp"
+  ],
+  "original_source_filenames": {
+    "004011_为重修怀圣光塔寺而作.webp": "004011_为重修怀圣光塔寺而作.webp",
+    "004011_为重修怀圣光塔寺而作.pdf": "004011_为重修怀圣光塔寺而作.pdf"
+  },
+  "source_checksums": [
+    {
+      "file": "004011_为重修怀圣光塔寺而作.pdf",
+      "sha256": "f5c4836805b096fc6aaf1d87289946b931e434bfc178ade0bf2e2756068695db"
+    },
+    {
+      "file": "004011_为重修怀圣光塔寺而作.webp",
+      "sha256": "b1fed8568f9ee75cfd8b898706dc72008647d8b83ec0b024e3d65ec112a95047"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".pdf": 1,
+    ".webp": 1
+  },
+  "supporting_file_count": 0,
+  "original_text_filenames": {},
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞3"
+}
