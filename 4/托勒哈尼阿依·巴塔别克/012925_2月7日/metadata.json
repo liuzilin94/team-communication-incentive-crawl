@@ -1,0 +1,68 @@
+{
+  "id": "012925",
+  "title": "2月7日",
+  "volume_count": null,
+  "text_file_count": 0,
+  "total_characters": 0,
+  "source_url": "http://www.chinafotobank.com/picture.do?method=getpicture1&id=273341&order=",
+  "source": "www.chinafotobank.com",
+  "author": null,
+  "publisher": null,
+  "edition": null,
+  "crawled_by": "托勒哈尼阿依·巴塔别克",
+  "crawl_date": null,
+  "content_scope": "现有 1 份图片资料，尚无正文 TXT。",
+  "notes": [
+    "12925 《2月7日》.png 的实际格式为 .jpg，已纠正扩展名，未修改图片字节。"
+  ],
+  "schema_version": 2,
+  "original_title": "《2月7日》",
+  "batch": "b04",
+  "organized_on": "2026-10-28",
+  "collection_status": "仅有图片资料",
+  "bibliography_status": "已收录",
+  "bibliography_status_original": "已收录",
+  "nonempty_text_file_count": 0,
+  "empty_text_file_count": 0,
+  "empty_text_files": [],
+  "pdf_file_count": 0,
+  "image_file_count": 1,
+  "original_volume_count": null,
+  "original_volume_count_basis": "原书卷数未明确；未将页数、册数或文件数当作卷数",
+  "text_count_basis": "统计正文、卷册辑、章节、分页及生成的卷首 TXT，包含保留的空页；不含目录说明、原有说明和卷首原件。非空及空文件另列。",
+  "character_count_basis": "上述正文 TXT 解码后去除空白字符计数，含标点及转录标记；合并全文与分段或分页并存时未做跨文件去重，不代表作品净字数。",
+  "volume_count_basis": "仅统计现存明确标卷文件中的分集与卷号组合，上下分段合为一卷；原书卷数单独记录。无明确卷次时为 null。",
+  "source_urls": [
+    "http://www.chinafotobank.com/picture.do?method=getpicture1&id=273341&order="
+  ],
+  "source_url_basis": "原书目来源记录；尚未逐项验证其与现存正文的对应关系",
+  "responsibility_and_publication_record": "仅图片",
+  "bibliographic_source_record": {
+    "表内来源F": "http://www.chinafotobank.com/picture.do?method=getpicture1&id=273341&order=",
+    "链接": [
+      "http://www.chinafotobank.com/picture.do?method=getpicture1&id=273341&order="
+    ],
+    "作者或出版信息H": "仅图片",
+    "版本或出处I": "",
+    "表内备注M": "标题为孤立日期且年代缺失，是**图注被截尾**的典型形态，图注很可能出自某部革命史图册的 2 月 7 日纪念页。",
+    "表内补充N": "以\"二七\"（2 月 7 日）为题材的图片说明：1923 年京汉铁路大罢工（\"二七惨案\"）纪念活动影像"
+  },
+  "bibliography_locator": {
+    "工作表": "Sheet1",
+    "行号": 101,
+    "颜色RGB": "FFADD8E6",
+    "原始分类字段D": "21",
+    "原始分类字段E": "3",
+    "表内日期J": "9.28"
+  },
+  "previous_organized_on": "2026-10-24",
+  "file_manifest": [
+    {
+      "path": "原始资料/012925_2月7日_001.jpg",
+      "role": "image",
+      "original_path": "12925 《2月7日》.png",
+      "upstream_original_path": "12925 《2月7日》.png",
+      "bytes": 20289
+    }
+  ]
+}

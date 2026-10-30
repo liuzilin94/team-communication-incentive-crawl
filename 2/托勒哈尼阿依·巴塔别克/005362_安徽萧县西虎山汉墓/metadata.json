@@ -1,0 +1,71 @@
+{
+  "id": "005362",
+  "title": "安徽萧县西虎山汉墓",
+  "volume_count": null,
+  "text_file_count": 1,
+  "total_characters": 7657,
+  "source_url": "https://kns.cnki.net/kcms2/article/abstract?v=nMs-978wEndCrjn4cFCrBWAqmqHqbzplLEN3QEylQMlFA2vOLBh9oUtLIvaC-EXZlgf_s1AvtmHZfU6DJR0NCzDbK8kPmrXVK9q9jcwC7sfDvOIr92Ye0z3MSYFngeocEgtsBau900INAj3oiFehb0ednFtmPzoQ_lxuDv1V-BepjFDYA8xRII5h0cgoqCewTfL_9NO92ZQ=&uniplatform=NZKPT&language=CHS",
+  "source": "kns.cnki.net",
+  "author": null,
+  "publisher": null,
+  "edition": null,
+  "crawled_by": "托勒哈尼阿依·巴塔别克",
+  "crawl_date": null,
+  "content_scope": "现有 1 份非空正文或篇章 TXT，另保留 0 份空 TXT 页文件；按实际卷、册、辑、章节或现有 OCR 页序保存；尚未据原件核定全文完整性。",
+  "notes": [],
+  "schema_version": 2,
+  "original_title": "《安徽萧县西虎山汉墓》",
+  "batch": "b02",
+  "organized_on": "2026-10-28",
+  "collection_status": "已有非空 TXT",
+  "bibliography_status": "已收录",
+  "bibliography_status_original": "已收录",
+  "nonempty_text_file_count": 1,
+  "empty_text_file_count": 0,
+  "empty_text_files": [],
+  "pdf_file_count": 0,
+  "image_file_count": 0,
+  "original_volume_count": null,
+  "original_volume_count_basis": "原书卷数未明确；未将页数、册数或文件数当作卷数",
+  "text_count_basis": "统计正文、卷册辑、章节、分页及生成的卷首 TXT，包含保留的空页；不含目录说明、原有说明和卷首原件。非空及空文件另列。",
+  "character_count_basis": "上述正文 TXT 解码后去除空白字符计数，含标点及转录标记；合并全文与分段或分页并存时未做跨文件去重，不代表作品净字数。",
+  "volume_count_basis": "仅统计现存明确标卷文件中的分集与卷号组合，上下分段合为一卷；原书卷数单独记录。无明确卷次时为 null。",
+  "source_urls": [
+    "https://kns.cnki.net/kcms2/article/abstract?v=nMs-978wEndCrjn4cFCrBWAqmqHqbzplLEN3QEylQMlFA2vOLBh9oUtLIvaC-EXZlgf_s1AvtmHZfU6DJR0NCzDbK8kPmrXVK9q9jcwC7sfDvOIr92Ye0z3MSYFngeocEgtsBau900INAj3oiFehb0ednFtmPzoQ_lxuDv1V-BepjFDYA8xRII5h0cgoqCewTfL_9NO92ZQ=&uniplatform=NZKPT&language=CHS"
+  ],
+  "source_url_basis": "原书目来源记录；尚未逐项验证其与现存正文的对应关系",
+  "responsibility_and_publication_record": "《东南文化》2007年第6期",
+  "bibliographic_source_record": {
+    "表内来源F": "https://kns.cnki.net/kcms2/article/abstract?v=nMs-978wEndCrjn4cFCrBWAqmqHqbzplLEN3QEylQMlFA2vOLBh9oUtLIvaC-EXZlgf_s1AvtmHZfU6DJR0NCzDbK8kPmrXVK9q9jcwC7sfDvOIr92Ye0z3MSYFngeocEgtsBau900INAj3oiFehb0ednFtmPzoQ_lxuDv1V-BepjFDYA8xRII5h0cgoqCewTfL_9NO92ZQ=&uniplatform=NZKPT&language=CHS",
+    "链接": [
+      "https://kns.cnki.net/kcms2/article/abstract?v=nMs-978wEndCrjn4cFCrBWAqmqHqbzplLEN3QEylQMlFA2vOLBh9oUtLIvaC-EXZlgf_s1AvtmHZfU6DJR0NCzDbK8kPmrXVK9q9jcwC7sfDvOIr92Ye0z3MSYFngeocEgtsBau900INAj3oiFehb0ednFtmPzoQ_lxuDv1V-BepjFDYA8xRII5h0cgoqCewTfL_9NO92ZQ=&uniplatform=NZKPT&language=CHS"
+    ],
+    "作者或出版信息H": "《东南文化》2007年第6期",
+    "版本或出处I": "",
+    "表内备注M": "已收录其挖掘简报",
+    "表内补充N": ""
+  },
+  "bibliography_locator": {
+    "工作表": "Sheet1",
+    "行号": 42,
+    "颜色RGB": "FFADD8E6",
+    "原始分类字段D": "9",
+    "原始分类字段E": "1",
+    "表内日期J": "9.22"
+  },
+  "previous_organized_on": "2026-10-24",
+  "file_manifest": [
+    {
+      "path": "正文.txt",
+      "role": "body",
+      "original_path": "正文.txt",
+      "upstream_original_path": "5362《安徽萧县西虎山汉墓》/正文.txt",
+      "encoding": "utf-8",
+      "newline": "LF",
+      "original_encoding": "utf-8",
+      "characters": 7657,
+      "empty": false,
+      "bytes": 21391
+    }
+  ]
+}

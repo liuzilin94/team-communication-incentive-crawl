@@ -1,0 +1,58 @@
+{
+  "id": "011129",
+  "title": "光绪皇帝为班禅遣使进京事颁赏敕书（1895）",
+  "volume_count": null,
+  "text_file_count": 0,
+  "total_characters": 0,
+  "source_url": "https://www1.columbia.edu/sec/cu/lso/tocdata/14383162/0078343259/012-Volume_12_a.pdf",
+  "source": "www1.columbia.edu",
+  "author": null,
+  "publisher": null,
+  "edition": null,
+  "crawled_by": "托勒哈尼阿依·巴塔别克",
+  "crawl_date": null,
+  "content_scope": "仅有书目、来源或检索状态说明，尚未取得正文文件。",
+  "notes": [],
+  "schema_version": 2,
+  "original_title": "《光绪皇帝为班禅遣使进京事颁赏敕书（1895）》",
+  "batch": "b04",
+  "organized_on": "2026-10-28",
+  "collection_status": "未转存正文",
+  "bibliography_status": "未收录",
+  "bibliography_status_original": "未收录",
+  "nonempty_text_file_count": 0,
+  "empty_text_file_count": 0,
+  "empty_text_files": [],
+  "pdf_file_count": 0,
+  "image_file_count": 0,
+  "original_volume_count": null,
+  "original_volume_count_basis": "原书卷数未明确；未将页数、册数或文件数当作卷数",
+  "text_count_basis": "统计正文、卷册辑、章节、分页及生成的卷首 TXT，包含保留的空页；不含目录说明、原有说明和卷首原件。非空及空文件另列。",
+  "character_count_basis": "上述正文 TXT 解码后去除空白字符计数，含标点及转录标记；合并全文与分段或分页并存时未做跨文件去重，不代表作品净字数。",
+  "volume_count_basis": "仅统计现存明确标卷文件中的分集与卷号组合，上下分段合为一卷；原书卷数单独记录。无明确卷次时为 null。",
+  "source_urls": [
+    "https://www1.columbia.edu/sec/cu/lso/tocdata/14383162/0078343259/012-Volume_12_a.pdf"
+  ],
+  "source_url_basis": "原书目来源记录；尚未逐项验证其与现存正文的对应关系",
+  "responsibility_and_publication_record": "西藏自治区档案馆馆藏蒙满文档案精选",
+  "bibliographic_source_record": {
+    "表内来源F": "https://www1.columbia.edu/sec/cu/lso/tocdata/14383162/0078343259/012-Volume_12_a.pdf",
+    "链接": [
+      "https://www1.columbia.edu/sec/cu/lso/tocdata/14383162/0078343259/012-Volume_12_a.pdf"
+    ],
+    "作者或出版信息H": "西藏自治区档案馆馆藏蒙满文档案精选",
+    "版本或出处I": "",
+    "表内备注M": "已确认是《西藏自治区档案馆馆藏蒙满文档案精选·总目录第三卷》",
+    "表内补充N": "但未找到公开影像，只在哥伦比亚大学网站发现pdf版本的目录（目录也不完全完整）"
+  },
+  "bibliography_locator": {
+    "工作表": "Sheet1",
+    "行号": 87,
+    "颜色RGB": "FFC00000",
+    "原始分类字段D": "19",
+    "原始分类字段E": "3",
+    "表内日期J": "9.28"
+  },
+  "previous_organized_on": "2026-10-24",
+  "file_manifest": []
+}
