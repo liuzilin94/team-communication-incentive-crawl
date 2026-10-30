@@ -1,0 +1,71 @@
+{
+  "id": "006514",
+  "title": "集安高句丽大型积石墓王陵研究",
+  "volume_count": null,
+  "text_file_count": 1,
+  "total_characters": 9044,
+  "source_url": "https://ss.zhizhen.com/detail_38502727e7500f26c2ddc381c058efc1501713380f7ab2cf1921b0a3ea255101fc1cf1fbb4666ae6f12cabca564ffc13afc2c4cb320fbd35ab85921100f92391796ff9800d69d636c94d69c7ec0f2fd0?&apistrclassfy=0_11_3",
+  "source": "ss.zhizhen.com",
+  "author": "魏存成",
+  "publisher": "科学出版社",
+  "edition": "收录于《高句丽渤海考古论集》（2015）",
+  "crawled_by": "托勒哈尼阿依·巴塔别克",
+  "crawl_date": null,
+  "content_scope": "现有 1 份非空正文或篇章 TXT，另保留 0 份空 TXT 页文件；按实际卷、册、辑、章节或现有 OCR 页序保存；尚未据原件核定全文完整性。",
+  "notes": [],
+  "schema_version": 2,
+  "original_title": "《集安高句丽大型积石墓王陵研究》",
+  "batch": "b01",
+  "organized_on": "2026-10-28",
+  "collection_status": "已有非空 TXT",
+  "bibliography_status": "已收录",
+  "bibliography_status_original": "已收录",
+  "nonempty_text_file_count": 1,
+  "empty_text_file_count": 0,
+  "empty_text_files": [],
+  "pdf_file_count": 0,
+  "image_file_count": 0,
+  "original_volume_count": null,
+  "original_volume_count_basis": "原书卷数未明确；未将页数、册数或文件数当作卷数",
+  "text_count_basis": "统计正文、卷册辑、章节、分页及生成的卷首 TXT，包含保留的空页；不含目录说明、原有说明和卷首原件。非空及空文件另列。",
+  "character_count_basis": "上述正文 TXT 解码后去除空白字符计数，含标点及转录标记；合并全文与分段或分页并存时未做跨文件去重，不代表作品净字数。",
+  "volume_count_basis": "仅统计现存明确标卷文件中的分集与卷号组合，上下分段合为一卷；原书卷数单独记录。无明确卷次时为 null。",
+  "source_urls": [
+    "https://ss.zhizhen.com/detail_38502727e7500f26c2ddc381c058efc1501713380f7ab2cf1921b0a3ea255101fc1cf1fbb4666ae6f12cabca564ffc13afc2c4cb320fbd35ab85921100f92391796ff9800d69d636c94d69c7ec0f2fd0?&apistrclassfy=0_11_3"
+  ],
+  "source_url_basis": "原书目来源记录；尚未逐项验证其与现存正文的对应关系",
+  "responsibility_and_publication_record": "魏存成著，科学出版社",
+  "bibliographic_source_record": {
+    "表内来源F": "https://ss.zhizhen.com/detail_38502727e7500f26c2ddc381c058efc1501713380f7ab2cf1921b0a3ea255101fc1cf1fbb4666ae6f12cabca564ffc13afc2c4cb320fbd35ab85921100f92391796ff9800d69d636c94d69c7ec0f2fd0?&apistrclassfy=0_11_3",
+    "链接": [
+      "https://ss.zhizhen.com/detail_38502727e7500f26c2ddc381c058efc1501713380f7ab2cf1921b0a3ea255101fc1cf1fbb4666ae6f12cabca564ffc13afc2c4cb320fbd35ab85921100f92391796ff9800d69d636c94d69c7ec0f2fd0?&apistrclassfy=0_11_3"
+    ],
+    "作者或出版信息H": "魏存成著，科学出版社",
+    "版本或出处I": "收录于《高句丽渤海考古论集》（2015）",
+    "表内备注M": "",
+    "表内补充N": ""
+  },
+  "bibliography_locator": {
+    "工作表": "Sheet1",
+    "行号": 51,
+    "颜色RGB": "FFADD8E6",
+    "原始分类字段D": "11",
+    "原始分类字段E": "3",
+    "表内日期J": "9.14"
+  },
+  "previous_organized_on": "2026-10-24",
+  "file_manifest": [
+    {
+      "path": "正文.txt",
+      "role": "body",
+      "original_path": "正文.txt",
+      "upstream_original_path": "6514《集安高句丽大型积石墓王陵研究》/6514《集安高句丽大型积石墓王陵研究》.txt",
+      "encoding": "utf-8",
+      "newline": "LF",
+      "original_encoding": "utf-8",
+      "characters": 9044,
+      "empty": false,
+      "bytes": 26286
+    }
+  ]
+}
