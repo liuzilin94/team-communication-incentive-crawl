@@ -1,0 +1,20 @@
+{
+  "id": "008195",
+  "title": "临晋",
+  "volume_count": null,
+  "text_file_count": 26,
+  "total_characters": 129003,
+  "source_url": "https://www.shidianguji.com/book/NLG312001070975/",
+  "source": "识典古籍（shidianguji.com）",
+  "author": null,
+  "publisher": "识典古籍",
+  "edition": "在线全文",
+  "crawled_by": "刘耔琳",
+  "crawl_date": "2026-09",
+  "content_scope": "识典古籍在线正文，以及《临晋县志》光绪重印本卷一扫描件第1—78页的分篇 OCR 文本",
+  "notes": [
+    "原始 PDF 等源资料存于网盘，未随本目录上传，详见 README.md。",
+    "获取方式：识典古籍在线阅读页抓取正文",
+    "新增分篇 OCR 文本对应网盘中的《临晋县志（光绪重印本卷一）》PDF；第79页为空白页。OCR 文字仍需对照扫描原件复核。"
+  ]
+}

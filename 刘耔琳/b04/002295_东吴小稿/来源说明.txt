@@ -1,0 +1,25 @@
+来源说明
+==============================================
+书目编号：002295
+书名：《东吴小稿》
+爬取状态：已完成（GitHub 有 TXT，网盘未留源资料）
+
+【获取方式】
+图书条目与目录页抓取
+
+【来源站点 / 底本出处】
+读书网（dushu.com）
+
+【来源链接】
+- https://www.dushu.com/book/13130468/
+
+【GitHub 位置】
+分支：刘耔琳
+仓库：https://github.com/liuzilin94/team-communication-incentive-crawl/tree/liuzilin
+- 刘耔琳/002295_东吴小稿/第1部分.txt
+
+【网盘留存文件】
+- 刘耔琳pdf/刘耔琳/002295_东吴小稿/source.html
+
+【备注】
+https://annas-archive.org/md5/acb8a6652fb641f3d44713ded4b13bb1B=需登录注册：Anna's Archive电子书合集（自动化访问反爬拦截，需手动打开）；书格四库全书文渊阁本影印可备查

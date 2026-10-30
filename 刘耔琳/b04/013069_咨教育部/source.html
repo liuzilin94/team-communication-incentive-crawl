@@ -1,0 +1,1686 @@
+<!doctype html>
+<html>
+<head>
+<link href="/Public/favicon.ico" type="image/x-icon" rel="shortcut icon"/><!-- Favicon Icon -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="renderer" content="webkit">
+<meta name="author" content="http://www.fractal-technology.com">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="format-detection" content="telephone=no,email=no,adress=no">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<meta name="keywords" content="" />
+<meta name="description" content="中国第一历史档案馆 保管的明清历史档案共77个全宗，约1000余万件（册），其中明代档案3000多件，其余绝大多数为清代档案。
+馆藏档案中，汉文档案约占80%，满文档案约占20%，蒙文档案5万多件（册），还有少量其他民族文字的档案以及英、法、德、俄、日等外国文字的档案。" />
+
+<title>
+	中国第一历史档案馆</title>
+
+<link rel="stylesheet" href="/Public/static/themes1/css/vendor.css">
+<!-- inject:css -->
+<link rel="stylesheet" href="/Public/static/themes1/css/main.css">
+<!-- endinject -->
+<script src="/Public/static/themes1/js/vendor.js"></script>
+<!-- inject:js -->
+<script src="/Public/static/themes1/js/main.js"></script>
+<script src="/Public/static/common.js"></script>
+<script src="/Public/static/themes1/js/center.js"></script>
+
+<!--[if lt IE 9]>
+<script src="js/plugs/html5shiv.min.js"></script>
+<script src="js/plugs/respond.min.js"></script>
+<![endif]-->
+
+
+<script type="text/javascript">
+function logout () {
+        var params = {
+            token:''
+        }
+        $.get("/Site/Passport/logout.html",params,function (data) {
+            if (data == 1) {
+                $('#loginZRP').html('<a href="/Site/Passport/Login.html">登录</a><span>|</span><a href="https://cmaonlinestore.com.cn/PersonifyChinaEbusiness/" target="_blank">注册</a>');
+            }else{
+                alert('退出失败');
+            }
+
+        });
+    }
+
+$(function(){
+
+    $('.search-box .search-btn').click(function(){
+        var keywords =$('.search-trigger .search-txt input').val();
+        if(keywords == '' || keywords == 'Search...' || keywords == '.'  ){
+            my_alert("请输入搜索关键词"); 
+            return false;
+        }else{
+            window.location.href = "/searchs/keywords/" + encodeURI(keywords);
+        }
+
+        
+    });
+    $('.search-trigger .search-txt input').keypress(function(e){
+        var keycode = (e.keyCode ? e.keyCode : e.which)
+        if(keycode == 13){
+            var keywords =$('.search-trigger .search-txt input').val();
+            if(keywords == '' || keywords == 'Search...' || keywords == '.'  ){
+                my_alert("请输入搜索关键词"); 
+                return false;
+            }else{
+                window.location.href = "/searchs/keywords/" + encodeURI(keywords);
+            }
+
+        }
+    });
+
+    $('#btnpcReport').click(function(){
+        var keywords = $("#searchpcReport").val();
+        if(keywords == '' || keywords == '点击搜索研究报告' || keywords == '.' ){
+            my_alert("请输入搜索关键词"); 
+            return false;
+        }else{
+             window.location.href = "/searchs/keywords/" + encodeURI(keywords) + '/t/report';
+        }
+
+    });
+    $('#searchpcReport').keypress(function(e){
+        var keycode = (e.keyCode ? e.keyCode : e.which)
+        if(keycode == 13){
+            var keywords = $("#searchpcReport").val();
+            if(keywords == '' || keywords == '点击搜索研究报告' || keywords == '.' || keywords == ' ' ){
+                my_alert("请输入搜索关键词"); return false;
+            }else{
+                 window.location.href = "/searchs/keywords/" + encodeURI(keywords) + '/t/report';
+            }
+        }
+    });
+});
+</script>
+
+</head>
+
+
+
+<script src="/Public/static/crypto-js/crypto-js.min.js"></script>
+<script>
+    function decode( str ) {
+        var aes = {"key":"gVnKs8eZdjKw9Ciu","iv":"fV6JO9rEmS5JF1SO"};
+        let key = CryptoJS.enc.Utf8.parse( aes.key );
+        let iv = CryptoJS.enc.Utf8.parse( aes.iv );
+        let encryptData = CryptoJS.AES.decrypt( str, key, {
+            mode    : CryptoJS.mode.CBC,
+            iv      : iv,
+            padding : CryptoJS.pad.Pkcs7
+        });
+        return encryptData.toString( CryptoJS.enc.Utf8 );
+    }
+
+    var userId          = "";
+    var uid             = "";
+    var username        = "";
+    var avatar          = "";
+    var is_auth         = "";
+    var cart_name       = "";
+    var _user_role_key  = "";
+    var title       = document.title || "";
+    var url             = "/Site/User/getUserInfo.html?" + Math.random() + "&title=" + encodeURIComponent(title);
+    var configUrl       = "/Site/Index/getWebSiteConfig.html?" + Math.random();
+
+    $.ajax({
+        type: "GET",
+        url: url,
+        data: {},
+        dataType: "json",
+        async: false,
+        success: function(data){
+            console.log(data);
+            if (data.status === 1) {
+                username       = data.data.username;
+                userId         = data.data.id;
+                uid            = data.data.id;
+                // if (data.data.custom_avatar) {
+                //     avatar         = decode( data.data.custom_avatar );
+                // } else if (data.data.avatar) {
+                //     avatar         = decode( data.data.avatar );
+                // }
+                if (data.data.custom_avatar) {
+                    avatar         = data.data.img_url;
+                }
+                is_auth         = data.data.is_auth;
+                cart_name       = decode(data.data.detail.cart_name);
+                _user_role_key  = data.data.role_key;
+            }
+        }
+    });
+
+    $.ajax({
+        type: "GET",
+        url: configUrl,
+        data: {},
+        dataType: "json",
+        async: false,
+        success: function(data){
+            if (data.status === 1) {
+                if (data.data.role_id != 1) {
+                    if (data.data.web_site_close == 1) {
+                        location.href = '/maintain.html';
+                    }
+                    $('.x-header .widget-area-edit-bg,.x-header .widget-area-edit-title').remove();
+                    $('.x-footer .widget-area-edit-bg,.x-footer .widget-area-edit-title').remove();
+                    $('.rightNav .widget-area-edit-bg,.rightNav .widget-area-edit-title').remove();
+                }
+
+                if (data.data.web_site_fugao) {
+                    // 设置页面为黑白
+                    $("html").css({
+                        "filter": "grayscale(100%)",
+                        "-webkit-filter": "grayscale(100%)",
+                        "-moz-filter": "grayscale(100%)",
+                        "-ms-filter": "grayscale(100%)",
+                        "-o-filter": "grayscale(100%)"
+                    });
+                }
+            }
+        }
+    });
+
+    $(function () {
+        $('input[name=login_intl_code],input[name=intl_code],input[name=offspring_intl_code],input[name=old_intl_code],input[name=emergency_code]').on('keyup focus', function () {
+            let _this = $(this);
+            let intl_html = '';
+            $.each($(this).parents('.select-bar').next().find('.select-item span'), function (i, v) {
+                if ($(v).text().includes(parseInt(_this.val()))) {
+                    let parentHtml = $(v).parent().html();
+                    let spanHtml = '(<span>' + $(v).text() + '</span>)';
+                    let selectHtml = parentHtml.replace(spanHtml, '');
+                    intl_html += '<div class="select-item">' + selectHtml + spanHtml + '</div>';
+                }
+            })
+            $('.select-query .select-opts .select-slick').html(intl_html)
+        });
+    })
+
+</script>
+
+
+<body>
+    <style>
+    .empty-data {
+        width: 100%;
+        font-size: 25px;
+        padding-top: 8%;
+        padding-bottom: 8%;
+        text-align: center;
+    }
+    </style>
+        <style>
+#myalert{ display:none; }
+.recruit .block1{ height: auto}
+.layer{background:url(/Public/static/themes1/image/con_mask.png);;position:fixed;left:0;right: 0;top:0;bottom: 0;width:100%;height:100%;z-index: 1000000;}
+.layer .myalert{padding:30px;background:#fff;width:240px;position:absolute;margin-top:-100px;top:50%;left:50%;margin-left:-120px;text-align:center; z-index: 100000}
+.layer .guan{background:url(/Public/static/themes1/image/clos.png) no-repeat center; display:block;width:23px;height:23px;position:absolute;top:10px;right:10px;}
+.layer .text{padding-bottom:15px;font-size:16px;color:#474747;}
+.layer .button{background:none;border:1px solid #bbbbbb;width:91px;height:29px;font:14px/100% "Microsoft YaHei", Arial, Tahoma, Helvetica, sans-serif;color: #707070;}
+</style>
+<div id="myalert" class="layer">
+    <div class="myalert">
+        <a href="javascript:;" onclick="myalert_hide();" class="guan"></a>
+        <div class="text">请输入关键字</div>
+                    <a><button class="button" id="my_ok" style="cursor:pointer ;opacity: 1;transform: translateY(0px);">确定</button></a>    </div>
+</div>
+<div class="pop-mod nw_warp" id="myconfirm">
+    <div class="pop-panel">
+        <div class="pop-dialog">
+            <div class="pop-cont">
+                <div class="nw_tit">确认删除？</div>
+                <div class="make_ebut">
+                    <button id="confirm_sure" class="make_ebut1" type="button">确定</button>
+                    <button id="confirm_cancel" class="make_ebut2" type="button" pop-hide="">取消</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+function my_alert(text,callback,hidebutton,suretext) {
+    if(hidebutton){
+        $('#my_ok,.guan').hide();
+    }else{
+        $('#my_ok,.guan').show();
+        if(suretext){
+            $('#my_ok').text(suretext);
+        }
+    }
+    $('#myalert').show();
+    $('#myalert .myalert div').html(text);
+
+    $('#my_ok').click( function() {
+        $('#myalert').hide();
+
+        if (typeof(callback) == 'function') {
+            callback();
+            return false;
+        }
+    });
+}
+
+function myalert_hide(){
+    $('#myalert').hide();
+}
+
+function my_confirm(text,callback) {
+    $('#myconfirm').addClass('x-show');
+    $('#myconfirm .pop-cont div.nw_tit').html(text);
+    $('#confirm_sure').one('click',function() {
+        $('#confirm_cancel').unbind()
+        $('#myconfirm').removeClass('x-show');
+        if (typeof(callback) == 'function') {
+            callback();
+            return false;
+        }
+    });
+    $('#confirm_cancel').one('click', function() {
+        $('#confirm_sure').unbind()
+        $('#myconfirm').removeClass('x-show');
+    });
+}
+
+</script>
+
+    <!-- x-show -->
+        <div class="pop-mod pop-demo-text k_index_tk_alert">
+            <div class="pop-panel" pop-hide>
+                <div class="pop-dialog">
+                    <div class="pop-close xicon icon-close"></div>
+                    <div class="pop-cont">
+                        <div class="tit1 k_title"></div>
+                        <div class="desc scrollbox">
+                            <div class="pBox k_content">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script>
+            $(function(){
+
+                $.post( "/index_article_detail.html?" + Math.random(), {}, function( data ) {
+                    var showDialog = false;
+                    var storage = sessionStorage
+                    var storageValue = ''
+                    var lastNotice = storage.getItem("alert_close") || '';
+                    if( data.status == 1 ) {
+                        $(".k_index_tk_alert .k_title").html( data.data.detail.title );
+                        $(".k_index_tk_alert .k_content").html( data.data.detail.content );
+                        storageValue = data.data.detail.id + '_' + data.data.modified
+                        if( lastNotice != storageValue ) {
+                            showDialog = true;
+                        }
+                    }
+                    $('.icon-close').click(function(){
+                        if(storageValue){
+                            storage.setItem("alert_close", storageValue);
+                        }
+                    })
+                    if( showDialog ) {
+                        $('.pop-demo-text').addClass('x-show');
+                        $('.pop-demo-text .desc').mCustomScrollbar();
+                    }
+                    
+                });
+            })
+        </script>    <div class="sidebar-mod">
+        <div class="sidebar-item needLogin verification_member"><a  href="/reservation/consult.html" target="_blank" class="sidebar-item"  >
+    <div class="sidebar-cont">预约<br />
+查档</div>
+</a></div>                <div class="sidebar-item"><a  href="/detail/8646.html" class="sidebar-item"  >
+    <div class="sidebar-cont">期刊<br />
+投稿</div>
+</a></div>    <div class="sidebar-item needLogin verification_member"><a  href="/reservation/action_list.html" class="sidebar-item"  >
+    <div class="sidebar-cont">活动<br />
+报名</div>
+</a></div>
+
+    <div class="sidebar-item needLogin"><a  href="/search_entry.html" class="sidebar-item"  >
+    <div class="sidebar-cont">查阅<br />
+检索</div>
+</a></div>    <div class="sidebar-item needLogin suds-mod"><div class="sidebar-cont">官方<br />
+微信</div>
+<div class="suds-pop at-l">
+    <div class="code"><img src="https://cos.fhac.com.cn/Uploads/Picture/2021/06/22/s60d17c6bc8b33.jpg" alt="" title=""></div>
+</div></div>    <div class="sidebar-item sidebar-topping 11211">
+        <div class="sidebar-cont"></div>
+    </div>
+</div>
+
+<script>
+	$(function(){
+		$('a.needLogin').click(function(e) {
+			if (!userId) {
+				my_alert('请登录后访问', function() {
+					window.location.href = "/member/login.html";
+				});
+
+				return false;
+			}
+            var obj = $(this);
+            if($(this).parent().hasClass('sidebar-item')){
+                if($(this).parent().hasClass('verification_member')){
+                    if ( e && e.preventDefault ) {
+                        e.preventDefault();
+                    }else{
+                        window.event.returnValue = false;
+                    }
+                    // 检测今年是否登记
+                    $.post( "/is/register.html", {}, function ( t ) {
+                        if( t.status == 403 ) {
+                            my_alert( t.message, function () {
+                                window.location.href = t.url;
+                            });
+                            return false;
+                        }else{
+                            window.location.href = obj.attr('href');
+                        }
+                    });
+                }
+            }else{
+                if($(this).parents("div.verification_member").hasClass('verification_member')){
+                    if ( e && e.preventDefault ) {
+                        e.preventDefault();
+                    }else{
+                        window.event.returnValue = false;
+                    }
+                    // 检测今年是否登记
+                    $.post( "/is/register.html", {}, function ( t ) {
+                        if( t.status == 403 ) {
+                            my_alert( t.message, function () {
+                                window.location.href = t.url;
+                            });
+                            return false;
+                        }else{
+                            window.location.href = obj.attr('href');
+                        }
+                    });
+                }
+            }
+		});
+
+	});
+</script>
+
+    <div class="x-layout">
+
+        <div class="x-header bb">
+    <div class="top">
+        <div class="box">
+            <div class="tools-mod l"><div class="tools-item share-box">
+    <div class="funs funs-islogin" style="display: none;">
+        <div href="#" class="share-item" style="border: 0;"><a href="/member/user/center.html">
+            <img src="/Public/static/themes1/image/icon7.png" title="" alt="" width="36px" height="36px" class="share-tx avatar-img">
+        </a></div>
+        <div class="arr">
+            <a class="is_auth_username" href="/member/user/center.html">
+            </a>
+            <a class="username" href="/member/user/center.html">
+            </a>
+        </div>
+        <div class="f_link">
+            <div class="f-tit">
+                <!--<a class="f-link" href="/pe/check.html">我的预约</a>-->
+                <a class="f-link" href="/reservation/list.html">我的预约</a>
+            </div>
+            <div class="f-tit">
+                <a class="f-link" href="/member/myfavorite.html">我的收藏</a>
+            </div>
+            <div class="f-tit">
+                <a class="f-link" href="/fulltext/searchs.html">我的查阅</a>
+            </div>
+            <div class="f-tit">
+                <a class="f-link" href="/member/logout.html">退出</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="funs funs-notlogin" style="display: none;">
+        <a href="/member/login.html" class="share-item"><img src="/Public/static/themes1/image/icon2.png" title="" alt=""></a>
+        <a href="/member/login.html">登录</a>
+    </div>
+
+
+    <a class="share-item suds-mod xicon icon-wx" href="javascript:;"  title="关注公众号">
+        <div class="suds-pop at-b">
+            <div class="code"><img src="https://cos.fhac.com.cn/Uploads/Picture/2021/06/22/s60d17c6bc8b33.jpg" title="" alt=""></div>
+        </div>
+    </a>
+    <!-- <a href="#" class="share-item xicon icon-wb" title="分享到新浪微博"></a> -->
+    <a class="share-item suds-mod xicon icon-phone" href="javascript:;" title="进入小程序">
+        <div class="suds-pop at-b">
+            <div class="code"><img src="https://cos.fhac.com.cn/Uploads/Picture/2022/06/01/s62967541b2a4d.png" title="" alt=""></div>
+        </div>
+    </a>
+</div>
+<style>
+    .share-box .code{
+        width: 150px;
+        height: 150px;
+    }
+</style></div>            <div class="tools-mod r"><!-- <a class="tools-item xicon"  href="/index.html"><span class="lang">中</span></a>
+<a class="tools-item xicon"  href="/en/index.html"><span class="lang">EN</span></a> -->
+<div class="tools-item search-mod">
+    <div class="search-tap xicon icon-search"></div>
+    <div class="search-box">
+        <div class="search-txt"><input type="text" class="search-input" placeholder="Search..." id="search_val"  ></div>
+        <div class="search-btn"><button class="search-submit xicon icon-search" type="button" id="btn_search"></button></div>
+    </div>
+</div>
+<script type="text/javascript">
+$(function(){
+	$('#btn_search').click(function() {
+	    var value = $('#search_val').val().trim();
+	    if (value == '' || value == 'Search...' || value == '请输入关键词') {
+	        my_alert("请输入关键词");
+	        return false;
+	    }else{
+			window.location.href = "/searchs/keywords/" + value;
+			return false;
+		}
+	    
+	});
+	// 回车搜索
+	$("#search_val").keyup(function(e) {
+	    if (e.keyCode === 13) {
+	        $('#btn_search').click();
+	    }
+	});
+})
+
+</script></div>        </div>
+    </div>
+    <div class="btm">
+        <div class="box">
+            <div class="menu-mod">
+                <div class="logo"><a href="/"><img src="https://cos.fhac.com.cn/Uploads/Picture/2021/08/02/s6107b43b4b7c2.png" title="" alt="" class="i"></a></div>                                <div class="menu-btn"><span class="line"></span></div>
+            </div>
+            <div class="nav-mod">
+                <div class="search-box m-show">
+                    <div class="search-txt"><input type="text" class="search-input kw" placeholder="Search..." id="search_val2"></div>
+                    <button class="search-submit xicon icon-search" type="submit" id="btn_search2"></button>
+                </div>
+                <div class="nav-box nav-lv1"><div class="nav-item nav-lv1-item " >
+		    <div class="nav-tit nav-lv1-tit"><a class="nav-link nav-lv1-link" href="/">首页</a>
+		    			    </div>
+		    		</div><div class="nav-item nav-lv1-item " >
+		    <div class="nav-tit nav-lv1-tit"><a class="nav-link nav-lv1-link" href="/about.html">馆务</a>
+		    	<div class="arr xicon icon-down"></div>		    </div>
+		    <div class="nav-lv nav-lv2">
+			        <div class="nav-grp">
+			            <div class="ico_bg"><img src="/Uploads/Picture/2021/03/19/s60544a9f47c10.png" title="" alt=""></div>
+			            <div class="nav-zindex">
+							<div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/about.html#about2">本馆简介</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/about.html#about3">馆长致辞</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/about.html#about4">领导班子</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/about.html#about5">机构设置</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/about.html#about6">党建工作</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/about.html#about7">大事记</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/about.html#about8">法规标准</a></div>
+				                </div>			            </div>
+			        </div>
+			    </div>		</div><div class="nav-item nav-lv1-item " >
+		    <div class="nav-tit nav-lv1-tit"><a class="nav-link nav-lv1-link" href="/service.html">服务</a>
+		    	<div class="arr xicon icon-down"></div>		    </div>
+		    <div class="nav-lv nav-lv2">
+			        <div class="nav-grp">
+			            <div class="ico_bg"><img src="/Uploads/Picture/2021/03/19/s60544a9f47c10.png" title="" alt=""></div>
+			            <div class="nav-zindex">
+							<div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/service.html#service1">预约服务</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/service_list.html">相关服务</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/service.html#service3">交通路线</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/service.html#service4">导览服务</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/service.html#service5">咨询留言</a></div>
+				                </div>			            </div>
+			        </div>
+			    </div>		</div><div class="nav-item nav-lv1-item  chayue-nav" >
+		    <div class="nav-tit nav-lv1-tit"><a class="nav-link nav-lv1-link" href="/consult.html">查阅</a>
+		    	<div class="arr xicon icon-down"></div>		    </div>
+		    <div class="nav-lv nav-lv2">
+			        <div class="nav-grp">
+			            <div class="ico_bg"><img src="/Uploads/Picture/2021/03/19/s60544a9f47c10.png" title="" alt=""></div>
+			            <div class="nav-zindex">
+							<div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/consult.html#check1">馆藏档案介绍</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/consult.html#check1">线上资源介绍</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/consult.html">资源检索</a></div>
+				                </div>			            </div>
+			        </div>
+			    </div>		</div>	<div class="nav-item w-box"></div><div class="nav-item nav-lv1-item " >
+		    <div class="nav-tit nav-lv1-tit"><a class="nav-link nav-lv1-link" href="/exhibition_preview.html">展览</a>
+		    	<div class="arr xicon icon-down"></div>		    </div>
+		    <div class="nav-lv nav-lv2">
+			        <div class="nav-grp">
+			            <div class="ico_bg"><img src="/Uploads/Picture/2021/03/19/s60544a9f47c10.png" title="" alt=""></div>
+			            <div class="nav-zindex">
+							<div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/exhibition_preview.html#exhibition_preview2">展览预告</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/exhibition_preview.html#exhibition_preview3">常设展览</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/exhibition_preview.html#exhibition_preview4">专题展览</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/exhibition_preview.html#exhibition_preview5">珍品展台</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/online_exhibition.html">网上展厅</a></div>
+				                </div>			            </div>
+			        </div>
+			    </div>		</div><div class="nav-item nav-lv1-item " >
+		    <div class="nav-tit nav-lv1-tit"><a class="nav-link nav-lv1-link" href="/research/research.html">研究</a>
+		    	<div class="arr xicon icon-down"></div>		    </div>
+		    <div class="nav-lv nav-lv2">
+			        <div class="nav-grp">
+			            <div class="ico_bg"><img src="/Uploads/Picture/2021/03/19/s60544a9f47c10.png" title="" alt=""></div>
+			            <div class="nav-zindex">
+							<div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/research/research.html#research2">学术研究</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/research/research.html#research3">专家论坛</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/research/research.html#research4">国际交流</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/research/research.html#research5">项目合作</a></div>
+				                </div>			            </div>
+			        </div>
+			    </div>		</div><div class="nav-item nav-lv1-item " >
+		    <div class="nav-tit nav-lv1-tit"><a class="nav-link nav-lv1-link" href="/archive_story.html">社教</a>
+		    	<div class="arr xicon icon-down"></div>		    </div>
+		    <div class="nav-lv nav-lv2">
+			        <div class="nav-grp">
+			            <div class="ico_bg"><img src="/Uploads/Picture/2021/03/19/s60544a9f47c10.png" title="" alt=""></div>
+			            <div class="nav-zindex">
+							<div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/archive_story.html">历史记忆</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/social_document.html">知识讲堂</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/social_education/fileprotection.html">档案保护</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/reservation/action_list.html">最新活动</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/social/edaution.html">教育基地</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/social_education/video.html">视频点播</a></div>
+				                </div>			            </div>
+			        </div>
+			    </div>		</div><div class="nav-item nav-lv1-item " >
+		    <div class="nav-tit nav-lv1-tit"><a class="nav-link nav-lv1-link" href="/cultural_creation.html">文创</a>
+		    	<div class="arr xicon icon-down"></div>		    </div>
+		    <div class="nav-lv nav-lv2">
+			        <div class="nav-grp">
+			            <div class="ico_bg"><img src="/Uploads/Picture/2021/03/19/s60544a9f47c10.png" title="" alt=""></div>
+			            <div class="nav-zindex">
+							<div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/cultural_creation.html#product_show2">文创展示</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/cultural_creation.html#product_show3">壁纸下载</a></div>
+				                </div><div class="nav-item nav-lv2-item ">
+				                    <div class="nav-tit nav-lv2-tit"><a class="nav-link nav-lv2-link" href="/cultural_creation.html#product_show4">文创合作</a></div>
+				                </div>			            </div>
+			        </div>
+			    </div>		</div>	<script type="text/javascript">
+$(function(){
+	var url  = window.location.pathname,
+		curent_url = "",
+		parent_url = "",
+	 	current_id = "",
+	 	current_parent_id = "",
+	 	current_parents_id = "",
+	 	url_id = window.location.hash;
+	var IsIndexs = "1";
+	if(IsIndexs){
+		$('.nav-box.nav-lv1 .nav-item.nav-lv1-item').eq(0).addClass('cur').siblings().removeClass('cur');
+
+	}else{ 
+		if(current_parent_id == 20 ){
+			$('.nav-box.nav-lv1 .nav-item.nav-lv1-item').eq(2).addClass('cur').siblings().removeClass('cur');
+	        $('.nav-lv1-item').eq(2).find('.nav-lv2-item').eq(0).addClass('cur').siblings().removeClass('cur')
+		}
+		if(current_parent_id == 101 || current_parent_id == 112){
+			$('.nav-box.nav-lv1 .nav-item.nav-lv1-item').eq(0).addClass('cur').siblings().removeClass('cur');
+		}
+		if(current_parent_id == 4 ){
+			$('.nav-box.nav-lv1 .nav-item.nav-lv1-item').eq(3).addClass('cur').siblings().removeClass('cur');
+		}
+		$('.nav-box.nav-lv1 .nav-item.nav-lv1-item').each(function(k,v){
+			var  _this = $(this);
+			var first_url = _this.find('.nav-link.nav-lv1-link').attr('href');
+			if( first_url.indexOf( url) > -1){
+				_this.addClass('cur').siblings().removeClass('cur');
+			}
+			_this.find('.nav-lv.nav-lv2 .nav-item.nav-lv2-item').each(function(i,o){
+				var second_url = $(this).find('a').attr('href');
+				if(second_url.indexOf(url)  > -1 ){
+					$(this).find('a').addClass('cur').siblings().removeClass('cur');
+					$(this).parents('.nav-item.nav-lv1-item').addClass('cur').siblings().removeClass('cur');
+				}
+
+			})
+			if(_this.find('.nav-item.nav-lv2-item').hasClass('cur')){
+				_this.addClass('cur').siblings().removeClass('cur');
+			}
+			// _this.find('.nav-item.nav-lv2-item a ').on('click',function(){
+			// 	 url_id = $(this).attr('href').split('#')[1];
+			// })
+
+		})
+		
+		if( current_parent_id == 2 || current_parents_id == 2){
+	        $('.nav-lv1-item').eq(1).addClass('cur').siblings().removeClass('cur');
+	    }
+	    if(( current_parent_id == 6 || current_parents_id == 6 ) && current_id != 41 && current_id != 42 && current_id != 43 && current_parent_id != 44 && current_parent_id != 47 && current_parent_id != 48 ){
+	        $('.nav-lv1-item').eq(5).addClass('cur').siblings().removeClass('cur');
+	        // .find('.nav-lv2-item::contains()').addClass('cur').siblings().removeClass('cur')
+	    }else if(current_parent_id == 73 || current_id == 41 || current_id == 42 || current_id == 43){
+	        $('.nav-lv1-item').eq(5).addClass('cur').siblings().removeClass('cur');
+	        $('.nav-lv1-item').eq(5).find('.nav-lv2-item').eq(0).addClass('cur').siblings().removeClass('cur')
+	    }else if(current_parent_id == 44){
+	    	$('.nav-lv1-item').eq(5).addClass('cur').siblings().removeClass('cur');
+	        $('.nav-lv1-item').eq(5).find('.nav-lv2-item').eq(1).addClass('cur').siblings().removeClass('cur')
+	    }else if(current_parent_id == 47){
+	    	$('.nav-lv1-item').eq(5).addClass('cur').siblings().removeClass('cur');
+	        $('.nav-lv1-item').eq(5).find('.nav-lv2-item').eq(2).addClass('cur').siblings().removeClass('cur')
+	    }else if(current_parent_id == 48){
+	    	$('.nav-lv1-item').eq(5).addClass('cur').siblings().removeClass('cur');
+	        $('.nav-lv1-item').eq(5).find('.nav-lv2-item').eq(3).addClass('cur').siblings().removeClass('cur')
+	    }else if(current_parent_id == 5){
+			$('.nav-lv1-item').eq(4).addClass('cur').siblings().removeClass('cur');
+			if($('.bread-mod').find('.cur').text() != '正文'){
+				$('.nav-lv1-item').eq(4).find(".nav-lv2-item .nav-lv2-link:contains('" + $('.bread-mod').find('.cur').text() + "')").parents(".nav-lv2-item").addClass('cur').siblings().removeClass('cur');
+			}else{
+				$('.nav-lv1-item').eq(4).find(".nav-lv2-item .nav-lv2-link:contains('" + $('.bread-mod').find('.cur').prev().text() + "')").parents(".nav-lv2-item").addClass('cur').siblings().removeClass('cur');
+			}
+	    }
+		if(current_parents_id == 7){
+	        $('.nav-lv1-item').eq(6).addClass('cur').siblings().removeClass('cur');
+			// if(  current_parent_id == 62){
+			// 	$('.nav-lv1-item').eq(6).addClass('cur').siblings().removeClass('cur');
+			// 	$('.nav-lv1-item').eq(6).find('.nav-lv2-item').eq(2).addClass('cur').siblings().removeClass('cur');
+	
+			// }
+			// if(  current_parent_id == 57){
+			// 	$('.nav-lv1-item').eq(6).find('.nav-lv2-item').eq(1).addClass('cur').siblings().removeClass('cur');
+			// }
+			$('.nav-lv1-item').eq(6).find(".nav-lv2-item .nav-lv2-link:contains('" + $('.resr_2.arch_s2 .tracker-box .tracker-item.link_a.cur').text() + "')").parents(".nav-lv2-item").addClass('cur').siblings().removeClass('cur');
+		}
+		if(current_parent_id == 8){
+	        $('.nav-lv1-item').eq(7).addClass('cur').siblings().removeClass('cur');
+			$('.nav-lv1-item').eq(7).find(".nav-lv2-item .nav-lv2-link:contains('" + $('.bread-mod.w .x-wrap .cur').text() + "')").parents(".nav-lv2-item").addClass('cur').siblings().removeClass('cur');
+		}
+	     if(  current_parent_id == 17 ){
+	        $('.nav-lv1-item').eq(2).addClass('cur').siblings().removeClass('cur');
+	        $('.nav-lv1-item').eq(2).find('.nav-lv2-item').eq(0).addClass('cur').siblings().removeClass('cur');
+
+	    }
+	    if(  current_parent_id == 3  || current_parent_id == 17){
+	        $('.nav-lv1-item').eq(2).addClass('cur').siblings().removeClass('cur');
+
+	    }
+	    if( current_parent_id == 128){
+	        $('.nav-lv1-item').eq(2).addClass('cur').siblings().removeClass('cur');
+	        $('.nav-lv1-item').eq(2).find('.nav-lv2-item').eq(4).addClass('cur').siblings().removeClass('cur');
+	    }
+	   
+	    if( current_parent_id == 10 ){
+	        $('.nav-lv1-item').eq(1).find('.nav-lv2-item').eq(4).addClass('cur').siblings().removeClass('cur');
+	    }
+	    if( current_parent_id == 14 ){
+	        $('.nav-lv1-item').eq(1).find('.nav-lv2-item').eq(5).addClass('cur').siblings().removeClass('cur');
+	    }
+	    if( current_id == 16 ){
+	        $('.nav-lv1-item').eq(1).find('.nav-lv2-item').eq(6).addClass('cur').siblings().removeClass('cur');
+	    }
+		if(url_id !=''){
+			$('.nav-item.nav-lv1-item a').each(function(){
+				var lasturl = $(this).attr('href');
+				if(lasturl.indexOf(url_id) > -1){
+					$(this).parents('.nav-item.nav-lv2-item').addClass('cur').siblings().removeClass('cur');
+				}
+			})
+		}
+		$('.nav-item.nav-lv1-item .nav-lv.nav-lv2 a').on('click',function(){
+			$(this).parents('.nav-item.nav-lv2-item').addClass('cur').siblings().removeClass('cur');
+		})
+		if( current_id == 116 ){
+	        $('.nav-lv1-item').eq(3).find('.nav-lv2-item').eq(2).addClass('cur').siblings().removeClass('cur');
+	    }
+	}
+	
+
+})
+</script></div>
+                <div class="share-box m-show"><a class="share-item suds-mod xicon icon-wx" href="javascript:;"  title="关注公众号">
+    <div class="suds-pop at-t">
+        <div class="code"><img src="https://cos.fhac.com.cn/Uploads/Picture/2021/06/22/s60d17c6bc8b33.jpg" title="" alt=""></div>
+    </div>
+</a>
+<!-- <a href="javascript:;" class="share-item xicon icon-wb" title="分享到新浪微博"></a> -->
+<a class="share-item suds-mod xicon icon-phone" href="javascript:;" title="进入小程序">
+    <div class="suds-pop at-t">
+        <div class="code"><img src="https://cos.fhac.com.cn/Uploads/Picture/2022/06/01/s62967541b2a4d.png" title="" alt=""></div>
+    </div>
+</a></div>            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $(function(){
+        $('#btn_search2').click(function() {
+            var value = $('#search_val2').val().trim();
+            if (value == '' || value == 'Search...' || value == '请输入关键词') {
+                my_alert("请输入关键词");
+                return false;
+            }else{
+                window.location.href = "/searchs/keywords/" + value;
+                return false;
+            }
+
+        });
+        // 回车搜索
+        $("#search_val2").keyup(function(e) {
+            if (e.keyCode === 13) {
+                $('#btn_search2').click();
+            }
+        });
+    })
+
+    </script>
+
+        <!-- 更新页面顶部用户登录状态 -->
+        <script>
+    if (userId) {
+        // 已登录
+        $('.funs-islogin').show();
+        $('.funs-notlogin').hide();
+
+        // 头像
+        $('.avatar-img').attr('src', avatar);
+
+        if (is_auth === 1) {
+            username = cart_name;
+            $('.is_auth_username').html(username + "<i></i>");
+        } else {
+            $('.username').html(username);
+        }
+    } else {
+        // 未登录
+        $('.funs-islogin').hide();
+        $('.funs-notlogin').show();
+    }
+</script>
+
+
+
+        <div class="x-container">
+    <div class="home1">
+<div class="frame">
+                <div class="child" style="background-image:url(/Uploads/Picture/2025/10/30/s69033ecd66e0f.jpg);">
+                <div class="m-show phone_banner" style="background-image:url(/Uploads/Picture/2025/10/30/s69033f8f81113.jpg);"></div>
+                <a  href="/hundred/index.html" target="_blank"   ></a>
+            </div>            <div class="child" style="background-image:url(/Uploads/Picture/2025/10/11/s68e9fca55e0ac.jpg);">
+                <div class="m-show phone_banner" style="background-image:url(/Uploads/Picture/2025/10/11/s68e9fcb373abd.jpg);"></div>
+                <a  href="/activity/detail/2225.html" target="_blank"   ></a>
+            </div>            <div class="child" style="background-image:url(/Uploads/Picture/2025/10/11/s68ea02259a722.jpg);">
+                <div class="m-show phone_banner" style="background-image:url(/Uploads/Picture/2025/10/11/s68ea02340a78c.jpg);"></div>
+                <a  href="/activity/detail/8500.html" target="_blank"   ></a>
+            </div>            <div class="child" style="background-image:url(https://cos.fhac.com.cn/Uploads/Picture/2021/07/09/s60e7f115e6495.jpg);">
+                <div class="m-show phone_banner" style="background-image:url(https://cos.fhac.com.cn/Uploads/Picture/2022/06/01/s62973547ea4d7.jpg);"></div>
+                <a  href="/activity/detail/2227.html" target="_blank"   ></a>
+            </div>            <div class="child" style="background-image:url(https://cos.fhac.com.cn/Uploads/Picture/2022/07/26/s62df3a1b563aa.jpg);">
+                <div class="m-show phone_banner" style="background-image:url(https://cos.fhac.com.cn/Uploads/Picture/2022/07/26/s62df33ca3b88b.jpg);"></div>
+                <a  href="/activity/detail/2228.html" target="_blank"   ></a>
+            </div></div>
+<div class="navs">
+        <div class="li"></div><div class="li"></div><div class="li"></div><div class="li"></div><div class="li"></div>    </div></div>    <div class="mlr120">
+        <div class="home2">
+            <div class="cont">
+                <div class="r k_home2_r" style="border-color: #5c3937;background-image: url(/Public/static/themes1/image/home2.jpg);"><!--
+    <div class="arr" style="background-image: url(/Public/static/themes1/image/arr5.png);"></div>
+    <div class="padd">
+        <div class="t1">开放时间</div>
+        <div class="t2"><div class="s1">8:30 ~</div><div class="s1">16:30</div></div>
+        <div class="t3">
+            <div class="s1">16:00停止入馆，16:30闭馆</div>
+            <div class="s1">周末及国家法定节假日闭馆</div>
+        </div>
+    </div>
+-->
+<div class="box">
+    <div class="arr" style="background-image: url(/Public/static/themes1/image/arr5.png);"></div>
+    <div class="padd">
+        <div class="t1">开放时间</div>
+        <div class="t2"><div class="s1">8:30 ~</div><div class="s1">16:30</div></div>
+        <div class="t3">
+            <div class="s1">16:00停止入馆，16:30闭馆</div>
+            <div class="s1">周末及国家法定节假日闭馆</div>
+        </div>
+    </div>
+</div>
+<div class="box_no">
+    <div class="arr" style="background-image: url(/Public/static/themes1/image/arr5.png);"></div>
+        <div class="padd">
+        <div class="t1">开放时间</div>
+        <div class="ts">
+            <div class="week">周一～周五</div>
+            <div class="times">
+                <div class="s1">8:30～16:30</div>
+                <div class="p1">16:00停止入馆，16:30闭馆</div>            </div>
+        </div>
+        <div class="ts">
+            <div class="week">周六</div>
+            <div class="times">
+                <div class="s1">9:00～17:00</div>
+                <div class="p1">16:30停止入馆，17:00闭馆</div><div class="p1">周日及国家法定节日闭馆</div>            </div>
+        </div>
+    </div>
+</div>
+<script>
+        $(function () {
+            $('.k_home2_r').addClass('show');
+        })
+    </script></div>                <div class="l">
+                    <div class="item item1" style="border-color: #825a2d;color: #825a2d;"><div class="arr" style="background-image: url(/Public/static/themes1/image/arr1.png);"></div>
+<div class="bg" style="background-image: url(/Public/static/themes1/image/home1.png);">
+    <a  href="/reservation/consult.html"  >
+        <div class="ico"><img data-src="https://cos.fhac.com.cn/Uploads/Picture/2021/04/27/s608806f2b7472.png" class="lazyload" title="" alt=""></div>
+        <div class="t1">预约查档</div>
+    </a>
+</div></div>                    <div class="item item2" style="border-color: #cea867;color: #cea867;"><div class="arr" style="background-image: url(/Public/static/themes1/image/arr2.png);"></div>
+<div class="bg" style="background-image: url(/Public/static/themes1/image/home2.png);">
+    <a  href="/reservation/action_list.html" target="_blank"  >
+        <div class="ico"><img data-src="/Uploads/Picture/2024/12/31/s67736318db942.png" class="lazyload"  title="" alt=""></div>
+        <div class="t1">活动报名</div>
+    </a>
+</div></div>                    <div class="item item3" style="border-color: #8f3d2c;color: #8f3d2c;;"><div class="arr" style="background-image: url(/Public/static/themes1/image/arr3.png);"></div>
+<div class="bg" style="background-image: url(/Public/static/themes1/image/home3.png);">
+    <a  href="/service.html#service4" target="_blank"  >
+        <div class="ico"><img data-src="/Uploads/Picture/2024/12/31/s6773630db2360.png" class="lazyload"  title="" alt=""></div>
+        <div class="t1">导览服务</div>
+    </a>
+</div></div>                    <div class="item item4" style="border-color: #a7c4c6;color: #a7c4c6;"><div class="arr" style="background-image: url(/Public/static/themes1/image/arr4.png);"></div>
+<div class="bg" style="background-image: url(/Public/static/themes1/image/home4.png);">
+    <a  href="/service_list.html"  >
+        <div class="ico"><img data-src="https://cos.fhac.com.cn/Uploads/Picture/2021/04/27/s6088073c1efb1.png" class="lazyload"  title="" alt=""></div>
+        <div class="t1">相关服务</div>
+    </a>
+</div></div>                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="mlr120">
+        <div class="home3">
+            <div class="cont">
+                <div class="item item1" style="border-color: #a7c4c6;color: #a7c4c6;"><a  class="posi"  style="background-image: url(https://cos.fhac.com.cn/Uploads/Picture/2021/04/30/608b9d60ed09d_1881_1608_100_0.jpg);cursor:inherit" ></a></div>                <div class="item item2" style="background-color: #cea867;">
+                    <div class="x-title1"><div class="xt1">通知公告</div>
+<a  href="/home_tzgg.html" class="xmore"><div class="xbg1"></div><div class="xs1">更多内容</div><div class="xbg2"></div></a></div>                    <div class="list2"><div class="line">
+        <a  href="/detail/8639.html" target="_blank">
+            <div class="t1">关于取消个人参观预约的公告</div>
+            <div class="t2">2024.12.31</div>
+        </a>
+    </div><div class="line">
+        <a  href="/detail/8688.html" target="_blank">
+            <div class="t1">2026年中秋节闭馆公告</div>
+            <div class="t2">2026.09.24</div>
+        </a>
+    </div><div class="line">
+        <a  href="/detail/8708.html" target="_blank">
+            <div class="t1">明清档案装具陈列恢复开放公告</div>
+            <div class="t2">2026.09.21</div>
+        </a>
+    </div><div class="line">
+        <a  href="/detail/8685.html" target="_blank">
+            <div class="t1">明清档案装具陈列临时闭展公告</div>
+            <div class="t2">2026.09.11</div>
+        </a>
+    </div></div>                </div>
+                <div class="item item3" style="background-color: #8f3d2c;">
+                     <div class="x-title1"><div class="xt1">工作动态</div>
+<a  href="/home_zgdt.html" class="xmore"><div class="xbg1"></div><div class="xs1">更多内容</div><div class="xbg2"></div></a></div>                    <div class="list2"><div class="line">
+        <a  href="/detail/8687.html" target="_blank">
+            <div class="t1">“皇史宬大讲堂”丨四大发现中的常青树...</div>
+            <div class="t2">2026.09.18</div>
+        </a>
+    </div><div class="line">
+        <a  href="/detail/8683.html" target="_blank">
+            <div class="t1">“皇史宬大讲堂”丨甲骨文所见殷商文明与中...</div>
+            <div class="t2">2026.08.26</div>
+        </a>
+    </div><div class="line">
+        <a  href="/detail/8681.html" target="_blank">
+            <div class="t1">“皇史宬大讲堂”丨满文档案与清代民族交往...</div>
+            <div class="t2">2026.07.23</div>
+        </a>
+    </div><div class="line">
+        <a  href="/detail/8678.html" target="_blank">
+            <div class="t1">“皇史宬大讲堂”丨信息社会与信息素养</div>
+            <div class="t2">2026.06.24</div>
+        </a>
+    </div></div>                </div>
+        </div>
+    </div>
+</div>
+
+<div class="mlr120">
+    <div class="home4"><a  class="p-show" style="cursor:inherit;"> </a>
+<a  class="m-show"><img data-src="/Public/static/images/default.png" class="lazyload"  title="" alt=""></a>
+    <div id="remove_home4" style="display: none;"></div>
+    <script>
+        $(function(){
+            var title = "#remove_" + "home4";
+            $(title).parents('.mlr120').find('.home4').css('padding-top','0px');
+            $(title).prevAll().hide();
+        })
+    </script>
+</div></div>
+
+<div class="mlr120">
+    <div class="home5" style="background-image: url(/Public/static/themes1/image/home5.jpg);">
+        <div class="cont">
+            <div class="t1">资源介绍</div>            <div class="t2">中国第一历史档案馆馆藏明清档案共有77个全宗，截至目前，线上已开放内阁、军机处、宫中、内务府、宗人府、宪政编查馆、修订法律馆、刑部-法部、民政部、京师高等审判厅检察厅、兵部-陆军部、弼德院等44个全宗档案目录检索。同时上线《清实录》《清会典》2个全文检索数据库，供利用者免费使用。<br>
+</div>            <div class="t3"><div class="txt"><div class="s1">在线档案目录：</div><div class="s2">4521813</div><div class="s1">条</div></div>
+<a  href="/consult.html" class="xmore"><div class="xbg1"></div><div class="xs1">更多内容</div><div class="xbg2"></div></a></div>            <div class="wid">
+                <div class="t4">
+                    <div class="ipt"><input id="kw" type="text" placeholder="您可以直接搜索相关资源内容"></div>
+                    <a class="btn1 searchBtn">
+                        <div class="xicon search_icon"></div>
+                        <div class="s1">搜索</div>
+                    </a>
+                    <a href="/search_catalogues.html" class="link1">条件检索</a>
+                </div>
+                <div class="t5">
+                    <div ckNum="1" class="clk now"><div class="i1"></div>目录</div>
+                    <div ckNum="2" class="clk"><div class="i1"></div>全文</div>
+<!--                    <div ckNum="3" class="clk"><div class="i1"></div>专题库</div>-->
+                </div>
+                <div class="t6" style="min-height:10px;min-width:20px"><span>搜索热词：</span>
+<p class="hot_words">
+	<a>内阁</a>、<a>乾隆</a>、<a>上谕</a>、<a>朱批奏折</a>、<a>军机处</a></p></div>            </div>
+        </div>
+    </div>
+</div>
+
+<div class="mlr120">
+    <div class="home6">
+        <div class="tab-mod">
+                        <div class="tab-bar">
+                <div class="tab-term">常设展览</div><div class="tab-term">专题展览</div>            </div>
+            <!-- <div class="link1"><a  style="cursor:inherit;">走进虚拟展厅</a></div> -->
+            <div class="tab-cont">
+                <div class="tab-item">
+                            <div class="list">
+                                <div class="item item1">                    <a  href="/activity/detail/2225.html" target="_blank" ><img data-src="/Uploads/Picture/2025/10/11/s68ea04414c2b8.jpg" class="lazyload"  title="" alt=""></a></div>                                <div class="item item2">                    <a  href="/activity/detail/8500.html" target="_blank" ><img data-src="/Uploads/Picture/2025/10/11/s68ea048cf16ae.jpg" class="lazyload"  title="" alt=""></a></div>                                <div class="item item3">                <div class="btn_3d">
+            <a  href="https://fhac.com.cn/360qj/JBCL/?scene_id=84262079" target="_blank"></a>
+        </div>    <a  href="/activity/detail/2227.html" target="_blank" ><img data-src="/Uploads/Picture/2025/08/20/s68a5864a9f98d.jpg" class="lazyload"  title="" alt=""></a></div>                            </div>
+                                                            <a href="/permanent_list.html" class="xmore col1"><div class="xbg1"></div><div class="xs1">更多展览</div><div class="xbg2"></div></a>                        </div><div class="tab-item">
+                            <div class="list">
+                                <div class="item item1">        <div class="card_box s3">
+            <span>已结束</span>
+        </div>            <a  href="/activity/detail/8501.html" target="_blank" ><img data-src="/Uploads/Picture/2025/10/11/s68ea056c6a3bb.jpg" class="lazyload"  title="" alt=""></a></div>                                <div class="item item2">        <div class="card_box s3">
+            <span>已结束</span>
+        </div>            <a  href="/activity/detail/8502.html" target="_blank" ><img data-src="/Uploads/Picture/2025/10/11/s68ea059e0d15c.jpg" class="lazyload"  title="" alt=""></a></div>                                <div class="item item3">            <div class="card_box s2">
+            <span>暂停开放</span>
+        </div>        <a  href="/activity/detail/5397.html" target="_blank" ><img data-src="/Uploads/Picture/2025/08/20/s68a587c3e7a51.jpg" class="lazyload"  title="" alt=""></a></div>                            </div>
+                                                            <a href="/exhibition_list.html" class="xmore col1"><div class="xbg1"></div><div class="xs1">更多展览</div><div class="xbg2"></div></a>                        </div>            </div>
+        </div>
+    </div>
+</div>
+
+<div class="mlr120 mlr120_home7">
+    <div class="home7">
+        <div class="title">
+            <div class="t1">珍品展台</div>        </div>
+        <div class="list"><div class="item item1">
+	    <div class="img"><a href="/treasure/detail/1694.html" target="_blank"><img data-src="https://cos.fhac.com.cn/Uploads/Picture/2022/05/07/s6275e02fc90f6.png" class="lazyload"  alt="" title=""></a></div>
+	    <div class="t1"><a href="/treasure/detail/1694.html" target="_blank"><div class="s1">【 《金沙江上下两游山水全图》 】</div></a></div>
+	</div><div class="item item2">
+	    <div class="img"><a href="/treasure/detail/1768.html" target="_blank"><img data-src="https://cos.fhac.com.cn/Uploads/Picture/2022/05/07/s6275df9788c34.png" class="lazyload"  alt="" title=""></a></div>
+	    <div class="t1"><a href="/treasure/detail/1768.html" target="_blank"><div class="s1">【 皇太极诰命
+加封蒙古苏班带世职 】</div></a></div>
+	</div><div class="item item3">
+	    <div class="img"><a href="/treasure/detail/1693.html" target="_blank"><img data-src="https://cos.fhac.com.cn/Uploads/Picture/2022/05/07/s6275e1c5ec02a.png" class="lazyload"  alt="" title=""></a></div>
+	    <div class="t1"><a href="/treasure/detail/1693.html" target="_blank"><div class="s1">【 大金榜 】</div></a></div>
+	</div><div class="item item4">
+	    <div class="img"><a href="/treasure/detail/1698.html" target="_blank"><img data-src="https://cos.fhac.com.cn/Uploads/Picture/2022/05/07/s6275dfcf4425d.png" class="lazyload"  alt="" title=""></a></div>
+	    <div class="t1"><a href="/treasure/detail/1698.html" target="_blank"><div class="s1">【 密本档 】</div></a></div>
+	</div></div>        <div class="xmore v"><a  href="/treasures.html" ><div class="xbg1"></div><div class="xs1">更多珍品</div><div class="xbg2"></div></a>
+
+</div>    </div>
+</div>
+<div class="mlr120">
+    <div class="home8">
+        <div class="cont">
+            <div class="l" style="background-image: url(/Public/static/themes1/image/home14.jpg);">
+                <div class="tab-mod">
+                    <div class="tab-bar">
+                        <div class="tab-term">最新活动</div>
+                        <div class="tab-term">档案保护</div>
+                        <div class="tab-term">教育基地</div>
+                    </div>
+                    <!--<a data-href="/activity_enroll.html" id="hdbman" class="link1">活动报名</a>-->
+                    <!--<a data-href="/construction.html" id="hdbman" class="link1">活动报名</a>-->
+                    <a href="/reservation/action_list.html" id="hdbman" class="link1">活动报名</a>
+                    <script type="text/javascript">
+                        /*$('#hdbman').on('click',function(){
+                            var href = $(this).attr('data-href');
+                            $.get('/getUserId.html','',function(data){
+                                if(!data['info']['uid']){
+                                    my_alert('请先登录',function(){
+                                        window.location.href = "/member/login.html";
+                                    });
+                                    return false;
+                                }else{
+                                    window.location.href = href;
+                                }
+                            })
+                        })*/
+                    </script>
+                                        <div class="tab-cont">
+                        <div class="tab-item">
+                            <div class="box">
+                                <div class="img">
+                                    <a href="/reservation/action_detail/43.html" target="_blank">
+                                            <img data-src="https://cos.fhac.com.cn/Uploads/Picture/2026/09/08/s6a9ff452121f0_1583_1059_5_158.png" class="lazyload"  alt="" title="" />
+                                        </a>                                </div>
+                                <div class="r_con">
+                                    <div class="top">
+                                                                                    <a href="/reservation/action_detail/43.html" target="_blank">
+                                                <div class="t1">皇史宬大讲堂第三十二讲： 四大发现中的常...</div>
+                                                <div class="p">皇史宬大讲堂是中国第一历史档案馆主办的学术性讲座，本期为第三十二期讲座，邀请了清华大学侯旭东教授...</div>                                                <div class="date">2026-09-17</div>
+                                            </a>                                    </div>
+                                    <div class="list">
+                                                                                    <div class="line">
+                                                <a href="/reservation/action_detail/42.html" target="_blank" class="b1">
+                                                    <div class="s2">皇史宬大讲堂第三十一讲： 甲骨文所见殷商...</div>
+                                                    <div class="s1">【2026-08-20】</div>
+                                                </a>
+                                            </div>                                            <div class="line">
+                                                <a href="/reservation/action_detail/41.html" target="_blank" class="b1">
+                                                    <div class="s2">皇史宬大讲堂第三十讲： 满文档案与清代民...</div>
+                                                    <div class="s1">【2026-07-16】</div>
+                                                </a>
+                                            </div>                                            <div class="line">
+                                                <a href="/reservation/action_detail/40.html" target="_blank" class="b1">
+                                                    <div class="s2">皇史宬大讲堂第二十九讲  信息社会与信息...</div>
+                                                    <div class="s1">【2026-06-15】</div>
+                                                </a>
+                                            </div>                                            <div class="line">
+                                                <a href="/reservation/action_detail/39.html" target="_blank" class="b1">
+                                                    <div class="s2">皇史宬大讲堂总第二十八期： 何以下西洋...</div>
+                                                    <div class="s1">【2026-05-20】</div>
+                                                </a>
+                                            </div>                                            <div class="line">
+                                                <a href="/reservation/action_detail/38.html" target="_blank" class="b1">
+                                                    <div class="s2">皇史宬大讲堂总第二十七期： 世臣·世仆...</div>
+                                                    <div class="s1">【2026-04-15】</div>
+                                                </a>
+                                            </div>                                            <div class="line">
+                                                <a href="/reservation/action_detail/37.html" target="_blank" class="b1">
+                                                    <div class="s2">皇史宬大讲堂总第二十六期： 治理视域下的...</div>
+                                                    <div class="s1">【2026-03-16】</div>
+                                                </a>
+                                            </div>                                    </div>
+                                </div>
+                            </div>
+                            <a href="/reservation/action_list.html" class="xmore col2"><div class="xbg1"></div><div class="xs1">更多内容</div><div class="xbg2"></div></a>
+                        </div>
+                        <div class="tab-item">
+                            <div class="box">
+                                <div class="img"><a href="/social_education/fileprotection/detail/1260.html" target="_blank"><img data-src="https://cos.fhac.com.cn/Uploads/Picture/2021/07/09/s60e80ac8deb2d.jpg" class="lazyload"  alt="" title=""></a></div>                                <div class="r_con">
+                                    <div class="top">	<a  href="/social_education/fileprotection/detail/1260.html" target="_blank">
+
+        <div class="t1">传统修复示范</div>
+        <div class="p">用毛笔的笔尖在破损处和孔洞周围涂上粘合剂，切勿用排刷在补纸上全部涂刷粘合剂。压实时手部动作要准确，规...</div>
+        <div class="date">2021.04.28</div>
+    </a></div>                                    <div class="list"><div class="line">
+	    <a href="/social_education/fileprotection/detail/1260.html" target="_blank" class="b1">
+	        <div class="s2">传统修复示范</div>
+	        <div class="s1">【04.28】</div>
+	    </a>
+	</div><div class="line">
+	    <a href="/social_education/fileprotection/detail/1266.html" target="_blank" class="b1">
+	        <div class="s2">临其意 摹其形 存其真  ——  一史馆馆藏珍品手...</div>
+	        <div class="s1">【04.29】</div>
+	    </a>
+	</div><div class="line">
+	    <a href="/social_education/fileprotection/detail/1261.html" target="_blank" class="b1">
+	        <div class="s2">我在一史馆修明档</div>
+	        <div class="s1">【04.28】</div>
+	    </a>
+	</div></div>                                </div>
+                            </div>
+                            <a href="/social_education/fileprotection.html" class="xmore col2"><div class="xbg1"></div><div class="xs1">更多内容</div><div class="xbg2"></div></a>
+                        </div>
+                        <div class="tab-item">
+                            <div class="box">
+                                <div class="img"><a href="/social_activitydetail/5575.html" target="_blank"><img data-src="https://cos.fhac.com.cn/Uploads/Picture/2022/03/23/s623adef4448c2.jpg" class="lazyload"  alt="" title=""></a></div>                                <div class="r_con">
+                                    <div class="top">	<a  href="/social_activitydetail/5575.html" target="_blank">
+
+        <div class="t1">孩子去哪儿？</div>
+        <div class="p">一群放寒假的青少年朋友同父母走进了中国第一历史档案馆大门，体验了一次别开生面的专场活动。</div>
+        <div class="date">2019.02.11</div>
+    </a></div>                                    <div class="list"><div class="line">
+	    <a href="/social_activitydetail/5575.html" target="_blank" class="b1">
+	        <div class="s2">孩子去哪儿？</div>
+	        <div class="s1">【02.11】</div>
+	    </a>
+	</div></div>                                </div>
+                            </div>
+                            <a href="/social/edaution.html" class="xmore col2"><div class="xbg1"></div><div class="xs1">更多内容</div><div class="xbg2"></div></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="r">
+                <div class="list">
+                    <div class="item"><a  href="/archive_story.html" class="middle-box" style="background-image: url(/Uploads/Picture/2021/03/31/s6063e3ac51ed2.jpg);">
+    <div class="middle-cont">
+        <div class="t1">历史记忆</div>
+        <div class="t2">零距离触碰明清历史的脉搏</div>
+    </div>
+</a></div>
+                    <div class="item"><a  href="/social_document.html" class="middle-box" style="background-image: url(/Uploads/Picture/2021/03/31/s6063e3da34356.jpg);">
+    <div class="middle-cont">
+        <div class="t1">知识讲堂</div>
+        <div class="t2">近距离感受历史档案的魅力</div>
+    </div>
+</a></div>                    <div class="item"><a  href="/social_education/video.html" class="middle-box" style="background-image: url(/Uploads/Picture/2021/03/31/s6063e3f637f39.jpg);">
+    <div class="middle-cont">
+        <div class="t1">视频点播</div>
+        <div class="t2">新视角审视传统文化的底蕴</div>
+    </div>
+</a></div>                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="mlr120">
+    <div class="home9">
+        <div class="tab-mod">
+            <div class="tab-bar">
+                <div class="tab-term">学术研究</div><div class="tab-term">专家论坛</div><div class="tab-term">国际交流</div><div class="tab-term">项目合作</div>                                    <div class="tab-term tab-term-custom"><a  href="/detail/8646.html" >期刊投稿</a></div>            </div>
+            <div class="tab-cont">
+                <!-- 李硕说的这么调取的  非得这么调 -->
+                <div class="tab-item">
+                        <div class="list">
+                                                                                                <div class="item">
+                                        <div class="img"><a href="/research/research_writing/detail/1503.html" target="_blank"><img data-src="https://cos.fhac.com.cn/Uploads/Picture/2021/07/12/s60ec23dc49fde.jpg" class="lazyload"  alt="" title="" class="i"></a></div>
+                                        <div class="txt">
+                                            <div class="t1"><a href="/research/research_writing/detail/1503.html" target="_blank">《清代中央国家机关概述》</a></div>
+                                            <div class="p">这是一部全面系统介绍清代中央国家机构的工具书，同时又是从清朝国家机关演变的这个侧面探讨清代政治制度史，尤其是清代职官制度的学术著作。该书考证和介绍了清代的78个...</div>
+                                            <div class="date"><div class="s1">2021.05.18</div><div class="s2"></div></div>
+                                        </div>
+                                    </div>                                    <div class="item">
+                                        <div class="img"><a href="/research/research_writing/detail/1506.html" target="_blank"><img data-src="https://cos.fhac.com.cn/Uploads/Picture/2021/07/12/s60ec23e9a4d79.jpg" class="lazyload"  alt="" title="" class="i"></a></div>
+                                        <div class="txt">
+                                            <div class="t1"><a href="/research/research_writing/detail/1506.html" target="_blank">《清季中外使领年表》</a></div>
+                                            <div class="p">这是建国以来编辑出版的第一部有关清季中外使领年表。该书不仅对《清史稿·交聘年表》进行了详尽考证,纠正了错漏之处,而且补编了清代中外领事年表,是研究中国近代史和中...</div>
+                                            <div class="date"><div class="s1">2021.05.18</div><div class="s2"></div></div>
+                                        </div>
+                                    </div>                                    <div class="item">
+                                        <div class="img"><a href="/research/research_writing/detail/1505.html" target="_blank"><img data-src="https://cos.fhac.com.cn/Uploads/Picture/2021/07/12/s60ec23f70d296.jpg" class="lazyload"  alt="" title="" class="i"></a></div>
+                                        <div class="txt">
+                                            <div class="t1"><a href="/research/research_writing/detail/1505.html" target="_blank">《清代国家机关考略》</a></div>
+                                            <div class="p">《清代国家机关考略》全面阐述了清代国家机关的构成、性质、职权和沿革，内容包括中枢机关--内阁、军机处及有关机关，分掌国政的各部院衙门，掌管皇族事务、宫廷事务的宗...</div>
+                                            <div class="date"><div class="s1">2021.05.18</div><div class="s2"></div></div>
+                                        </div>
+                                    </div>                                                                                    </div>
+                                                    <a href="/research/academic_research.html" class="xmore col2"><div class="xbg1"></div><div class="xs1">更多内容</div><div class="xbg2"></div></a>                    </div><div class="tab-item">
+                        <div class="list">
+                                                                                                                            <div style="display: none;" class="remove_yanjiu"></div>
+                                    <script>
+                                        $(function(){
+                                            $('.home9 .tab-bar .tab-term').eq($('.remove_yanjiu').parents('.tab-item').index()).hide();
+                                        })
+                                    </script>                                                    </div>
+                        <a href="/research_institute/expert_forum.html" class="xmore col2"><div class="xbg1"></div><div class="xs1">更多内容</div><div class="xbg2"></div></a>
+                                            </div><div class="tab-item">
+                        <div class="list">
+                                                                                                                                <div class="item">
+                                        <div class="img"><a href="/detail/5361.html" target="_blank"><img data-src="https://cos.fhac.com.cn/Uploads/Picture/2022/02/22/621488cd4338e_3991_2983_0_0.jpeg" class="lazyload"  alt="" title="" class="i"></a></div>
+                                        <div class="txt">
+                                            <div class="t1"><a href="/detail/5361.html" target="_blank">丁好赴韩国参加联合国教科文组织
+世界记...</a></div>
+                                            <div class="p">2019年11月18日至22日，应韩国国家记录院邀请并经国家档案局同意，我馆丁好赴韩国清州市参加联合国教科文组织世界记忆首届能力建设研讨会。        本次...</div>
+                                            <div class="date"><div class="s1">2019.11.18</div><div class="s2"></div></div>
+                                        </div>
+                                    </div>                                    <div class="item">
+                                        <div class="img"><a href="/detail/5360.html" target="_blank"><img data-src="https://cos.fhac.com.cn/Uploads/Picture/2022/06/01/s6296cea67bbc3.jpg" class="lazyload"  alt="" title="" class="i"></a></div>
+                                        <div class="txt">
+                                            <div class="t1"><a href="/detail/5360.html" target="_blank">李刚等赴日参加《历代宝案》
+编辑委员会...</a></div>
+                                            <div class="p">2019年10月30日至11月3日，应日本冲绳县教育委员会邀请，我馆李刚、安治国赴日本冲绳参加历代宝案编辑委员会会议。       会上，李刚以《清代满文档案与...</div>
+                                            <div class="date"><div class="s1">2019.10.30</div><div class="s2"></div></div>
+                                        </div>
+                                    </div>                                    <div class="item">
+                                        <div class="img"><a href="/detail/5359.html" target="_blank"><img data-src="https://cos.fhac.com.cn/Uploads/Picture/2022/02/22/621487b082f8f_1257_939_0_0.png" class="lazyload"  alt="" title="" class="i"></a></div>
+                                        <div class="txt">
+                                            <div class="t1"><a href="/detail/5359.html" target="_blank">李国荣副馆长等赴荷兰征集明清档案</a></div>
+                                            <div class="p">2019年6月，应荷兰莱顿大学东亚图书馆邀请，我馆李国荣副馆长等随中央档案馆国家档案局档案征集组赴荷兰莱顿大学东亚图书馆征集明清历史档案。       此次征集...</div>
+                                            <div class="date"><div class="s1">2019.06.20</div><div class="s2"></div></div>
+                                        </div>
+                                    </div>                                                        </div>
+                                                    <a href="/international_communication.html" class="xmore col2"><div class="xbg1"></div><div class="xs1">更多内容</div><div class="xbg2"></div></a>                    </div><div class="tab-item">
+                        <div class="list">
+                                                                                                                                <div class="item">
+                                        <div class="img"><a href="/detail/1438.html" target="_blank"><img data-src="https://cos.fhac.com.cn/Uploads/Picture/2021/05/18/60a390e90e45a_1114_834_0_41.jpg" class="lazyload"  alt="" title="" class="i"></a></div>
+                                        <div class="txt">
+                                            <div class="t1"><a href="/detail/1438.html" target="_blank">清宫珍品档案展 2018年</a></div>
+                                            <div class="p"></div>
+                                            <div class="date"><div class="s1">2021.05.18</div><div class="s2"></div></div>
+                                        </div>
+                                    </div>                                    <div class="item">
+                                        <div class="img"><a href="/detail/1435.html" target="_blank"><img data-src="https://cos.fhac.com.cn/Uploads/Picture/2021/05/18/60a38fc3f3b52_787_591_0_65.jpg" class="lazyload"  alt="" title="" class="i"></a></div>
+                                        <div class="txt">
+                                            <div class="t1"><a href="/detail/1435.html" target="_blank">“锦瑟万里 虹贯东西”--中外丝绸之路历...</a></div>
+                                            <div class="p"></div>
+                                            <div class="date"><div class="s1">2021.05.18</div><div class="s2"></div></div>
+                                        </div>
+                                    </div>                                    <div class="item">
+                                        <div class="img"><a href="/detail/1437.html" target="_blank"><img data-src="https://cos.fhac.com.cn/Uploads/Picture/2021/05/18/60a3908bd4ab0_990_742_0_0.jpg" class="lazyload"  alt="" title="" class="i"></a></div>
+                                        <div class="txt">
+                                            <div class="t1"><a href="/detail/1437.html" target="_blank">清宫秘藏档案珍品展 2017年</a></div>
+                                            <div class="p"></div>
+                                            <div class="date"><div class="s1">2021.05.18</div><div class="s2"></div></div>
+                                        </div>
+                                    </div>                                                                                    </div>
+                        <a href="/publish.html" class="xmore col2"><div class="xbg1"></div><div class="xs1">更多内容</div><div class="xbg2"></div></a>
+                                            </div>            </div>
+        </div>
+    </div>
+</div>
+
+<div class="mlr120">
+    <div class="home10">
+        <div class="title"><div class="t1">文创</div></div>
+        <div class="box box1"><a  href="/cc_product_list.html">
+    <div class="bg"><img data-src="/Uploads/Picture/2021/03/31/s6063e903d8067.png" class="lazyload"  title="" alt=""></div>
+    <div class="txt">
+        <div class="arr arr1"><img data-src="/Public/static/themes1/image/arr11.png" class="lazyload"  title="" alt=""></div>
+        <div class="t">
+            <div class="t1">文创展示</div>
+            <div class="t2"></div>
+        </div>
+        <div class="arr arr2"><img data-src="/Public/static/themes1/image/arr11_a.png" class="lazyload"  title="" alt=""></div>
+    </div>
+    <div class="img"><img data-src="/Uploads/Picture/2021/03/31/s6063e8f8e87e0.png" class="lazyload"  title="" alt=""></div>
+</a></div>        <div class="cont">
+            <div class="box box2"><a  href="/creative/wallpaper_down.html">
+    <div class="bg"><img data-src="/Uploads/Picture/2021/03/31/s6063e95f6eb64.png" class="lazyload" title="" alt=""></div>
+    <div class="txt">
+        <div class="arr arr1"><img data-src="/Public/static/themes1/image/arr12.png" class="lazyload" title="" alt=""></div>
+        <div class="t">
+            <div class="t1">壁纸下载</div>
+            <div class="t2"></div>
+        </div>
+        <div class="arr arr2"><img data-src="/Public/static/themes1/image/arr11_a.png" class="lazyload" title="" alt=""></div>
+    </div>
+</a></div>            <div class="box box3"><a  href="/creative/cooperation.html">
+    <div class="txt">
+        <div class="arr arr1"><img data-src="/Public/static/themes1/image/arr11_b.png" class="lazyload" title="" alt=""></div>
+        <div class="t">
+            <div class="t1">文创合作</div>
+            <div class="t2"></div>
+        </div>
+        <div class="arr arr2"><img data-src="/Public/static/themes1/image/arr12_a.png" class="lazyload" title="" alt=""></div>
+    </div>
+    <div class="bg"><img data-src="/Uploads/Picture/2021/03/31/s6063ea1652a47.png" class="lazyload" title="" alt=""></div>
+</a></div>        </div>
+    </div>
+</div>
+
+<div class="mlr120">
+    <div class="home11">
+        <div class="cont">
+            <div class="item" style="background-image: url(/Public/static/themes1/image/home10.png);color: #5a4226;"><a  href="/questionnaire/index.html" class="middle-box">
+    <div class="middle-cont">
+        <div class="t1">满意度调查</div>
+        <div class="t2">诚邀参与满意度调查<br />
+</div>
+    </div>
+</a></div>            <div class="item" style="background-image: url(/Public/static/themes1/image/home11.png);color: #8e713f;"><a  href="/home_solicitation.html" class="middle-box">
+    <div class="middle-cont">
+        <div class="t1">档案征集</div>
+        <div class="t2">征集文物藏品</div>
+    </div>
+</a></div>            <div class="item" style="background-image: url(/Public/static/themes1/image/home12.png);color: #7a4242;"><a  href="/construction.html" class="middle-box">
+    <div class="middle-cont">
+        <div class="t1">志愿者专栏</div>
+        <div class="t2">志愿者招募及日常工作</div>
+    </div>
+</a></div>            <div class="item" style="background-image: url(/Public/static/themes1/image/home13.png);color: #6d8587;"><a  href="/about/introdction.html" class="middle-box">
+    <div class="middle-cont">
+        <div class="t1">关于我们</div>
+        <div class="t2">详细了解本馆</div>
+    </div>
+</a></div>            <div class="item" style="background-image: url(/Public/static/themes1/image/home14.png);color: #56413f;"><a  href="/home_contactus.html" class="middle-box">
+    <div class="middle-cont">
+        <div class="t1">联系我们</div>
+        <div class="t2">如有需求请与我们联系</div>
+    </div>
+</a></div>
+        </div>
+    </div>
+</div>
+<div class="recommend" style="background-image: url(/Public/static/themes1/image/home18.jpg);">
+    <div class="x-wrap">
+        <div class="title">
+             <div class="t1">推荐阅览</div>        </div>
+        <div class="list">
+            <div class="item" style="min-height:10px;min-width:20px"><a  href="/consult.html">
+    <div class="t1">查阅</div>
+    <div class="ico"><img src="https://cos.fhac.com.cn/Uploads/Picture/2021/03/31/s6063f4f483210.png" title="" alt=""><img src="https://cos.fhac.com.cn/Uploads/Picture/2021/03/31/s6063f4fa21699.png" title="" alt="" class="bak"></div>
+</a></div>            <div class="item" style="min-height:10px;min-width:20px"><a  href="/exhibition_preview.html">
+    <div class="t1">展览</div>
+    <div class="ico"><img src="https://cos.fhac.com.cn/Uploads/Picture/2021/04/27/s6087ee695a025.png" title="" alt=""><img src="https://cos.fhac.com.cn/Uploads/Picture/2021/04/27/s6087ee7a231b4.png" title="" alt="" class="bak"></div>
+</a></div>            <div class="item" style="min-height:10px;min-width:20px"><a  href="/service.html">
+    <div class="t1">服务</div>
+    <div class="ico"><img src="/Uploads/Picture/2021/03/05/s60420d8e91447.png" title="" alt=""><img src="/Uploads/Picture/2021/03/05/s60420d9585bbb.png" title="" alt="" class="bak"></div>
+</a></div>            <div class="item" style="min-height:10px;min-width:20px"><a  href="/cultural_creation.html">
+    <div class="t1">文创</div>
+    <div class="ico"><img src="/Uploads/Picture/2021/03/05/s60420da26490c.png" title="" alt=""><img src="/Uploads/Picture/2021/03/05/s60420daa3ccba.png" title="" alt="" class="bak"></div>
+</a></div>        </div>
+    </div>
+</div>
+<script>
+    // 查阅
+    var ck = [1];
+    var ck_str = "1";
+    $(".home5 .cont .t5 .clk").click(function() {
+        $(this).toggleClass('now');
+        ck = [];
+        $('.clk').each(function(i,v){
+            if ($(v).hasClass('now')) {
+                ck.push(Number($(v).attr('ckNum')));
+            }
+        })
+        ck_str = ck.join(',');
+    });
+
+    // Inner
+    $('.searchBtn').click(function(){
+        search()
+    });
+
+    $('#kw').keypress(function(e){
+        var keycode = (e.keyCode ? e.keyCode : e.which)
+        if(keycode == 13){
+            search()
+        }
+    });
+
+    function search(){
+        var kw = $('#kw').val();
+        if (! $.trim(kw)) {
+            my_alert("请填写关键词");
+            return false;
+        }
+
+        // 选择的数量小于2，则去到此栏目专有搜索页
+        if (ck.length < 2) {
+            switch(ck[0]) {
+                case 1:
+                    window.open("/search_catalogue.html?kw="+kw);
+                    break;
+                case 2:
+                    window.open("/search_fulltext.html?kw="+kw);
+                    break;
+                case 3:
+                    window.open("/search_subject.html?kw="+kw);
+                    break;
+                case undefined:
+                    my_alert("请选择数据分类");
+                    break;
+                default:
+                    my_alert("请选择数据分类");
+            }
+            return false;
+        } else {
+            // 数量 > 1，则去到综合检索页面
+            window.open("/search_index.html?kw="+kw + "&ck=" + ck_str);
+        }
+    }
+
+    // 热词
+    $('.hot_words').on('click', 'a', function(){
+        var hot = $(this).text();
+        if ($.trim(hot)) {
+            // 选择的数量小于2，则去到此栏目专有搜索页
+            if (ck.length < 2) {
+                switch(ck[0]) {
+                    case 1:
+                        window.open("/search_catalogue.html?kw="+hot);
+                        break;
+                    case 2:
+                        window.open("/search_fulltext.html?kw="+hot);
+                        break;
+                    case 3:
+                        window.open("/search_subject.html?kw="+hot);
+                        break;
+                    case undefined:
+                        my_alert("请选择数据分类");
+                        break;
+                    default:
+                        my_alert("请选择数据分类");
+                }
+                return false;
+            } else {
+                // 数量 > 1，则去到综合检索页面
+                window.open("/search_index.html?kw="+hot + "&ck=" + ck_str);
+            }
+        }
+    });
+</script>
+
+</div>
+<!-- inject:private:js -->
+<script>
+    "use strict";
+
+    $(function () {
+        $(".home1 .frame .child").mChange({
+            auto: 1,
+            //是否自动播放,1为自动,0为手动
+            arrow: 1,
+            //是否反转箭头,1为点击左侧向右滚动,0则相反
+            speed: 1000,
+            //效果速度,大于0.3
+            time: 3000,
+            //周期时间，大于1
+            nav: ".home1 .navs .li",
+            //导航
+            nave: "click",
+            //导航事件
+            navs: 0,
+            //导航滚动
+            prev: null,
+            //上一个
+            next: null,
+            //下一个
+            cycle: 1,
+            //是否循环
+            mousestop: 1,
+            //是否鼠标划入停止
+            mousewheel: 0,
+            //是否开启滚轮事件
+            animates: function animates(idx) {}
+        });
+        scrollact(".home2", null, function () {});
+        scrollact(".home3", null, function () {});
+        scrollact(".home6", null, function () {});
+        scrollact(".home7", null, function () {});
+        scrollact(".home10", null, function () {});
+        $(window).scroll(function () {
+            scrollact(".home2", null, function () {});
+            scrollact(".home3", null, function () {});
+            scrollact(".home6", null, function () {});
+            scrollact(".home7", null, function () {});
+            scrollact(".home10", null, function () {});
+        });
+        // $.xRoll({
+        //     item: {
+        //         elm: '.home2 .cont .r'
+        //     },
+        //     tween: {
+        //         duration: 2,
+        //         y: '100%'
+        //     }
+        // });
+        // $.xRoll({
+        //     item: {
+        //         elm: '.home2 .cont .l .item'
+        //     },
+        //     tween: {
+        //         y: '100%',
+        //         duration: 1
+        //     }
+        // });
+        // $.xRoll({
+        //     item: {
+        //         elm: '.home3 .cont .item'
+        //     },
+        //     tween: {
+        //         x: '-100%',
+        //         duration: 1
+        //     }
+        // });
+        // $.xRoll({
+        //     item: {
+        //         elm: '.home6 .tab-cont .tab-item .list .item'
+        //     },
+        //     tween: {
+        //         y: '100%',
+        //         duration: 1.4
+        //     }
+        // });
+        // $.xRoll({
+        //     item: {
+        //         elm: '.home7 .list .item'
+        //     },
+        //     tween: {
+        //         scale: 0,
+        //         duration: 1.4
+        //     }
+        // });
+        // $.xRoll('.home10');
+        $.xRoll({
+            item: '.home11 .cont .item',
+            // scroller: '80%',
+            tween: {
+                scale: gsap.utils.wrap([1.2, 1.4, 1.5, 1.3, 2]),
+                rotationZ: gsap.utils.wrap([-90, 90]),
+                transformOrigin: gsap.utils.wrap(['left top', 'right bottom']),
+                y: function y(i) {
+                    return Math.random() * -20;
+                }
+            }
+        }); ///
+    });
+</script>
+<!-- endinject -->
+
+        <div class="x-footer">
+    <div class="top" style="position:inherit"><a  href="http://www.saac.gov.cn" target="_blank" class="a1"   >国家档案局 </a><a  href="http://www.shac.net.cn" target="_blank" class="a1"   >中国第二历史档案馆</a><a  href="http://www.zgdazxw.com.cn" target="_blank" class="a1"   >中国档案报社</a><a  href="http://www.chinaarchives.cn" target="_blank" class="a1"   >中国档案杂志社</a><a  href="http://www.idangan.com" target="_blank" class="a1"   >中国档案学会</a><a  href="http://www.saacedu.org.cn" target="_blank" class="a1"   >档案干部教育中心</a></div>    <div class="btm">
+        <div class="link_wp"><a  href="/sitemap.html" target="_blank" class="a1">网站地图</a><a  href="/detail/784.html" target="_blank" class="a1">法律声明</a><a  href="/detail/785.html" target="_blank" class="a1">隐私条款</a><a  href="/detail/786.html" target="_blank" class="a1">版权声明</a></div>        <div class="txt">
+            <div class="t1 icons">
+				<a href="https://bszs.conac.cn/sitename?method=show&id=54415D8EE4883FDBE053022819ACE50C" target="_blank"><img src="/Public/static/themes1/image/icon5.png" title="" alt="" class="dw"></a>
+				Copyright © 2020-2026 中国第一历史档案馆 版权所有 All Rights Reserved. 			</div>
+            <div class="t1 jb"><a href="http://beian.miit.gov.cn/" target="_blank">京ICP备11025594号-2</a></div>
+                <div class="t1 ga"><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11040102700111" target="_blank">京公网安备 11040102700111号 </a></div>
+                        <div class="t1 ftbj"><a href="http://www.fractal-technology.com" target="_blank">网站建设</a>：<a href="http://www.fractal-technology.com" target="_blank">北京分形科技</a></div>
+        </div>
+        <div class="view">
+            <div class="l">网站访问量：</div>
+            <div class="ul" >
+
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    setTimeout(function(){
+        $.post( "/fangwen.html"+'?'+Math.random() ,{'_json':Math.random() }, function( data ) {
+             var datas = data['info'];
+             var str ="<div class='li'>"+datas.toString().split("").join("</div><div class='li'>")+"</div>";
+             $('.x-footer .view  .ul').html(str);
+        },'json')
+    }, 1000);
+</script>
+<script>
+    $(function(){
+        $('.nav-lv2-item.cur').parents('.nav-lv1-item').addClass('cur');
+    })
+</script>
+<script>
+    $(function(){
+        $('a.nav-link.nav-lv2-link:contains("预约查档")').click(function(e) {
+            if ( e && e.preventDefault ) {
+                e.preventDefault();
+            }else{
+                window.event.returnValue = false;
+            }
+            var obj = $(this);
+            // 检测今年是否登记
+            $.post( "/is/register.html", {}, function ( t ) {
+                if( t.status == 403 ) {
+                    my_alert( t.message, function () {
+                        window.location.href = t.url;
+                    });
+                    return false;
+                }else{
+                    window.location.href = obj.attr('href');
+                }
+            });
+        });
+    });
+</script>
+
+<div style="display: none;"><script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?26c135ff0762884ac9008ec3b690eeab";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script></div>
+<script>
+        $(function(){
+            if ($.utils && $.utils.is_mobile && $('.tracker-mod a').length > 0) {
+                $(document).on('click touchstart','.tracker-mod a', function(e) {
+                    var el = $(this);
+                    var link = el.attr('href');
+                    window.location = link;
+                });
+            }
+        })
+    </script>    </div>
+</body>
+
+</html>

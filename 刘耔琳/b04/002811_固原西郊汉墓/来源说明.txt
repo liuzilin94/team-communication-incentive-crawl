@@ -1,0 +1,27 @@
+来源说明
+==============================================
+书目编号：002811
+书名：《固原西郊汉墓》
+爬取状态：已完成（GitHub 有 TXT）
+
+【获取方式】
+期刊 PDF 下载并提取文字（网盘留存原件）
+
+【来源站点 / 底本出处】
+樊军《宁夏固原西郊汉墓出土摇钱树及相关问题研究》，《四川文物》2011年第2期；网盘 PDF 原件
+
+【来源链接】
+- https://www.ncpssd.cn/Literature/secure/articleinfo?params=dlZVcHo3MEp1Mm9IWDNLNnA3MEc3TzBoTTAzTDAvTmpQNE8veWJZTEJWekQ0MVVFdTg4NCttQmozK3BjL1lpOFQydkRlbzA3RjhRN3pSbFN5OUkwcmxNMXZNRUEvU3pOU3ovRllDL0gyamorZC9aK3BMSjNJcGNqUjk3U0tWdGU&pageUrl=https%253A%252F%252Fwww.ncpssd.cn%252FLiterature%252Farticlelist%253FsType%253D0%2526search%253D%2526nav%253D0%2526ajaxKeys%253D5Zu65Y6f6KW
+
+【GitHub 位置】
+分支：刘耔琳
+仓库：https://github.com/liuzilin94/team-communication-incentive-crawl/tree/liuzilin
+- 刘耔琳/002811_固原西郊汉墓/正文.txt
+
+【网盘留存文件】
+- 刘耔琳pdf/第三次提交/2811西郊汉墓.pdf
+
+【版本与出版信息】
+出版社：宁夏文物考古研究所
+出版版别：学术期刊
+爬取日期：9.21

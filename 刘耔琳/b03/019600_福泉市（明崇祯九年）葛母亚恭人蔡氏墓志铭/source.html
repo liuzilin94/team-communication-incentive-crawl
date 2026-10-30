@@ -1,0 +1,200 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, width=device-width" />
+    <title>会员登录 - 中图网</title>
+    <link href="/Content/css/common/reset.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/css/common/common.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/css/user/loginRegist.css?k=20190325" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        .aliyunCaptcha-top #aliyunCaptcha-title {
+            font-size: 15px !important;
+        }
+    </style>
+    <script>
+      window.AliyunCaptchaConfig = {
+        // 必填，验证码示例所属地区，支持中国内地（cn）、新加坡（sgp）
+        region: "cn",
+        // 必填，身份标。开通阿里云验证码2.0后，您可以在控制台概览页面的实例基本信息卡片区域，获取身份标
+        prefix: "rsjbtv",
+      };
+    </script>
+    <script type="text/javascript"
+            src="https://o.alicdn.com/captcha-frontend/aliyunCaptcha/AliyunCaptcha.js">
+    </script>
+</head>
+<body>
+    <input type="hidden" value="10.137.16.165" id="hidip" />
+    <!--头部-->
+    
+<header class="header">
+    <div class="headerInner">
+        <div class="returnBtn">
+            <!-- 这里改成最兼容的写法 -->
+            <a href="javascript:goBack()"></a>
+        </div>
+            <div class="head_lable"><span>登录</span></div>
+                <div class="shareBtn" id="shareBtn"></div>
+                    <div class="shortCut" id="shortCut"></div>
+        <div class="shortCutLayer" style="display:none">
+            <div class="shortCutInner">
+                <ul>
+                    <li class="homeLink"><a href="/">首页</a></li>
+                    <li class="tstLink"><a href="//t.bookschina.com/">淘书团</a></li>
+                    <li class="kindLink"><a href="/books/kindlist">分类搜索</a></li>
+                    <li class="carLink"><a href="/shopcar">购物车</a></li>
+                    <li class="accountLink"><a href="/usercenter/myhome">我的账户</a></li>
+                </ul>
+                <span class="uptriangle"></span>
+            </div>
+        </div>
+    </div>
+</header>
+<script>
+    // 兼容所有手机的返回函数（修复iOS/微信无法返回问题）
+    function goBack() {
+        // 方案 A：优先使用 document.referrer 判断来路（最准）
+        if (document.referrer && document.referrer !== '') {
+            // 有上一页 → 正常返回
+            setTimeout(function () {
+                window.history.back();
+            }, 30);
+        }
+            // 方案 B：没有referrer → 直接跳首页（彻底解决登录页刷新）
+        else {
+            window.location.href = '/';
+        }
+    }
+</script>
+    <div class="content">
+        <div class="loginForm">
+
+
+            <div class="channelKind">
+                <div class="tabTit">
+                    <a href="javascript:void(0)" class="one cur" data-id="0"><span>账号密码登陆</span></a>
+                    <a href="javascript:void(0)" class="" data-id="1"><span>手机短信登陆</span></a>
+                </div>
+                <div class="tabCon">
+                    <div class="tabItem cur">
+                        <div class="inputItem userNameWrap">
+                            <span class="label"></span>
+                            <div class="inputWrap">
+                                <input type="text" class="inputblock userName" id="userName" name="userName" autocomplete="off" placeholder="用户名/邮箱/已验证手机" />
+                                <span class="clearInput"></span>
+                            </div>
+                        </div>
+                        <div class="inputItem userPasWrap">
+                            <span class="label"></span>
+                            <div class="inputWrap">
+                                <input type="password" class="inputblock userPas" id="userPas" name="userPas" autocomplete="off" placeholder="请输入密码" />
+                                <span class="clearInput"></span>
+                                <span class="IsShowPas" id="IsShowPas"></span>
+                            </div>
+                        </div>
+                        <div id="__nc" style="margin-left:auto;margin-right:auto;width:100%;height:50px;margin-top: 0.3rem;display:none;">
+                            <div id="nc"></div>
+                        </div>
+                        <div id="captcha-element"></div>
+                        <div class="inputItem imgcodeWrap ImgCode" style="display:none">
+                            <div class="inputWrap ">
+                                <input type="text" class="inputblock" id="imgcode" autocomplete="off" placeholder="请输入图形验证码" />
+                                <span class="clearInput" style="display: none;"></span>
+                            </div>
+                            <div class="imgWrap" id="modifycodeImg">
+                                <img src="/Yzm?name=login&t=639261900199801691" />
+                            </div>
+                        </div>
+                                              
+                    </div>
+                    <div class="tabItem">
+                        <div class="inputItem userNameWrap">
+                            <span class="label"></span>
+                            <div class="inputWrap">
+                                <input type="text" class="inBlock userName" id="phoneNumber" name="" autocomplete="off" placeholder="请输入手机号" +/>
+                                <span class="clearInput"></span>
+                            </div>
+                        </div> 
+                        <div id="__nc1" style="margin-left:auto;margin-right:auto;width:100%;height:50px;margin-top: 0.3rem;display:none;">
+                            <div id="nc1"></div>
+                        </div>
+                        <div id="captcha-element1"></div>
+                        <div class="inputItem imgcodeWrap ImgCode" style="display:none">
+                            <div class="inputWrap ">
+                                <input type="text" class="inBlock" id="imgcode1" autocomplete="off" placeholder="请输入图形验证码" />
+                                <span class="clearInput" style="display: none;"></span>
+                            </div>
+                            <div class="imgWrap" id="modifycodeImg1">
+                                <img src="/Yzm?name=login&t=639261900199801691" />
+                            </div>
+                        </div>
+                        <div class="inputItem userPasWrap">
+                            <span class="label"></span>
+                            <div class="inputWrap yz">
+                                <input type="text" class="inBlock userPas" id="phoneCode" name="" autocomplete="off" placeholder="请输入六位验证码" />
+                                <span class="clearInput"></span>
+                                <span class="codeBtn yzm">获取验证码</span>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div id="captcha-element"></div>
+            <div class="nextStep btnOk" id="btnLogin"><span>登录</span></div>    
+            <div class="loginLink">
+                <a href="/forgot" class="forgotPasLink">忘记密码</a><a class="registLink" href="/register?u=http%3a%2f%2fm.bookschina.com%2f8933103.htm">新用户注册</a>
+            </div>
+
+        </div>
+
+        <div class="thirdLogin">
+            <div class="thirdTitle">
+                <em>第三方账号登录</em>
+            </div>
+            <ul class="li3">
+                <li class="qq">
+                    <a href="http://qq.bookschina.com/qq/qqlogin.aspx?url=http://m.bookschina.com/register/qqlogin?u=http://m.bookschina.com/8933103.htm">
+                        <img src="/Content/images/newqq.png" />
+                        <b>QQ登录</b>
+                    </a>
+                </li>
+                <li class="sina">
+                    <a href="http://qq.bookschina.com/weibo/weibologin.aspx?url=http://m.bookschina.com/register/weibologin?u=http://m.bookschina.com/8933103.htm">
+                        <img src="/Content/images/newweibo.png" />
+                        <b>微博登录</b>
+                    </a>
+                </li>
+                <li class="sina">
+                    <a href="http://qq.bookschina.com/BaiDu/BaiDuLogin.aspx?url=http://m.bookschina.com/register/BaiDuLogin?u=http://m.bookschina.com/8933103.htm">
+                        <img src="/Content/images/baiduloginicon.png" />
+                        <b>百度登录</b>
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="explainLink">
+            <p><a href="/Help/YinSi">《中图网用户注册协议及隐私政策》</a></p>
+            <p><a href="/Help/Thirdexplain">如何绑定微信和中图网账户?</a></p>
+        </div>
+    </div>
+    <div class="errorTip">
+        <div>
+            <p><span class="text">账号或密码不正确</span></p>
+        </div>
+    </div>
+
+    <div class="popLayerbg"></div>
+    <script src="//o.bookschina.com/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+    <script src="/Content/js/common/common.js" type="text/javascript"></script>
+    <script src="/Content/js/common/jsHelper.js" type="text/javascript"></script>
+    
+    <script src="/Content/js/user/login.js?v=8719" type="text/javascript"></script>
+    
+</body>
+</html>
+
