@@ -1,0 +1,19 @@
+{
+  "id": "000984",
+  "title": "英山县志",
+  "volume_count": 11,
+  "text_file_count": 12,
+  "total_characters": 134036,
+  "source_url": "https://commons.wikimedia.org/wiki/File:%E8%8B%B1%E5%B1%B1%E7%B8%A3%E5%BF%97_-_%E6%B0%91%E5%9C%8B%E4%B9%9D%E5%B9%B4_%281920%29.pdf",
+  "source": "Wikimedia Commons",
+  "author": null,
+  "publisher": "毛青云堂梓",
+  "edition": "民国九年重修",
+  "crawled_by": "刘耔琳",
+  "crawl_date": "2026-09",
+  "content_scope": "全文",
+  "notes": [
+    "原始 PDF 等源资料存于网盘，未随本目录上传，详见 README.md。",
+    "获取方式：下载原始 PDF 影像并 OCR 提取文字"
+  ]
+}

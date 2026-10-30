@@ -1,0 +1,25 @@
+来源说明
+==============================================
+书目编号：008835
+书名：《回教救国会今发五次赈款》
+爬取状态：已完成（GitHub 有 TXT，网盘未留源资料）
+
+【获取方式】
+民国期刊电子书平台页抓取
+
+【来源站点 / 底本出处】
+时光图书馆（atimebook.com）
+
+【来源链接】
+- https://atimebook.com/3774.html
+
+【GitHub 位置】
+分支：刘耔琳
+仓库：https://github.com/liuzilin94/team-communication-incentive-crawl/tree/liuzilin
+- 刘耔琳/008835_回教救国会今发五次赈款/第1部分.txt
+
+【网盘留存文件】
+- 刘耔琳pdf/刘耔琳/008835_回教救国会今发五次赈款/source.html
+
+【版本与出版信息】
+爬取日期：9.26

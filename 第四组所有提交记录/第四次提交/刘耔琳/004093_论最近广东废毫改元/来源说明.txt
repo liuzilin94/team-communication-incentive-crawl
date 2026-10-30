@@ -1,0 +1,30 @@
+来源说明
+==============================================
+书目编号：004093
+书名：《论最近广东废毫改元》
+爬取状态：已完成（GitHub 有 TXT，网盘未留源资料）
+
+【获取方式】
+论文摘要页抓取（仅相关文章）
+
+【来源站点 / 底本出处】
+Atlantis Press《ebmcsr-18》会议论文集文章页
+
+【来源链接】
+- https://www.atlantis-press.com/proceedings/ebmcsr-18/25905256
+
+【GitHub 位置】
+分支：刘耔琳
+仓库：https://github.com/liuzilin94/team-communication-incentive-crawl/tree/liuzilin
+- 刘耔琳/004093_论最近广东废毫改元/正文.txt
+
+【网盘留存文件】
+- （网盘未留存 PDF/图片等源资料）
+
+【版本与出版信息】
+出版社：Atlantis Press
+出版版别：学术论文
+爬取日期：9.14
+
+【备注】
+仅找到相关文章

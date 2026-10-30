@@ -1,0 +1,27 @@
+来源说明
+==============================================
+书目编号：013965
+书名：《特纠大臣疏》
+爬取状态：已完成（GitHub 有 TXT，网盘未留源资料）
+
+【获取方式】
+识典古籍在线阅读页抓取正文
+
+【来源站点 / 底本出处】
+识典古籍（shidianguji.com）
+
+【来源链接】
+- https://www.shidianguji.com/zh/book/AMNL018904/chapter/1ma3s1poo0npc
+
+【GitHub 位置】
+分支：刘耔琳
+仓库：https://github.com/liuzilin94/team-communication-incentive-crawl/tree/liuzilin
+- 刘耔琳/013965_特纠大臣疏/正文.txt
+
+【网盘留存文件】
+- （网盘未留存 PDF/图片等源资料）
+
+【版本与出版信息】
+出版社：识典古籍
+出版版别：在线全文；郭華野先生疏稿
+爬取日期：9.14

@@ -1,0 +1,728 @@
+第44 卷，第4 期
+2025 年8 月
+人  类  学  学  报
+ACTA   ANTHROPOLOGICA   SINICA
+Vol.44, No.4
+August, 2025
+文章编号: 1000-3193(2025)04-0688-12; 收稿日期： 2024-03-03；定稿日期：2024-04-09
+基金项目：国家自然科学基金(42002005)；中科院青年创新促进会项目(2022070)；中国科学院南京地质古生物研究所现代古
+生物学和地层学国家重点实验室开放课题(223119)；国家重点基础研究发展规划项目(2015CB953803)；贵州贵安
+牛坡洞遗址资料整理与研究(2012-2020)(22&ZD247)
+作者简介：马姣，副研究员，主要从事生物考古和哺乳动物古生态研究。E-mail: majiao@ivpp.ac.cn
+通讯作者：胡耀武，教授，主要从事科技考古和生物考古研究。E-mail: ywhu@ucas.ac.cn
+Citation:  Ma J, Fu YX, Chen XL, et al. Carbon and Nitrogen stable isotope changes of mammalian bones from the Niupodong site, 
+Guizhou[J]. Acta Anthropologica Sinica, 2025, 44(4): 688-699
+CSTR: 32091.14.j.1000-3193/AAS.2024.0073; DOI: 10.16359/j.1000-3193/AAS.2024.0073; 中图法分类号: Q915.86/O657.63; 文献标识码: A 
+贵州牛坡洞遗址动物骨骼的碳氮稳定同位素变化
+马 姣1,2，付永旭3，陈相龙3，武仙竹4，胡耀武5,6
+1. 中国科学院脊椎动物演化与人类起源重点实验室，中国科学院古脊椎动物与古人类研究所, 北京100044；2. 现代古生物学
+和地层学国家重点实验室，中国科学院南京地质古生物研究所，南京 210008；3. 中国社会科学院考古研究所，北京100710；
+4. 重庆师范大学，重庆 401331；5. 复旦大学文物与博物馆学系，上海 200433；6. 复旦大学科技考古研究院，上海 200433
+摘要：本研究对牛坡洞遗址从旧石器时代晚期至新石器时代晚期的四期文化遗存中的92 例动物骨骼进行
+碳氮稳定同位素分析，探讨人类狩猎策略及所处环境的变化。水鹿、梅花鹿等五种哺乳动物的碳氮稳定
+同位素数据反映出栖息在林地的生态习性，且在不同时期未见明显变化，表明这些动物都是人类狩猎所获，
+没有人工驯养痕迹。无论是样品量最大且最具代表性的水鹿，还是所有哺乳动物，其δ
+13C 值的分布范围
+在前三期有所增大，却在第四期有所减小。这可能与先民的狩猎半径呈正相关，表明在前三期，牛坡洞
+先民的狩猎范围逐渐扩大，而在第四期却有所缩小。这种变化可能与第二期和第三期石器技术的进步以
+及前三期文化中较高的狩猎强度相关。尽管该区域在约万年的历史中经历了气候环境的巨大变化，但牛
+坡洞先民依然能长期有效地利用周边环境中的动物资源，在黔中地区长期生存。
+关键词：牛坡洞遗址；哺乳动物；稳定同位素；人类行为；古环境
+Carbon and Nitrogen stable isotope changes of mammalian bones 
+from the Niupodong site, Guizhou
+MA Jiao
+1,2, FU Yongxu
+3, CHEN Xianglong
+3, WU Xianzhu
+4, HU Yaowu
+5,6
+1. Key Laboratory of Vertebrate Evolution and Human Origins of Chinese Academy of Sciences, Institute of Vertebrate Paleontology and 
+Paleoanthropology, Chinese Academy of Sciences, Beijing 100044; 2. State Key Laboratory of Palaeobiology and Stratigraphy, Naijing 
+Institute of Geology and Palaeontology, Chinese Academy of Sciences, Nanjing 210008; 3. Institute of Archaeology, Chinese Academy of 
+Social Sciences, Beijing 100710; 4. Chongqing Normal University, Chongqing 401331; 5. Department of Cultural Heritage and Museology, 
+Fudan University, Shanghai 200433; 6. Institute of Archaeological Science, Fudan University, Shanghai 200433
+Abstract: The recovery of animal prey remains from archaeological sites provides a direct link 
+to human hunting activity and serves as a valuable indicator of paleoenvironmental changes. In 
+this study, we conducted carbon and nitrogen isotope analyses on mammalian bones from the 
+Niupodong site in Guizhou Province to explore the mammalian paleoecological shifts across the 
+‌• 689 •
+4 期
+马姣，等：贵州牛坡洞遗址动物骨骼的碳氮稳定同位素变化
+first to the fourth cultural phases, with the aim of elucidating the chronological changes in human 
+activities and paleoenvironments spanning from the Upper Paleolithic to Upper Neolithic. 
+Out of 92 mammalian bone specimens, collagen was successfully extracted from 80, with 72 
+yielding qualified isotopic data. The mean δ
+13C and δ
+15N values of various species including 
+Cervus unicolor (sambar), Cervus nippon (sika deer), Muntiacus sp. (muntjac), Sus scrofa (wild 
+boar), and Bubalus sp. (water buffalo) were −20.3‰±1.5‰ (n=72) and 4.9‰±0.9‰, indicating 
+that these mammals mainly inhabited forest environments dominated by C3 vegetation during the 
+time of ancient human occupation at the Niupodong site. This indicates that these animals were 
+primarily obtained through human hunting, with no apparent signs of domestication. 
+The range of mammalian δ
+13C values gradually expanded from Phase 1, potentially indicating 
+an expansion of hunting areas due to increased demand for food resource after Phase 2. Cultural 
+connotation changes were observed during the second and third phases, possibly suggesting 
+advancements in hunting techniques. Coinciding with these cultural shifts, animal bones were 
+highly fragmented at the Niupodong site during the first three phases but became less fragmented 
+during Phase 4. The δ
+13C range of all the mammals, indicated by the standard deviations of the δ
+13C 
+values, was narrower during Phase 4 compared to Phase 3, possibly due to the shrinkage of their 
+hunting areas. The standard deviations of δ
+13C values for sambar specimens were relatively large 
+in the first three periods, peaking in Phase 2 and decreasing to the smallest in Phase 4. This similar 
+trend in data variations among sambar specimens may also reflect changes in hunting intensity. 
+Based on paleoenvironmental studies, Phase 1 of the Niupodong site, estimated to be 
+approximately 15,000 BP, corresponds to the late glacial period. The second and third phases 
+align roughly with the Holocene climatic optimum, characterized by a strong monsoon signal and 
+a warm, humid climate, while Phase 4 corresponds to a weakening monsoon signal and a trend 
+towards arid, cold conditions. In this study, the δ
+13C values of water buffalo specimens during 
+the second and third phases were higher than those of Phase 4, exhibiting a C4 signal during 
+Phase 3. Since water buffalo are better indicators of paleoenvironmental conditions compared to 
+cervids, which prefer inhibiting forests, the observed changes are likely associated with large-
+scale climate variations and shifts in vegetation. Moreover, isotopic data from other animals 
+show minimal temporal changes. This suggests that despite significant paleoenvironmental and 
+paleoclimatic fluctuations across the four cultural phases at the Niupodong site, early humans 
+effectively utilize the animal resources in the surrounding forests, sustaining long-term survival 
+in this region. However, given the gaps between different cultural phases at the Niupodong site, 
+further researches are needed to explore the environmental characteristics of the surrounding 
+areas in the absence of human activity and to determine whether human use of the cave is linked 
+to environmental changes.
+Keywords: Niupodong site; mammals; Carbon and Nitrogen isotope; human adaptation; 
+paleoenvironments 
+人  类  学  学  报
+‌• 690 •
+44 卷
+1 引言
+晚更新世末期以来，全球气候呈现逐渐转暖的大趋势，史前人类的适应行为发生了
+剧变，其中包括农业的兴起和社会进程的愈加复杂化等。东亚地区复杂多样的自然环境塑
+造了史前人类多样化的适应行为，而探索史前人类适应行为的变迁及其与环境演变之间的
+关系是考古学中一个重要议题。在黄河流域和长江流域，农业的起源及发展是我国旧石器
+时代晚期之后考古学研究的热点问题
+[1,2]。而在华南、西南等地区，早期人类对环境的适
+应行为与农业核心区明显不同，呈现出多样化的特点
+[3-5] 。
+近年来，国际学术界对亚洲低纬度地区早期人类生业模式的关注明显提升，尤其是
+针对早期人类对森林资源的利用
+[6] 及农业活动的发生与传播
+[4,7] 开展了大量研究。我国西
+南地区气候温暖湿润，地形地貌复杂多样，动植物资源丰富，因此成为狩猎采集活动发生
+率和回报率最高且时间最长的地区
+[3]。一系列研究显示，贵州、云南、广西等地区多个遗
+址中，狩猎采集经济在早期人群的生存策略中占据了长期稳固的地位
+[5,8-10] 且新石器时代
+晚期开始出现粟黍和水稻混合种植的农业格局
+[4,7]。然而，在从旧石器时代晚期至新石器
+时代晚期的较长时间尺度上对古环境、人类活动以及二者相关性的系统研究仍较为缺乏。
+通过对考古遗址中动物骨骼的稳定同位素分析，不仅可以揭示人类活动所处的古环
+境，也能反映人类对动物资源的利用策略及变化
+[11,12]。贵州牛坡洞是一处文化内涵丰富
+且堆积较厚的考古遗址，保存了从旧石器时代晚期距今约15000 年至春秋战国时期的五
+期文化遗存，也包含丰富的动物骨骼材料
+[13-17]。本次研究将对牛坡洞遗址前四期文化层
+中哺乳动物的骨骼进行碳氮稳定同位素分析，通过哺乳动物生态习性和所处环境的变化，
+探索人类活动的变迁及其与古环境变化的关系。
+2 碳氮稳定同位素分析原理
+根据植物光合作用的不同途径，陆生植物可分为C3、C4 和CAM 三种类型
+[18,19]。C3 类
+植物包括乔木、大多数灌木以及部分高纬度或高海拔地区的草本植物，C4 植物主要包括低
+纬度、低海拔地区的草本植物。具有不同光合作用途径的植物，其δ
+13C 值有着显著差异
+[19]。
+此外，温度、降雨量、海拔、光照强度、大气CO2 浓度、森林中的“冠层效应”(Canopy 
+effect) 等气候环境因素，也对植物的δ
+13C 值存在不同程度的影响
+[20-22]。植物中的同位素信号
+经由食物链进入动物的不同身体组织时，会发生不同程度的分馏效应
+[23]。一般认为，从植
+物到生物体的骨胶原，δ
+13C值富集约5‰
+[24]，在不同营养级之间也存在着约1‰的微小差异
+[25]。
+自然界中植物的δ
+15N 值主要受到干旱和降雨量的影响，土壤会在较强的蒸发作用下
+流失较轻的
+14N，因此干旱地区的植物、动物及人类的δ
+15N 值一般较高
+[26]。另外，海拔的
+升高也会导致植物δ
+15N 值的降低
+[27]。在食物链的上升过程中，每上升一个营养级，生物
+体的δ
+15N 值一般会富集3‰~5‰
+[28]。此外，动物体自身的新陈代谢，如疾病、哺乳、冬眠、
+生存压力（饥饿、缺水）等因素都会对其δ
+15N 值产生重要的影响
+[29,30]。
+‌• 691 •
+4 期
+马姣，等：贵州牛坡洞遗址动物骨骼的碳氮稳定同位素变化
+利用稳定同位素分析考古遗址中出土的哺乳动物骨骼等遗存可以有效揭示出其食物
+来源，进而反映人类活动的变化及其所处的古气候和古环境信息。在更新世晚期以来的欧
+洲及北美洲，马鹿、野牛、野马等食草动物的碳氮稳定同位素数据都显示出较大的历时性
+波动
+[31-33]。这些数据变化与同一时期其他的古气候记录耦合度能较好耦合，说明有蹄类动
+物的碳氮稳定同位素在一定程度上可以示踪气候环境的变化。
+3 材料和方法
+3.1   考古学背景及研究材料
+牛坡洞遗址位于贵州省贵安新区，是一处堆积较厚、层序完整、内涵丰富的洞穴遗址。
+自2008 年以来，经过多年的系统发掘与研究，牛坡洞遗址出土了大量石器、骨器、陶片、
+动植物遗存等。牛坡洞遗址的文化遗存可分为五个时期：第一期为距今约15000 年的旧石
+器时代晚期；第二期的绝对年代在距今10200~8700 年，大致处于旧、新石器时代过渡期；
+第三期的绝对年代在距今8000~5500 年，应属于新石器时代中晚期；第四期的绝对年代为
+4765~4615 年，属于新石器时代晚期；第五期的文化遗存可能已进入春秋战国时期
+[13-17]。
+牛坡洞遗址的前四期文化遗存构建了从旧石器晚期至新石器时代晚期的文化序列，为研究
+西南地区史前人类生存方式的转变提供了绝佳的机会。
+本研究从牛坡洞遗址选取了92 例骨骼样品进行稳定同位素分析，包括水鹿Cervus unicolor 
+(n=43)、梅花鹿Cervus nippon (n=20)、麂Muntiacus sp (n=14)、水牛Bubalus sp (n=11) 和野猪Sus 
+scrofa (n=4)。其中第一至第四期样品量分别为37、16、19、20 个。取样时，我们尽量在每一
+期都覆盖不同种类哺乳动物，但因麂和野猪本身数量较少，我们未能在四期都获得样品。
+3.2   骨胶原提取及稳定同位素分析
+牛坡洞遗址动物骨骼骨胶原的提取，依照Jay 和Richards 所使用的流程并略作修改
+[34]。
+首先，机械去除骨骼表面的污染物质，并用超声波清洗干燥。其次，用天平称取2 g 左右
+的样品，浸泡于0.5 M 盐酸溶液，并放置于4℃的冰箱中脱钙，每隔一天更换酸液，直至
+样品松软无气泡。用去离子水将样品冲洗至中性，再于0.125 M 的NaOH 溶液中4℃下浸
+泡20 h，然后冲洗至中性。再次，在样品中加入0.001 M 盐酸，于70℃的烘箱中明胶化
+约48 h，过滤、冷冻干燥得到骨胶原。最后，称重最后所得的骨胶原并计算提取率。
+骨胶原样品的C、N 元素含量及其稳定同位素比值，在中国科学院大学考古稳定同位
+素实验室（73 件样品）和中国农业科学院农业环境与可持续发展研究所稳定同位素实验室
+（7 件样品）完成。测试仪器均为元素分析仪(Elementar Vario) 联用的同位素质谱仪(IsoPrime 
+100 IRMS)。骨胶原的C、N 含量测定的标准物质为磺胺(Sulfanilamide)。同位素测试和
+校正的国际标准物质为Caffeine、IAEA-N-2、IAEA-CH-6、USGS-40 和USGS-41。每10
+个样品穿插一组标准样品，同时还加入骨胶原实验室标准物质(δ
+13C: 14.7‰±0.2‰; δ
+15N: 
+6.9‰±0.2‰) 对测试样品的数据进行监控。C、N 稳定同位素的分析结果分别表示为相对于
+国际标准VPDB 和AIR 的δ
+13C 和δ
+15N，分析精度分别为±0.1‰ 和±0.2‰。
+人  类  学  学  报
+‌• 692 •
+44 卷
+4 结果
+4.1   骨骼污染的鉴别
+骨骼在长期的埋藏过程中，会受温度、地下水侵蚀及微生物活动等因素的干扰，造
+成骨胶原降解或流失，从而导致其原初化学成分的丧失。因此，鉴别骨骼受污染的程度，
+是开展同位素分析的前提条件
+[35,36]。本次研究中的92 例骨骼样品，经过前处理后有80 例
+成功提取了骨胶原，12 例样品提取骨胶原失败。这一方面是由于牛坡洞遗址处在温暖湿
+润的地区，不太适宜骨骼样品的保存；另一方面，较高的人类利用强度致使动物骨骼的破
+碎度较高
+[16]，不利于有机质的保存。保存较好的骨胶原，其C、N 元素含量应分别位于
+15.3%~47%和5.5%~17.3%范围内，且C、N摩尔比值也应介于2.9~3.6之间
+[37]。在本研究中，
+对80 例骨胶原样品进行了测试，结果显示仅有72 例样品符合保存条件，可用于后续的稳
+定同位素分析。这些符合保存条件的骨胶原样品得率均值为7.1%±3.9%(n=72)，远低于现
+代样品（约含20% 骨胶原）（具体数据详见本文网络版附属材料）
+[38]。72 例骨胶原样品的C、
+N 元素含量分别位于28.0%~47.0% 和9.7%~17.2% 范围内，C、N 摩尔比为3.2~3.4，表明
+其基本未受污染，可用于稳定同位素分析。
+4.2   碳氮稳定同位素数据结果及初步分析
+4.2.1 数据整体结果
+由表1 和图1 可见，所有动物样品的δ
+13C 值处在−25.7‰ 到−15.9‰ 之间，均值为
+−20.3‰±1.5‰(n=72)。根据从骨胶原到食草动物摄入的食物之间5‰ 的分馏系数，除了2
+例水牛δ
+13C 值为−15.9‰ 和−16.9‰, 显示出微弱的摄入C4 类植被的信号，其余动物的
+δ
+13C 值皆反映出以纯C3 类植物为食的特点。牛坡洞哺乳动物的δ
+15N 值分布于3.5 ‰ 到7.8‰
+之间，均值为4.9‰±0.9‰(n=72)，符合食草类动物的营养级特征。
+牛坡洞遗址三种鹿类的δ
+13C 和δ
+15N 值分布普遍重叠，均值也很接近（表1，图1），
+表明其主要栖息于森林环境，食物来源较为相似，符合现生种的生态习性
+[39-40]。水鹿的
+δ
+13C 值分布范围大于麂和梅花鹿，其标准偏差也最大，说明麂和梅花鹿对食物的选择性强
+于水鹿
+[41]。麂的δ
+15N 值为5.8‰±1.4‰(n=8)，明显高于水鹿(4.7‰±0.7‰, n=34) 和梅花鹿
+(4.7‰±0.6‰, n=18)。如图1 所示，麂较高的δ
+15N 均值实际上源自2 个异常高的离群δ
+15N
+值(7.8‰)，这可能代表了2 个幼年个体受到哺乳效应的影响而导致δ
+15N 值升高
+[29]，而非
+因摄入特殊的植物资源。
+牛坡洞中野猪的样本量较少，本研究中仅在第一、四期获得了数据。野猪的δ
+13C 和
+δ
+15N 值均比较低，与鹿类的数据分布相似，表明其主要以野生的C3 类植物为食，没有显
+示出人工干预的信号。在甑皮岩、牛栏洞、打儿窝等遗址中，猪的数量也显著少于鹿类
+[42-44]，
+这表明早期先民更倾向于捕猎鹿类，也可能意味着在环境资源丰富的情况下，先民缺乏
+发展动物饲养的充足动力
+[44]。本研究中水牛的δ
+13C 和δ
+15N 值分别为−19.0‰±2.0‰ 和
+5.4‰±0.7‰(n=8)，高于水鹿、梅花鹿和野猪。野生水牛喜食草类，生活在开阔近水的环
+‌• 693 •
+4 期
+马姣，等：贵州牛坡洞遗址动物骨骼的碳氮稳定同位素变化
+境中，如河漫滩、沼泽地带，而生长于较为低洼地区的禾本科植物或者水生植物，一般
+具有较高的δ
+13C 值和δ
+15N 值。牛坡洞水牛的数据特点与跨湖桥、青龙泉等南方地区遗址
+中水牛的数据特点一致，说明水牛在不同地区生态习性的相似性
+[45,46]。
+4.2.2 历时性变化
+总体来看，牛坡洞中哺乳动物的碳氮稳定同位素在各分期之间并未呈现出显著变化
+（表2、3，及本文网络版附属材料），这表明在有人类活动发生时，牛坡洞周边地区的
+环境是以C3 类植被为主导的较为稳定的森林环境。如图2 和表2、3 所示，尽管第一期的
+样品数量最多，但是所有样品的δ
+13C 值分布范围最为狭窄(−22.0‰~−19.0‰)。在第二期
+时，所有样品的δ
+13C 值分布范围扩大(−22.5‰~−17.8‰)。由于样品保存状况不佳，第三期
+的19 个样品中仅有10 例获得了可靠的同位素数据。尽管如此，第三期所有样品的δ
+13C 值
+分布范围明显大于第二期(−25.7‰~−15.9‰)。第四期时，所有样品的δ
+13C 值分布范围变小
+(−21.7‰~−17.8‰)，且均值升高。除去第一期中2 个δ
+15N 值偏高的麂，所有样品的δ
+15N 均
+值和分布范围在不同文化分期中的差异很小，仅在第四期时δ
+15N 值整体偏低。
+由于骨骼样品量和保存状况的差异，最终只有水鹿的样品在四期内都获得了可靠的
+同位素数据；梅花鹿的数据仅在前三期有记录；而水牛的数据则分布于第二期至第四期。
+表1  牛坡洞四期哺乳动物的δ
+13C 和δ
+15N 值汇总
+Tab.1 Mean values and standard deviation (SD) of the δ
+13C and δ
+15N values of all the mammals from the Niupodong site
+种属Species
+δ
+13C
+SD
+δ
+15N
+SD
+样品量Sample amounts (n)
+麂Muntiacus sp.
+−20.8 ‰
+1.1
+5.8 ‰
+1.4
+8
+梅花鹿Cervus nippon 
+−20.8 ‰
+1.3
+4.7 ‰ 
+0.6
+18
+水鹿Cervus unicolor
+−20.2 ‰ 
+1.5
+4.7 ‰ 
+0.7
+34
+野猪Sus scrofa
+−20.4 ‰
+0.8
+4.7 ‰
+0.9
+4
+水牛Bubalus sp.
+−19.0 ‰
+2.0
+5.4 ‰ 
+0.7
+8
+总计Total
+−20.3 ‰
+1.5
+4.9 ‰
+0.9
+72
+图1  牛坡洞72 例哺乳动物骨骼的碳氮稳定同位素数据散点图
+Fig.1  Scatter plot of δ
+13C and δ
+15N values of the 72 mammalian bones from the Niupodong site
+人  类  学  学  报
+‌• 694 •
+44 卷
+图2  牛坡洞哺乳动物碳氮稳定同位素分期散点图
+Fig.2  Scatter plots of δ
+13C and δ
+15N values of the mammal bones from the Niupodong site during the four cultural phases
+表3  牛坡洞动物骨骼δ
+15N 值在各期的平均值及标准偏差
+Tab.3 Mean values and SD of the δ
+15N values of the animal bones from the Niupodong site during the four cultural phases
+文化分期Cultural phases→
+第一期Phase 1
+第二期Phase 2
+第三期Phase 3
+第四期Phase 4
+种属Species↓
+δ
+15N
+SD
+δ
+15N
+SD
+δ
+15N
+SD
+δ
+15N
+SD
+麂Muntiacus sp.
+5.8 ‰
+1.4
+梅花鹿Cervus nippon 
+4.5 ‰
+0.5
+4.6 ‰
+0.3
+5.4 ‰
+0.6
+水鹿Cervus unicolor
+4.9 ‰
+0.6
+4.7 ‰
+0.6
+4.8 ‰
+0.9
+4.5 ‰
+0.9
+野猪Sus scrofa
+4.1 ‰
+0.4
+5.3 ‰
+0.8
+水牛Bubalus sp.
+6.2 ‰
+0.5
+5.9 ‰
+0.4
+4.8 ‰
+0.3
+总计Total
+4.9 ‰
+0.9
+4.9 ‰
+0.8
+5.2 ‰
+0.8
+4.7 ‰
+0.8
+表2  牛坡洞动物骨骼δ
+13C 值在各期的平均值及标准偏差
+Tab.2 Mean values and SD of the δ
+13C values of the animal bones from the Niupodong site during the four cultural phases
+文化分期Cultural phases→
+第一期Phase 1
+第二期Phase 2
+第三期Phase 3
+第四期Phase 4
+种属Species↓
+δ
+13C
+SD
+δ
+13C
+SD
+δ
+13C
+SD
+δ
+13C
+SD
+麂Muntiacus sp.
+−20.8 ‰
+1.1
+梅花鹿Cervus nippon 
+−20.5 ‰
+0.5
+−21.2 ‰
+0.5
+−22.2 ‰
+3.0
+水鹿Cervus unicolor
+−21.1 ‰
+1.4
+−20.1 ‰
+1.8
+−20.6 ‰
+1.3
+−19.2 ‰
+0.9
+野猪Sus scrofa
+−19.9 ‰
+0.4
+−21.0 ‰
+0.7
+水牛Bubalus sp.
+−19.0 ‰
+0.1
+−16.4 ‰
+0.7
+−20.2 ‰
+1.6
+总计Total
+−20.7 ‰
+1.0
+−20.1 ‰
+1.6
+−20.2 ‰
+2.7
+−19.6 ‰
+1.2
+图3 中绘制了水鹿、梅花鹿和水牛在不同分期碳氮稳定同位素的箱线图，以探讨每个类群
+在不同阶段的差异。水鹿在第四期的δ
+13C 值比第一期和第三期明显偏高，除此之外其他
+各阶段的碳氮同位素数据不存在统计学差异（具体数据详见本文网络版附属材料）。此外，
+‌• 695 •
+4 期
+马姣，等：贵州牛坡洞遗址动物骨骼的碳氮稳定同位素变化
+水鹿δ
+13C 值的标准偏差在第二期时最大，其后逐渐变小（表2）。梅花鹿和水牛在各期的
+样本量偏少，不适宜进行统计学检验。梅花鹿的δ
+13C 值在第一至第三期均比较稳定，但
+在第三期有1 例梅花鹿的δ
+13C 值明显偏低(−25.7‰)，且第三期时梅花鹿的δ
+15N 值偏高。
+尽管略有波动，水鹿和梅花鹿的同位素数据整体上还是显示出稳定栖息于森林环境中的特
+点，因此其生态习性可能较少受到环境变化的影响。
+相比于鹿类和野猪，水牛偏好开阔近水的环境，从而具有更为显著的环境指示意义。
+水牛的δ
+13C 值在第二期和第四期时与鹿类重叠，但第三期的2 例水牛δ
+13C 值(−15.9‰, 
+−16.9‰) 明显高于同期的水鹿和梅花鹿，显示出了微弱的C4 信号。这说明在距今
+8000~5500 年前的牛坡洞第三期文化阶段，水牛生活的河漫滩及沼泽地带中季节性C4 草
+类的增多。与此相关的是，广西甑皮岩遗址水牛的饮食中也包含了大量的C4 植物
+[10]。说
+明在全新世早中期，西南地区的雨热条件适宜于C4 植物的生长。水牛的δ
+13C 在第四期则
+呈下降趋势，同时其δ
+15N 值也降低，可能说明这一时期周围环境中C4 植物减少。
+5 讨论
+5.1   牛坡洞哺乳动物的古生态变化所反映的人类活动
+通过以上分析可知，牛坡洞遗址中哺乳动物的碳氮稳定同位素在一定程度上反映了
+近万年来牛坡洞先民所处的环境及其变化。此外，作为先民长期主要的狩猎目标，动物骨
+骼的碳氮同位素数据中也包含着与人类活动直接相关的信息。
+首先，牛坡洞四期哺乳动物的同位素数据并未显示出人类干预或管理动物的迹象，
+说明这些哺乳动物基本都是狩猎所获，这也与动物考古的研究结果一致
+[16]。本研究中样
+品量最多的水鹿，不仅是牛坡洞先民万年以来最主要的捕猎对象，也是整个东南亚地区早
+期人类最重要的肉类资源
+[8,9,47]。除水鹿外，牛坡洞的梅花鹿和水牛也是重要的肉类资源，
+而麂和野猪的肉量贡献水平一直较低
+[16]。
+其次，牛坡洞遗址不同动物类群的碳氮稳定同位素均值在五期文化之间变化较小，
+说明早期人类主要在森林环境中狩猎（表2，表3）。这种稳定的同位素数据特点也反映
+出旧石器时代晚期至新石器时代晚期阶段人类活动发生时牛坡洞遗址所处区域环境较为稳
+定，从而支持了先民长期原地狩猎的生业模式。尽管不同分期哺乳动物的碳氮稳定同位素
+均值变化不大，但从数据分布的特点和趋势来看，仍可能蕴含与人类活动相关的重要信息。
+根据牛坡洞不同分期的文化特征可知，狩猎活动的强度主要表现在细小打制石制品的
+数量和动物骨骼破碎度上，这两者在前三期都维持着相当高的水平，但自第四期开始逐渐
+下降
+[13-17]。总体趋势也显示，前三期哺乳动物的δ
+13C 值分布范围逐渐扩大，标准偏差持
+续增大，在第三期达到最高水平，但在第四期又出现下降（表2）。哺乳动物δ
+13C 值的分
+布范围可能与狩猎来源地相关。因此，这种δ
+13C 值的变化趋势可能表示在第二期和第三期，
+随着石器技术的进步，人类捕获的动物来源地逐渐多样化，狩猎范围逐渐扩大。在牛坡洞
+第二期遗存中发现了六座墓葬，第三期遗存中也出土了墓葬、多处活动面和人类用火遗迹，
+并发现少量螺蛳
+[15]。这些发现表明，在第二期和第三期，牛坡洞先民仍继续着狩猎采集
+人  类  学  学  报
+‌• 696 •
+44 卷
+的生业模式，也可能已逐渐形成了更加稳定的居住方式。石器技术的进步和人群社会结构
+的变迁反映出，在相对稳定的狩猎采集模式下，人口规模和资源需求逐渐增长，这可能是
+导致第二期和第三期牛坡洞先民狩猎范围逐渐扩大的深层原因。第四期文化遗存的内涵与
+第三期有明显的不同，其中出现了制作水平较高的陶器，可能与第三期文化之间存在较大
+的缺环
+[17]。在西南地区这一时期已有水稻及粟作农业的发展
+[7]；动物考古的研究也显示
+第四期时牛坡洞先民狩猎活动有所减弱
+[16]。与第三期相比，第四期哺乳动物的δ
+13C 值分
+布范围有所缩减，表明随着第四期狩猎强度的减弱，先民的狩猎范围可能比之前有所缩减。
+需要说明的是，第三期的样品由于保存状况不佳导致数据量较少，水牛样品中出现
+的C4 信号和1 例梅花鹿样品的δ
+13C 值偏低是造成δ
+13C 值分布范围变大的原因。此外，第
+三期的19 例样品中仅有10 例获得了有效的同位素数据，也在一定程度上与这一期样品的
+高破碎度有关，说明这一时期狩猎活动的强度较高。
+水鹿样品δ
+13C 值的标准偏差在前三期都比较大，其中第二期最高，相较而言第四期
+的δ
+13C值标准偏差最小。这可能也与牛坡洞第四期狩猎强度的降低和狩猎范围的缩减有关。
+相比于第三期，水鹿在第四期的δ
+13C 值显著升高，δ
+15N 值略有降低（表2，表3；图3）。
+图3 牛坡洞的水牛、梅花鹿和水鹿碳氮稳定同位素的分期箱线图
+Fig.3  Boxplots of δ
+13C and δ
+15N values of Bubalus sp., Cervus nippon, and C. unicolor from the Niupodong 
+site during the four cultural phases
+箱体上下缘为上下四分位数，中部线条为中位数。每个箱体从上下边缘延伸至最大/ 最小值，但不超过距离箱线1.5 倍四分
+位距。超出此范围的数值视为异常值，并绘制为单独的点。The upper and lower edges of the box represent the upper and lower 
+quartiles of each data group, while the black line inside the box represents the median. Each box extends from the upper to the lower 
+edge to encompass the maximum and minimum values, but not beyond 1.5 times the interquartile range. Any values outside this range 
+are considered outliers and plotted individually.* 代表组间Mann-Whitney 检验的p 值小于0.05。The symbol * indicates that the 
+p-value for the between-group Mann-Whitney test is less than 0.05
+‌• 697 •
+4 期
+马姣，等：贵州牛坡洞遗址动物骨骼的碳氮稳定同位素变化
+考虑到第四期牛坡洞先民的狩猎强度有所下降，推测水鹿的同位素数据变化可能暗示第四
+期时先民狩猎水鹿的范围有所缩减，且来源地也发生了变化。
+此外，某几个δ
+15N 值异常高的麂和梅花鹿样品（图2）可能是幼年个体
+[29]。这表明
+牛坡洞先民在捕获鹿类时，可能会选择资源回报率较低但更易捕获的幼年个体。动物考古
+学研究也发现该遗址有一定比例的幼年个体
+[16]，这表明对于难以辨别年龄的骨骼遗存，
+碳氮稳定同位素数据能够提供一些与年龄相关的有效信息。
+5.2  牛坡洞的古环境与人类活动的相关性
+根据古气候研究的数据，中国南方地区在距今约10000~6000 年前处于全新世大暖期，
+整体气候温暖湿润，东亚季风有所增强
+[48-50]。然而，在距今约8200 年和6600 年时，发生
+了显著的降温事件
+[50]。在距今约6000~4000 年间，气候趋向于干冷化，降雨量减少
+[49]。根
+据贵州省董哥洞石笋的氧同位素记录可知，在距今约11500 年时，该地区的季风信号显著
+增强，并一直持续到距今约6000 年前，之后逐渐减弱
+[51]。同时，长江以南地区湖泊及泥
+炭沉积记录的高碳数正构烷烃稳定碳同位素分析发现，在末次盛冰期之后，随着温度的升
+高和夏季降雨的增多，C4 植被的比例显著增高，在全新世早期达到最高，之后逐渐降低
+[52]。
+牛坡洞第一期文化属于旧石器时代晚期，推测年代为距今约15000 年，大致处于末次
+冰期的晚期阶段。第二期和第三期大致处于季风信号强、气候湿热的全新世大暖期，第四期
+则大致对应东亚季风信号减弱和气候干冷化的背景。本研究中水牛样品在第三期时出现了微
+弱的C4 信号，但在第四期时C4 信号消失。这种变化可能与全新世大暖期时南方地区C4 植
+被增多，之后逐渐减少的环境背景有关。除此之外，其他动物的同位素数据大多没有出现明
+显的历时性变化，反映出牛坡洞地区长期存在的森林环境。哺乳动物的同位素数据所反映的
+环境面貌与人类活动直接相关，因此其变化趋势不同于沉积物中大尺度的气候环境信号。
+6 结论
+本次研究通过对贵州牛坡洞遗址跨度约万年的四期文化遗存中动物骨骼的碳氮稳定同
+位素分析，初步探索了西南地区旧石器时代晚期以来人类适应行为的变化及其与古环境的关
+系。综合研究结果显示，牛坡洞遗址的五种哺乳动物碳氮稳定同位素均值在历史上并未出现
+明显变化，表明这些动物都是野生来源，反映了牛坡洞先民长期依赖森林狩猎的生业模式。
+前三期哺乳动物δ
+13C 值的分布范围逐渐扩大，第三期达到最高水平，这可能表明随着石器
+技术的进步和资源需求的增加，牛坡洞先民的狩猎能力提升，狩猎范围逐渐扩大。第四期哺
+乳动物δ
+13C 值范围缩小以及水鹿碳氮稳定同位素数据的变化，暗示在西南地区农业发展的
+背景下，牛坡洞先民的狩猎范围可能缩小，甚至狩猎来源发生了变化。综合古气候和古环境
+研究，尽管区域气候环境经历了波动，牛坡洞先民仍然在不同时期充分利用森林动物资源，
+在黔中地区长期生存。因南方地区埋藏条件的限制和部分骨骼破碎程度较高，本研究存在一
+些不足。如，92 例样品中仍有20 例未能提取出骨胶原或获得可靠的稳定同位素数据，导致
+各期数据量不够均衡，特别是第二、三期数据量相对偏小。因此，期待未来更系统的动物考
+古和环境考古研究，以便可以更全面地揭示出牛坡洞万年以来的生业史和古环境的关系。
+人  类  学  学  报
+‌• 698 •
+44 卷
+致谢：德国图宾根大学的Hervé Bocherens 和Dorothée Drucker 教授在数据处理阶段给
+予了无私帮助，两位匿名审稿人和编辑部编辑对本文提出了宝贵的修改意见，在此一
+并表示感谢！
+附属材料：本文网络版附有如下相关材料：附图1— 骨骼样品及取样位置示意图；附表1—
+牛坡洞动物骨骼的样品信息及稳定同位素测试结果；附表2— 牛坡洞哺乳动物碳氮稳定同
+位素数据的组间Mann-Whitney 检验；敬请查阅。
+参考文献
+[1] 严文明．中国稻作农业的起源[J]．农业考古，1982, 1: 19-31
+[2] He KY, Lu HY, Zhang JP, et al. Prehistoric evolution of the dualistic structure mixed rice and millet farming in China[J]. The 
+Holocene, 2017, 27(12): 1885-1898
+[3] 陈胜前．中国晚更新世— 早全新世过渡期狩猎采集者的适应变迁[J]．人类学学报，2006, 25(3): 195-207
+[4] Li HM, Zuo XX, Kang LH, et al. Prehistoric agriculture development in the Yunnan-Guizhou Plateau, southwest China: 
+Archaeobotanical evidence[J]. Science China Earth Sciences, 2016, 59(8): 1562-1573
+[5] Liu RZ, Liu H, Chen SQ. Alternative adaptation strategy during the Paleolithic–Neolithic Transition: potential use of aquatic 
+resources in the Western Middle Yangtze Valley, China[J]. Quaternary, 2020, 3(3): 28
+[6] Roberts P, Perera N, Wedage O, et al. Direct evidence for human reliance on rainforest resources in late Pleistocene Sri Lanka[J]. 
+Science, 2015, 347(6227): 1246-1249
+[7] Gao Y, Dong GH, Yang XY, et al. A review on the spread of prehistoric agriculture from southern China to mainland Southeast 
+Asia[J]. Science China Earth Sciences, 2020, 63(5): 615-625
+[8] Zhang Y, Stiner MC, Dennell R, et al. Zooarchaeological perspectives on the Chinese Early and Late Paleolithic from the Ma’anshan 
+site (Guizhou, South China)[J]. Journal of Archaeological Science, 2010, 37(8): 2066-2077
+[9] Wang XM, Guan Y, Cai HY, et al. Diet breadth and mortality patterns from Laoya Cave: A primary profile of MIS 3/2 hunting 
+strategies in the Yunnan-Guizhou Plateau, southwest China[J]. Science China Earth Sciences, 2016, 59(8): 1642-1651
+[10] 刘晓迪，王然，胡耀武．桂林市甑皮岩与大岩遗址人和动物骨骼的碳氮稳定同位素研究[J]．考古，2021, 7: 83-95
+[11] Hartman G, Bar-Yosef O, Brittingham A, et al. Hunted gazelles evidence cooling, but not drying, during the Younger Dryas in the 
+southern Levant[J]. Proceedings of the National Academy of Sciences, 2016, 113(15): 3997-4002
+[12] Naito YI, Hirose M, Belmaker M, et al. Paleoenvironment and human hunting activity during MIS 2 in southern Jordan: Isotope 
+records of prey remains and paleosols[J]. Quaternary Science Reviews, 2022, 282: 107432
+[13] 付永旭，韦松恒，文应峰．贵州平坝县牛坡洞遗址2012~2013 年发掘简报[J]．考古，2015, (8): 16-36
+[14] 付永旭，黄超．贵州牛坡洞遗址新发现的陶器：兼论黔中史前洞穴遗址中的陶器[J]．南方文物，2017, (4): 41-50
+[15] 傅宪国，付永旭，张兴龙，等．贵州贵安新区牛坡洞遗址[J]．考古，2017, (7): 3-17
+[16] 王运辅．贵州贵阳牛坡洞遗址的动物考古学研究[D]．硕士学位毕业论文，北京：中国社会科学院大学研究生院，2019
+[17] 付永旭．贵州牛坡洞史前陶器来源初探[J]．中原文物，2020, 5: 49-57
+[18] O’Leary MH. Carbon isotope fractionation in plants[J]. Phytochemistry, 1981, 20(4): 553-567
+[19] Farquhar GD, Ehleringer JR, Hubick KT. Carbon isotope discrimination and photosynthesis[J]. Annual review of plant biology, 
+1989, 40(1): 503-537
+[20] Quade J, Cerling TE, Andrews P, et al. Paleodietary reconstruction of Miocene faunas from Paşalar, Turkey using stable carbon and 
+oxygen isotopes of fossil tooth enamel[J]. Journal of Human Evolution, 1995, 28(4): 373-384
+[21] Cavagnaro JB. Distribution of C3 and C4 grasses at different altitudes in a temperate arid region of Argentina[J]. Oecologia, 1988, 
+76(2): 273-277
+[22] Kohn MJ. Carbon isotope compositions of terrestrial C3 plants as indicators of (paleo)ecology and (paleo)climate[J]. Proceedings 
+of the National Academy of Sciences, 2010, 107(46): 19691-19695
+[23] Tieszen LL, Boutton TW, Tesdahl KG, et al. Fractionation and turnover of stable carbon isotopes in animal tissues: Implications 
+for δ13C analysis of diet[J]. Oecologia, 1983, 57(1-2): 32-37
+[24] Cerling TE, Harris JM. Carbon isotope fractionation between diet and bioapatite in ungulate mammals and implications for 
+‌• 699 •
+4 期
+马姣，等：贵州牛坡洞遗址动物骨骼的碳氮稳定同位素变化
+ecological and paleoecological studies[J]. Oecologia, 1999, 120(3): 347-363
+[25] Bocherens H. Preservation of isotopic signals (
+13C, 
+15N) in Pleistocene mammals[A]. In: Ambrose SH, Katzenberg MA. 
+Biogeochemical Approaches to Paleodietary Analysis[M]. Boston: Kluwer Academic Publishers, 2002, 65-88
+[26] Sealy JC, Merwe NJVD, Thorp JAL, et al. Nitrogen isotopic ecology in southern Africa: Implications for environmental and dietary 
+tracing[J]. Geochimica et Cosmochimica Acta, 1987, 51(10): 2707-2717
+[27] Männel TT, Auerswald K, Schnyder H. Altitudinal gradients of grassland carbon and nitrogen isotope composition are recorded in 
+the hair of grazers[J]. Global Ecology and Biogeography, 2007, 16(5): 583-592
+[28] Bocherens H, Drucker D. Trophic level isotopic enrichment of carbon and nitrogen in bone collagen: case studies from recent and 
+ancient terrestrial ecosystems[J]. International Journal of Osteoarchaeology, 2003, 13(1-2): 46-53
+[29] Dalerum F, Bennett NC, Clutton-Brock TH. Longitudinal differences in 
+15N between mothers and offspring during and after weaning in 
+a small cooperative mammal, the meerkat (Suricata suricatta)[J]. Rapid Communications in Mass Spectrometry, 2007, 21: 1889-1892
+[30] Lohuis TD, Harlow HJ, Beck TDI. Hibernating black bears (Ursus americanus) experience skeletal muscle protein balance during 
+winter anorexia[J]. Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular Biology, 2007, 147(1): 20-28
+[31] Richards MP, Hedges REM. Variations in bone collagen δ
+13C and δ
+15N values of fauna from Northwest Europe over the last 40 000 
+years[J]. Palaeogeography, Palaeoclimatology, Palaeoecology, 2003, 193(2): 261-267
+[32] Stevens RE, Hedges REM. Carbon and nitrogen stable isotope analysis of northwest European horse bone and tooth collagen, 
+40,000 BP–present: Palaeoclimatic interpretations[J]. Quaternary Science Reviews, 2004, 23(7-8): 977-991
+[33] Fox-Dobbs K, Leonard JA, Koch PL. Pleistocene megafauna from eastern Beringia: Paleoecological and paleoenvironmental 
+interpretations of stable carbon and nitrogen isotope and radiocarbon records[J]. Palaeogeography, Palaeoclimatology, 
+Palaeoecology, 2008, 261(1-2): 30-46
+[34] Jay M, Richards MP. Diet in the Iron Age cemetery population at Wetwang Slack, East Yorkshire, UK: carbon and nitrogen stable 
+isotope evidence[J]. Journal of Archaeological Science, 2006, 33(5): 653-662
+[35] Price TD, Blitz J, Burton J, et al. Diagenesis in prehistoric bone: problems and solutions[J]. Journal of Archaeological Science, 
+1992, 19(5): 513-529
+[36] Hedges RE. Bone diagenesis: an overview of processes[J]. Archaeometry, 2002, 44(3): 319-328
+[37] DeNiro MJ. Postmortem preservation and alteration of in vivo bone collagen isotope ratios in relation to palaeodietary 
+reconstruction[J]. Nature, 1985, 317(6040): 806-809
+[38] Van Klinken GJ. Bone collagen quality indicators for palaeodietary and radiocarbon measurements[J]. Journal of Archaeological 
+Science, 1999, 26(6): 687-695
+[39] MacCullough DR, Takatsuki S, Kaji K. Sika Deer: Biology and Management of Native and Introduced Populations[M]. Tokyo: 
+Springer Tokyo, 2009
+[40] Ahrestani FS, Heitkönig IMA, Matsubayashi H, et al. Grazing and browsing by large herbivores in South and Southeast Asia[A]. In: Ahrestani 
+FS, Sankaran M. The Ecology of Large Herbivores in South and Southeast Asia[M]. Dordrecht: Springer Netherlands, 2016, 225: 99-120
+[41] McCullough DR, Pei KCJ, Wang Y. Home range, activity patterns, and habitat relations of Reeves’ muntjacs in Taiwan[J]. The 
+Journal of Wildlife Management, 2000, 64(2): 430-441
+[42] 李有恒，韩德芬．广西桂林甑皮岩遗址动物群[J]．古脊椎动物与古人类，1978, (04): 244-254
+[43] 贵州省文物考古研究所．贵州开阳打儿窝岩厦遗址试掘简报[J]．长江文明，2013, (1): 1-19
+[44] 张弛．中国新石器化的最初进程[J]．史前考古，2024, (1): 1-19
+[45] 陈相龙，罗运兵，胡耀武，等．青龙泉遗址随葬猪牲的C、N 稳定同位素分析[J]．江汉考古，2015, (5): 107-115
+[46] 周杉杉．浙江省余姚田螺山遗址水牛驯化可能性的初步研究：基于C、N 稳定同位素食谱分析[D]．硕士学位毕业论文，
+杭州：浙江大学，2017
+[47] Leslie DM. Rusa unicolor (Artiodactyla: Cervidae)[J]. Mammalian Species, 2011, 43: 1-30
+[48] 施雅风．中国全新世大暖期气候与环境[M]．北京：海洋出版社，1992
+[49] Zhou W, Yu X, Jull AJT, et al. High-resolution evidence from southern China of an early Holocene optimum and a mid-Holocene 
+dry event during the Past 18,000 Years[J]. Quaternary Research, 2004, 62(01): 39-48
+[50] Xiao X, Haberle SG, Shen J, et al. Latest Pleistocene and Holocene vegetation and climate history inferred from an alpine 
+lacustrine record, northwestern Yunnan Province, southwestern China[J]. Quaternary Science Reviews, 2014, 86: 35-48
+[51] Dykoski C, Edwards R, Cheng H, et al. A high-resolution, absolute-dated Holocene and deglacial Asian monsoon record from 
+Dongge Cave, China[J]. Earth and Planetary Science Letters, 2005, 233(1-2): 71-86
+[52] 崔琳琳，胡建芳，王旭．末次盛冰期以来中国南方C3/C4 植被时空演化及影响机制[J]．中国科学：地球科学，2019, 49(8): 1246-1258
+（内容由AI生成，仅供参考）

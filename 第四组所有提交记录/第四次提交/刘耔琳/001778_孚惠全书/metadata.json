@@ -1,0 +1,18 @@
+{
+  "id": "001778",
+  "title": "孚惠全书",
+  "volume_count": null,
+  "text_file_count": 34,
+  "total_characters": 327352,
+  "source_url": "https://ctext.org/wiki.pl?if=gb&res=236434",
+  "source": "中国哲学书电子化计划（ctext.org）",
+  "author": null,
+  "publisher": "中国哲学书电子化计划",
+  "edition": "维基文库整理本",
+  "crawled_by": "刘耔琳",
+  "crawl_date": "2026-09",
+  "content_scope": "单篇/整理稿",
+  "notes": [
+    "获取方式：ctext.org 公开全文页抓取，按卷拆分保存"
+  ]
+}

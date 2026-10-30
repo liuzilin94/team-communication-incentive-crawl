@@ -1,0 +1,27 @@
+来源说明
+==============================================
+书目编号：016526
+书名：《隋元祎墓志》
+爬取状态：已完成（GitHub 有 TXT）
+
+【获取方式】
+识典古籍在线阅读页抓取正文
+
+【来源站点 / 底本出处】
+识典古籍（shidianguji.com）
+
+【来源链接】
+- https://www.shidianguji.com/book/7658636452997103666/chapter/1m6s1328mo3zz
+
+【GitHub 位置】
+分支：刘耔琳
+仓库：https://github.com/liuzilin94/team-communication-incentive-crawl/tree/liuzilin
+- 刘耔琳/016526_隋元祎墓志/正文.txt
+
+【网盘留存文件】
+- 刘耔琳pdf/第二次提交/16526_隋元祎墓志.pdf
+
+【版本与出版信息】
+出版社：识典古籍
+出版版别：在线全文；汉魏南北朝墓志集释（一、二）
+爬取日期：9.14
