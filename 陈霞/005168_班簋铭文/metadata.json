@@ -1,0 +1,48 @@
+{
+  "id": "005168",
+  "title": "班簋铭文",
+  "batch": "01",
+  "batch_label": "第一次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 1,
+  "total_characters": 255,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://zh.wikisource.org/zh-hans/%E7%8F%AD%E7%B0%8B%E9%8A%98%E6%96%87",
+  "source": "维基文库",
+  "publisher": "维基文库",
+  "edition": "西周",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.12",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《班簋铭文》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 42,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "005168_班簋铭文.epub"
+  ],
+  "original_source_filenames": {
+    "005168_班簋铭文.epub": "《班簋铭文》\\班簋銘文.epub"
+  },
+  "source_checksums": [
+    {
+      "file": "005168_班簋铭文.epub",
+      "sha256": "5d1589e0b52dee105c2b9b858ed5de53bbafa8e95dc6446b4e48988662e39e15"
+    }
+  ],
+  "local_content_status": "有正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".epub": 1
+  },
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞1"
+}

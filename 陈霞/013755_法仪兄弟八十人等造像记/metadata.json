@@ -1,0 +1,48 @@
+{
+  "id": "013755",
+  "title": "法仪兄弟八十人等造像记",
+  "batch": "01",
+  "batch_label": "第一次提交",
+  "volume_count": 0,
+  "volume_count_basis": "现有文件名可识别的不同卷号，不代表原书总卷数",
+  "text_file_count": 0,
+  "total_characters": 0,
+  "character_count_basis": "正文非空白字符数，含标点",
+  "source_url": "https://www.trueart.com/news/473111.html",
+  "source": "崇真艺客",
+  "publisher": "崇真艺客",
+  "edition": "姚华、陈师曾等题（1876-1930、1876-1923）",
+  "author": null,
+  "crawled_by": "陈霞",
+  "crawl_date": null,
+  "crawl_date_recorded": "9.14",
+  "crawl_status_recorded": "是",
+  "source_title_recorded": "《法仪兄弟八十人等造像记》",
+  "source_spreadsheet": "工作簿1_重新整理.xlsx",
+  "source_sheet": "Sheet3",
+  "source_row": 109,
+  "content_scope": "本次提供的文件范围；未据原件验收全文完整性",
+  "source_files": [
+    "013755_法仪兄弟八十人等造像记.jpg"
+  ],
+  "original_source_filenames": {
+    "013755_法仪兄弟八十人等造像记.jpg": "《法仪兄弟八十人等造像记》.jpg"
+  },
+  "source_checksums": [
+    {
+      "file": "013755_法仪兄弟八十人等造像记.jpg",
+      "sha256": "4ebda1f934d49d7f0a36cddbcea1130046e03108da029bd51f97f6826eebbbdb"
+    }
+  ],
+  "local_content_status": "已有原始资料，暂无正文TXT",
+  "review_status": "待他人审核",
+  "prepared_date": "2026-10-28",
+  "notes": [
+    "来源与版别按用户提供表格登记；未另行核验网址内容。",
+    "爬取日期原表未提供年份，未推定完整日期。"
+  ],
+  "source_formats": {
+    ".jpg": 1
+  },
+  "supplemental_source_directory": "C:\\Users\\minin\\Desktop\\卢勇项目作业\\团队沟通及激励\\资料\\陈霞1"
+}
