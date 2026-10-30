@@ -1,0 +1,9 @@
+# 佳梦轩丛著
+
+- **书名**：佳梦轩丛著
+- **来源**：读秀（超星）（https://img.sslibrary.com/n/slib/book/slib/10352305/863121cfe882476aa5c22728456c8f1b/ac07bd27d88afc6c2dc11f6a570aae02.shtml?dxbaoku=true&moocbaoku=false&deptid=1128&ext=%7B%22from%22%3A%22sslibrary%22%7D&fav=https%3A%2F%2Fwww.sslibrary.com%2Freader%2Fpdg%2Fdxpdgreader%3Fxjbk%3D47%26d%3D75d828ba67c6d378387e4e50329156ae%26enc%3D04631cad1c0fc60bace287e75bcd5b9f%26ssid%3D10352305%26did%3D1128&fenlei=22040101&logintype=2&uid=343443907&username=star_1128&view=-1&refinfo=）
+- **卷数**：0卷（文件夹当前为空，暂无txt）
+- **爬取人**：马珂
+- **爬取日期**：2026-09-14
+- **文件说明**：暂无爬取文件
+- **备注**：文件夹当前为空；民国二十四年（1935）排印本
